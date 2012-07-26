@@ -8,7 +8,7 @@ class CardSpider(BaseSpider):
    name = "cards"
    allowed_domains = ["gatherer.wizards.com"]
    start_urls = [
-       "http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"
+       "http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
    ]
 
    def parse(self, response):
@@ -33,7 +33,7 @@ class CardSpider(BaseSpider):
            #item['cardnumber'] = card.select('span[@class="cardTitle"]/a/text()').extract()
            #item['artist'] = card.select('span[@class="cardTitle"]/a/text()').extract()
            #item['rating'] = card.select('span[@class="cardTitle"]/a/text()').extract()
-           #item['link'] = card.select('span[@class="cardTitle"]/a/text()').extract()
+           item['link'] = "http://gatherer.wizards.com/" + card.select('span[@class="cardTitle"]/a/@href').extract()
            #item['uid'] = card.select('span[@class="cardTitle"]/a/text()').extract()
            items.append(item)
        for item in items:

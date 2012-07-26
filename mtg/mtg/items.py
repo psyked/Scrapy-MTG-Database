@@ -5,7 +5,17 @@
 
 from scrapy.item import Item, Field
 
-class MtgItem(Item):
-    # define the fields for your item here like:
-    # name = Field()
-    pass
+class CardItem(Item):
+    cardname = Field()
+    convertedmana = Field()
+    types = Field()
+    cardtext = Field()
+    pt = Field()
+    expansion = Field()
+    rarity = Field()
+    allsets = Field()
+    cardnumber = Field()
+    artist = Field()
+    rating = Field()
+    link = Field()
+    uid = Field()

@@ -10,6 +10,7 @@ class CardItem(Item):
     convertedmana = Field()
     types = Field()
     cardtext = Field()
+    flavortext = Field()
     pt = Field()
     expansion = Field()
     rarity = Field()
@@ -18,4 +19,5 @@ class CardItem(Item):
     artist = Field()
     rating = Field()
     link = Field()
+    image = Field()
     uid = Field()

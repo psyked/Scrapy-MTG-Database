@@ -1,0 +1,1 @@
+scrapy crawl cards -o items.json -t json

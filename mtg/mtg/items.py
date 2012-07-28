@@ -7,6 +7,7 @@ from scrapy.item import Item, Field
 
 class CardItem(Item):
     cardname = Field()
+    manacost = Field()
     convertedmana = Field()
     types = Field()
     cardtext = Field()
@@ -19,7 +20,6 @@ class CardItem(Item):
     artist = Field()
     rating = Field()
     link = Field()
-    image = Field()
     uid = Field()
     image_urls = Field()
     images = Field()

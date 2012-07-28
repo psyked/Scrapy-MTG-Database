@@ -54,6 +54,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
+        <div id="placeholder1"></div>
       </div>
 
       <!-- Example row of columns -->
@@ -109,17 +110,17 @@
          margin: 1px;
          color: white;
        }
+       .chart rect {
+         fill: steelblue;
+         stroke: white;
+       }
     </style>
     <script type="text/javascript">
     <!--
     function displayConvertedManaDistribution(parentElement, data)
     {
       var width = $(parentElement).empty().width();
-
       var height = 250;
-
-      //var width = 1050;
-      //var height = 320;
 
       var histogram = d3.layout.histogram() (data);
       console.log(histogram);
@@ -145,6 +146,41 @@
           .attr("height", function(d) { return y(d.y); });
     };
 
+    function displayChart(parentElement, data)
+    {
+      var w = $(parentElement).empty().width() / data.length;
+      var h = 250;
+      console.log(data);
+
+      var x = d3.scale.linear()
+         .domain([0, 1])
+         .range([0, w]);
+
+      var y = d3.scale.linear()
+         .domain([0, d3.max(data)])
+         .rangeRound([0, h]);
+
+      var chart = d3.select(parentElement).append("svg")
+          .attr("class", "chart")
+          .attr("width", w * data.length - 1)
+          .attr("height", h);
+
+      chart.selectAll("rect")
+          .data(data)
+          .enter().append("rect")
+          .attr("x", function(d, i) { return x(i) - .5; })
+          .attr("y", function(d) { return h - y(d) - .5; })
+          .attr("width", w)
+          .attr("height", function(d) { return y(d); });
+
+      chart.append("line")
+          .attr("x1", 0)
+          .attr("x2", w * data.length)
+          .attr("y1", h - .5)
+          .attr("y2", h - .5)
+          .style("stroke", "#000");
+    };
+
     $(document).ready(function()
     {
       $.getJSON('./mtg/items.json', function(data)
@@ -162,6 +198,7 @@
           }
 
           displayConvertedManaDistribution("#placeholder2", formattedData);
+          displayChart('#placeholder1', formattedData);
         });
     });
     -->

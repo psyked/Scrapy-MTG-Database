@@ -54,9 +54,6 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-large">Learn more »</a></p>
       </div>
 
       <!-- Example row of columns -->
@@ -102,4 +99,48 @@
     <script src="./bootstrap/js/bootstrap-collapse.js"></script>
     <script src="./bootstrap/js/bootstrap-carousel.js"></script>
     <script src="./bootstrap/js/bootstrap-typeahead.js"></script>
+    <script src="./bootstrap/js/d3.v2.min.js"></script>
+    <style type="text/css">
+       .chart div {
+         font: 10px sans-serif;
+         background-color: steelblue;
+         text-align: right;
+         padding: 3px;
+         margin: 1px;
+         color: white;
+       }
+    </style>
+    <script type="text/javascript">
+    <!--
+    function displayChart(data)
+    {
+      var x = d3.scale.linear().domain([0, d3.max(data)]).range(["0px", "1050px"]);
+
+      var chart = d3.select(".hero-unit").append("div").attr("class", "chart");
+          chart.selectAll("div").data(data).enter().append("div").style("width", x).text(function(d) { 
+            return d; 
+          });
+    };
+
+    $(document).ready(function()
+    {
+      $.getJSON('./mtg/items.json', function(data)
+        {
+          var len = data.length;
+          var formattedData = [];
+
+          for(var i = 0; i < len; i++) 
+          {
+            var parsedNumber = parseInt(data[i]["convertedmana"],10);
+            if(!isNaN(parsedNumber))
+            {
+              formattedData.push(parsedNumber);
+            }
+          }
+
+          displayChart(formattedData);
+        });
+    });
+    -->
+    </script>
 </body></html>

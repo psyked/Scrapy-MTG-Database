@@ -59,9 +59,9 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="span4">
-          <h2>Heading</h2>
-           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details »</a></p>
+          <h2>Converted Mana Cost</h2>
+          <p># of cards in set with a converted mana cost of...</p>
+          <div id="placeholder2"></div>
         </div>
         <div class="span4">
           <h2>Heading</h2>
@@ -112,14 +112,37 @@
     </style>
     <script type="text/javascript">
     <!--
-    function displayChart(data)
+    function displayConvertedManaDistribution(parentElement, data)
     {
-      var x = d3.scale.linear().domain([0, d3.max(data)]).range(["0px", "1050px"]);
+      var width = $(parentElement).empty().width();
 
-      var chart = d3.select(".hero-unit").append("div").attr("class", "chart");
-          chart.selectAll("div").data(data).enter().append("div").style("width", x).text(function(d) { 
-            return d; 
-          });
+      var height = 250;
+
+      //var width = 1050;
+      //var height = 320;
+
+      var histogram = d3.layout.histogram() (data);
+      console.log(histogram);
+       
+      var x = d3.scale.ordinal()
+          .domain(histogram.map(function(d) { return d.x; }))
+          .rangeRoundBands([0, width]);
+       
+      var y = d3.scale.linear()
+          .domain([0, d3.max(histogram.map(function(d) { return d.y; }))])
+          .range([0, height]);
+
+      var svg = d3.select(parentElement).append("svg")
+          .attr("width", width)
+          .attr("height", height);
+       
+      svg.selectAll("rect")
+          .data(histogram)
+          .enter().append("rect")
+          .attr("width", x.rangeBand())
+          .attr("x", function(d) { return x(d.x); })
+          .attr("y", function(d) { return height - y(d.y); })
+          .attr("height", function(d) { return y(d.y); });
     };
 
     $(document).ready(function()
@@ -138,7 +161,7 @@
             }
           }
 
-          displayChart(formattedData);
+          displayConvertedManaDistribution("#placeholder2", formattedData);
         });
     });
     -->

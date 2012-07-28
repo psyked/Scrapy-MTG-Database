@@ -21,3 +21,5 @@ class CardItem(Item):
     link = Field()
     image = Field()
     uid = Field()
+    image_urls = Field()
+    images = Field()

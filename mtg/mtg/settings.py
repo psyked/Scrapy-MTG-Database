@@ -12,4 +12,5 @@ BOT_VERSION = '1.0'
 SPIDER_MODULES = ['mtg.spiders']
 NEWSPIDER_MODULE = 'mtg.spiders'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
-
+ITEM_PIPELINES = ['scrapy.contrib.pipeline.images.ImagesPipeline']
+IMAGES_STORE = 'C:\Users\James\Dropbox\Scrapy-MTG-Database\mtg\images'

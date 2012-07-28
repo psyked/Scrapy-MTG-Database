@@ -32,6 +32,7 @@ class CardSpider(BaseSpider):
 		item['artist'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_artistRow"]/div[@class="value"]/text()').extract())
 		item['rating'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_playerRatingRow"]/div[@class="value"]/text()').extract())
 		item['image'] = "http://gatherer.wizards.com/Pages/Card/" + hxs.select('//img[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage"]/@src').extract()[0]
+		item['image_urls'] = ["http://gatherer.wizards.com/Pages/Card/" + hxs.select('//img[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage"]/@src').extract()[0]]
 		#item['uid'] = hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_textRow"]/div[@class="value"]/text()').extract()[0].strip()
 		yield item
 

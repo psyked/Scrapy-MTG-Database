@@ -42,7 +42,7 @@
           <div class="nav-collapse">
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
+              <li><a href="cards.htm">Cards</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -65,9 +65,9 @@
           <div id="placeholder2"></div>
         </div>
         <div class="span4">
-          <h2>Heading</h2>
-           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details »</a></p>
+          <h2>Converted Mana Cost</h2>
+          <p>Converted mana costs of individual cards</p>
+          <div id="placeholder3"></div>
        </div>
         <div class="span4">
           <h2>Heading</h2>
@@ -112,8 +112,26 @@
        }
        .chart rect {
          fill: steelblue;
-         stroke: white;
+         /*stroke: white;*/
        }
+        rect.a {
+          fill: grey;
+        }
+        rect.b {
+          fill: green;
+        }
+        rect.c {
+          fill: white;
+        }
+        rect.d {
+          fill: blue;
+        }
+        rect.e {
+          fill: red;
+        }
+        rect.f {
+          fill: black;
+        }
     </style>
     <script type="text/javascript">
     <!--
@@ -123,7 +141,6 @@
       var height = 250;
 
       var histogram = d3.layout.histogram() (data);
-      console.log(histogram);
        
       var x = d3.scale.ordinal()
           .domain(histogram.map(function(d) { return d.x; }))
@@ -150,7 +167,6 @@
     {
       var w = $(parentElement).empty().width() / data.length;
       var h = 250;
-      console.log(data);
 
       var x = d3.scale.linear()
          .domain([0, 1])
@@ -177,28 +193,233 @@
           .attr("x1", 0)
           .attr("x2", w * data.length)
           .attr("y1", h - .5)
-          .attr("y2", h - .5)
-          .style("stroke", "#000");
+          .attr("y2", h - .5);
     };
+
+    function displayStackedChart(parentElement, inputData)
+    {
+       var n = 6, // number of layers
+         m = inputData.length, // number of samples per layer
+         // d = stream_layers(n, m, .1),
+         data = d3.layout.stack()(inputData),
+         //data = d3.layout.stack()(d),
+         color = d3.interpolateRgb("#aad", "#556");
+
+         // console.log(d);
+         console.log(inputData);
+
+      var margin = 20,
+         width = $(parentElement).empty().width(),
+         height = 250 - .5 - margin,
+         mx = m,
+         my = d3.max(data, function(d) {
+           return d3.max(d, function(d) {
+             return d.y0 + d.y;
+           });
+         }),
+         mz = d3.max(data, function(d) {
+           return d3.max(d, function(d) {
+             return d.y;
+           });
+         }),
+         x = function(d) { return d.x * width / mx; },
+         y0 = function(d) { return height - d.y0 * height / my; },
+         y1 = function(d) { return height - (d.y + d.y0) * height / my; },
+          y2 = function(d) { return d.y * height / mz; }; // or `my` to not rescale
+
+      var vis = d3.select(parentElement)
+          .append("svg")
+          .attr("width", width)
+          .attr("height", height + margin);
+
+      var layers = vis.selectAll("g.layer")
+          .data(data)
+          .enter().append("g")
+          .style("fill", function(d, i) { return color(i / (n - 1)); })
+          .attr("class", "layer");
+
+      var bars = layers.selectAll("g.bar")
+          .data(function(d) { return d; })
+          .enter().append("g")
+          .attr("class", "bar")
+          // .attr("transform", function(d) { return "translate(" + x(d) + ",0)"; });
+
+      bars.append("rect")
+          .attr("width", x({x: .9}))
+          //.attr("x", 0)
+          //.attr("y", height)
+          //.attr("height", 0)
+          // .transition()
+          // .delay(function(d, i) { return i * 10; })
+          .attr("y", y1)
+          .attr("height", function(d) { return y0(d) - y1(d); });
+
+      // var labels = vis.selectAll("text.label")
+      //     .data(data[0])
+      //     .enter().append("text")
+      //     .attr("class", "label")
+      //     .attr("x", x)
+      //     .attr("y", height + 6)
+      //     .attr("dx", x({x: .45}))
+      //     .attr("dy", ".71em")
+      //     .attr("text-anchor", "middle")
+      //     .text(function(d, i) { return i; });
+
+      vis.append("line")
+          .attr("x1", 0)
+          .attr("x2", width - x({x: .1}))
+          .attr("y1", height)
+          .attr("y2", height);
+
+      // function transitionGroup() {
+      //   var group = d3.selectAll(parentElement);
+
+      //   group.select("#group")
+      //       .attr("class", "first active");
+
+      //   group.select("#stack")
+      //       .attr("class", "last");
+
+      //   group.selectAll("g.layer rect")
+      //     .transition()
+      //       .duration(500)
+      //       .delay(function(d, i) { return (i % m) * 10; })
+      //       .attr("x", function(d, i) { return x({x: .9 * ~~(i / m) / n}); })
+      //       .attr("width", x({x: .9 / n}))
+      //       .each("end", transitionEnd);
+
+      //   function transitionEnd() {
+      //     d3.select(this)
+      //       .transition()
+      //       .duration(500)
+      //       .attr("y", function(d) { return height - y2(d); })
+      //       .attr("height", y2);
+      //  }
+      }
+
+      function transitionStack() {
+       var stack = d3.select(parentElement);
+
+       // stack.select("#group")
+       //     .attr("class", "first");
+
+       // stack.select("#stack")
+       //     .attr("class", "last active");
+
+       stack.selectAll("g.layer rect")
+         //.transition()
+           //.duration(500)
+           //.delay(function(d, i) { return (i % m) * 10; })
+           .attr("y", y1)
+           .attr("height", function(d) { return y0(d) - y1(d); });
+           //.each("end", transitionEnd);
+
+       // function transitionEnd() {
+       //   d3.select(this)
+       //     .transition()
+       //       .duration(500)
+       //       .attr("x", 0)
+       //       .attr("width", x({x: .9}));
+       // }
+      // }
+    };
+
+  //   function stream_layers(n, m, o) {
+  //     if (arguments.length < 3) o = 0;
+  //     function bump(a) {
+  //       var x = 1 / (.1 + Math.random()),
+  //           y = 2 * Math.random() - .5,
+  //           z = 10 / (.1 + Math.random());
+  //       for (var i = 0; i < m; i++) {
+  //         var w = (i / m - y) * z;
+  //        a[i] += x * Math.exp(-w * w);
+  //      }
+  //    }
+  //    return d3.range(n).map(function() {
+  //        var a = [], i;
+  //       for (i = 0; i < m; i++) a[i] = o + o * Math.random();
+  //        for (i = 0; i < 5; i++) bump(a);
+  //        return a.map(stream_index);
+  //      });
+  // }
+   
+  //  /* Another layer generator using gamma distributions. */
+  //  function stream_waves(n, m) {
+  //    return d3.range(n).map(function(i) {
+  //      return d3.range(m).map(function(j) {
+  //          var x = 20 * j / m - i / 3;
+  //          return 2 * x * Math.exp(-.5 * x);
+  //        }).map(stream_index);
+  //      });
+  //  }
+
+  //  function stream_index(d, i) {
+  //    return {x: i, y: Math.max(0, d)};
+  //  }
 
     $(document).ready(function()
     {
       $.getJSON('./mtg/items.json', function(data)
         {
           var len = data.length;
-          var formattedData = [];
+          var convertedManaCosts = [];
+          var manaCosts = [];
+
+          for(var i=0;i<6;i++){
+            var rtn = [];
+            for(var j=0;j<len;j++){
+              rtn.push({
+                x:i,y:0,y0:0
+              });
+            }
+            manaCosts.push(rtn);
+          }
 
           for(var i = 0; i < len; i++) 
           {
             var parsedNumber = parseInt(data[i]["convertedmana"],10);
             if(!isNaN(parsedNumber))
             {
-              formattedData.push(parsedNumber);
+              convertedManaCosts.push(parsedNumber);
+            }
+
+            var mcost = data[i]["manacost"];
+            var len2 = mcost.length;
+            for(var j = 0; j < len2; j++)
+            {
+              var rtn = 0;//[0,0,0,0,0,0];
+              if(!isNaN(parseInt(mcost[j], 10)))
+              {
+                manaCosts[0][i].y = parseInt(mcost[j], 10);
+              } 
+              else if(mcost[j] === "Green")
+              {
+                manaCosts[1][i].y++;
+              }
+              else if(mcost[j] === "White")
+              {
+                manaCosts[2][i].y++;
+              }
+              else if(mcost[j] === "Blue")
+              {
+                manaCosts[3][i].y++;
+              }
+              else if(mcost[j] === "Red")
+              {
+                manaCosts[4][i].y++;
+              }
+              else if(mcost[j] === "Black")
+              {
+                manaCosts[5][i].y++;
+              }
+              //manaCosts.push(rtn);
             }
           }
 
-          displayConvertedManaDistribution("#placeholder2", formattedData);
-          displayChart('#placeholder1', formattedData);
+          displayConvertedManaDistribution("#placeholder2", convertedManaCosts);
+          displayChart('#placeholder3', convertedManaCosts);
+
+          displayStackedChart('#placeholder1', manaCosts);
         });
     });
     -->

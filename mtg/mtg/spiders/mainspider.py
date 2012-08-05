@@ -14,10 +14,6 @@ class CardSpider(BaseSpider):
 	allowed_domains = ["gatherer.wizards.com"]
 	start_urls = [
 		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"#,
-		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Planechase%202012%20Edition%22]",
-		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Avacyn%20Restored%22]",
-		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Dark%20Ascension%22]",
-		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Innistrad%22]",
 		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
 	]
 
@@ -31,7 +27,10 @@ class CardSpider(BaseSpider):
 		item['types'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_typeRow"]/div[@class="value"]/text()').extract())[0]
 		item['cardtext'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_textRow"]/div[@class="value"]//*/text()').extract())
 		item['flavortext'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_flavorRow"]/div[@class="value"]//*/text()').extract())
-		item['pt'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ptRow"]/div[@class="value"]/text()').extract())
+
+		if len(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ptRow"]/div[@class="value"]/text()')) > 0:
+			item['pt'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ptRow"]/div[@class="value"]/text()').extract())
+
 		item['expansion'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_currentSetSymbol"]//img/@alt').extract())[0]
 		item['rarity'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_rarityRow"]/div[@class="value"]//*/text()').extract())[0]
 		item['allsets'] = hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_otherSetsRow"]/div[@class="value"]//img/@alt').extract()

@@ -4,6 +4,8 @@ from scrapy.http.request import Request
 
 from mtg.items import CardItem
 
+import re
+
 def striplist(l):
 	return([x.strip() for x in l])
 
@@ -11,7 +13,11 @@ class CardSpider(BaseSpider):
 	name = "cards"
 	allowed_domains = ["gatherer.wizards.com"]
 	start_urls = [
-		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"
+		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"#,
+		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Planechase%202012%20Edition%22]",
+		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Avacyn%20Restored%22]",
+		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Dark%20Ascension%22]",
+		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Innistrad%22]",
 		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
 	]
 
@@ -33,7 +39,7 @@ class CardSpider(BaseSpider):
 		item['artist'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_artistRow"]/div[@class="value"]//*/text()').extract())[0]
 		item['rating'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_playerRatingRow"]//span[@class="textRatingValue"]/text()').extract())
 		item['image_urls'] = ["http://gatherer.wizards.com/Pages/Card/" + hxs.select('//img[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage"]/@src').extract()[0]]
-		#item['uid'] = hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_textRow"]/div[@class="value"]/text()').extract()[0].strip()
+
 		yield item
 
 	def parse(self, response):
@@ -50,5 +56,18 @@ class CardSpider(BaseSpider):
 			item = CardItem()
 			item['cardname'] = card.select('span[@class="cardTitle"]/a/text()').extract()
 			item['link'] = "http://gatherer.wizards.com/Pages/Search/" + card.select('span[@class="cardTitle"]/a/@href').extract()[0]
+
+			# extract the unique card ID for this card, using regular expressions.
+			ytburl = card.select('span[@class="cardTitle"]/a/@href').extract()[0] #"../Card/Details.aspx?multiverseid=265718"
+			regexp = "(?<=multiverseid=)(\\w*)" 
+
+			#It's a good idea to compile it if you're gonna use it more than once.
+			regexp = re.compile(regexp, re.IGNORECASE)
+			result = regexp.search(ytburl)
+
+			if (result):
+				item['uid'] = result.group()
+			
 			items.append(item)
+
 			yield Request(item['link'], meta={'item':item}, callback=self.getCardDetails)

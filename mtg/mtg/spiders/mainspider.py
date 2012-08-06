@@ -11,11 +11,22 @@ def striplist(l):
 
 class CardSpider(BaseSpider):
 	name = "cards"
-	allowed_domains = ["gatherer.wizards.com"]
+	allowed_domains = [
+		"gatherer.wizards.com",
+		"www.manaleak.com"
+	]
 	start_urls = [
 		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"#,
 		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
 	]
+
+	def getPricesFor(self, response):
+		hxs = HtmlXPathSelector(response)
+
+		item = response.request.meta['item']
+		item['prices'] = striplist(hxs.select('//table[@class="productListing"]//tr/td[4][@class="productListing-data"]/text()').extract())
+
+		yield item
 
 	def getCardDetails(self, response):
 		hxs = HtmlXPathSelector(response)
@@ -58,7 +69,8 @@ class CardSpider(BaseSpider):
 		if len(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ptRow"]/div[@class="value"]/text()')) > 0:
 			item['pt'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_ptRow"]/div[@class="value"]/text()').extract())
 
-		yield item
+		priceURL = "http://www.manaleak.com/store/advanced_search_result.php?keywords=" + item['cardname'] + "&exact_title=1&categories_id=21"
+		yield Request(priceURL, meta={'item':item}, callback=self.getPricesFor)
 
 	def parse(self, response):
 		hxs = HtmlXPathSelector(response)
@@ -72,7 +84,7 @@ class CardSpider(BaseSpider):
 
 		for card in cards:
 			item = CardItem()
-			item['cardname'] = card.select('span[@class="cardTitle"]/a/text()').extract()
+			item['cardname'] = card.select('span[@class="cardTitle"]/a/text()').extract()[0]
 			item['link'] = "http://gatherer.wizards.com/Pages/Search/" + card.select('span[@class="cardTitle"]/a/@href').extract()[0]
 
 			# extract the unique card ID for this card, using regular expressions.
@@ -88,4 +100,7 @@ class CardSpider(BaseSpider):
 			
 			items.append(item)
 
+			# priceURL = "http://www.manaleak.com/store/advanced_search_result.php?keywords=" + item['cardname'] + "&exact_title=1&categories_id=21"
+			# yield Request(priceURL, meta={'item':item}, callback=self.getPricesFor)
+			
 			yield Request(item['link'], meta={'item':item}, callback=self.getCardDetails)

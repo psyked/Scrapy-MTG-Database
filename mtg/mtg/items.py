@@ -23,3 +23,4 @@ class CardItem(Item):
     uid = Field()
     image_urls = Field()
     images = Field()
+    prices = Field()

@@ -16,8 +16,8 @@ class CardSpider(BaseSpider):
 		"www.manaleak.com"
 	]
 	start_urls = [
-		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"#,
-		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
+		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"
+		# "http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
 	]
 
 	def getPricesFor(self, response):
@@ -99,8 +99,5 @@ class CardSpider(BaseSpider):
 				item['uid'] = result.group()
 			
 			items.append(item)
-
-			# priceURL = "http://www.manaleak.com/store/advanced_search_result.php?keywords=" + item['cardname'] + "&exact_title=1&categories_id=21"
-			# yield Request(priceURL, meta={'item':item}, callback=self.getPricesFor)
 			
 			yield Request(item['link'], meta={'item':item}, callback=self.getCardDetails)

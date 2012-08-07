@@ -61,7 +61,7 @@
       <file leaf-file-name="index.htm" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="573" column="41" selection-start="19367" selection-end="19367" vertical-scroll-proportion="0.8174847">
+            <state line="592" column="66" selection-start="20284" selection-end="20284" vertical-scroll-proportion="0.6088957">
               <folding />
             </state>
           </provider>
@@ -76,6 +76,7 @@
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -312,7 +313,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="573" column="41" selection-start="19367" selection-end="19367" vertical-scroll-proportion="0.8174847">
+        <state line="592" column="66" selection-start="20284" selection-end="20284" vertical-scroll-proportion="0.6088957">
           <folding />
         </state>
       </provider>

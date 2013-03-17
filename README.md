@@ -8,4 +8,6 @@ If you're on Windows, you might find it tough to install all the required librar
 
 You can execute a crawl with the following command:
 
-    scrapy crawl cards -o items.json -t json
+    scrapy crawl cards -o ../output/data/items.json -t json
+
+This will go off and spider the hardcoded URLs for card data, output the results in JSON format under the `output/data/items.json` file. Images associated with the cards are saved under the images directory, with the MD5 hash of the image as the filename.

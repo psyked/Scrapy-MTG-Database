@@ -26,15 +26,12 @@
 
     <!-- Le fav and touch icons -->
     <link rel="shortcut icon" href="./bootstrap/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144"
-          href="./bootstrap/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114"
-          href="./bootstrap/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./bootstrap/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"href="./bootstrap/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./bootstrap/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="./bootstrap/ico/apple-touch-icon-57-precomposed.png">
-
+</head>
 <body>
-
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
@@ -101,12 +98,13 @@
 <script src="./bootstrap/js/bootstrap-typeahead.js"></script>
 <script src="./bootstrap/js/d3.v2.min.js"></script>
 <script src="./js/database-setup.js"></script>
+<script src="./js/jquery.indexeddb.js"></script>
 <script type="text/javascript">
     $(document).ready(function()
                       {
                           function clickHandler()
                           {
-                              $.getJSON('./mtg/mtg/items.json', onLoaded);
+                              $.getJSON('data/items.json', onLoaded);
 
                               function onLoaded(data)
                               {

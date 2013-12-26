@@ -5,12 +5,12 @@
 #
 #     http://doc.scrapy.org/topics/settings.html
 #
-
-BOT_NAME = 'mtg'
-BOT_VERSION = '1.0'
+#
+#BOT_NAME = 'mtg'
+#BOT_VERSION = '1.0'
 
 SPIDER_MODULES = ['mtg.spiders']
 NEWSPIDER_MODULE = 'mtg.spiders'
-USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
+#USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
 ITEM_PIPELINES = ['scrapy.contrib.pipeline.images.ImagesPipeline']
-IMAGES_STORE = 'C:\Users\James\Dropbox\Scrapy-MTG-Database\mtg\images'
+IMAGES_STORE = 'output/images'

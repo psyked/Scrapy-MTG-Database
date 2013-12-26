@@ -16,8 +16,8 @@ class CardSpider(BaseSpider):
 		"www.manaleak.com"
 	]
 	start_urls = [
-		"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"
-		# "http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
+		#"http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&set=+[%22Magic%202013%22]"
+		"http://gatherer.wizards.com/Pages/Search/Default.aspx?text=+[]"
 	]
 
 	def getPricesFor(self, response):
@@ -50,8 +50,8 @@ class CardSpider(BaseSpider):
 		item['rating'] = striplist(hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_playerRatingRow"]//span[@class="textRatingValue"]/text()').extract())[0]
 
 		# ../../Handlers/Image.ashx?multiverseid=214673&type=card
-		#item['image_urls'] = ["http://gatherer.wizards.com/Pages/Card/" + hxs.select('//img[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage"]/@src').extract()[0]]
-		item['image_urls'] = []
+		item['image_urls'] = ["http://gatherer.wizards.com/Pages/Card/" + hxs.select('//img[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage"]/@src').extract()[0]]
+		# item['image_urls'] = []
 
 		alternatelinks = hxs.select('//div[@id="ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_otherSetsRow"]/div[@class="value"]//a/@href').extract()
 		for varients in alternatelinks:

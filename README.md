@@ -26,4 +26,4 @@ This will go off and spider the hardcoded URLs for card data, output the results
 
 Output
 ------
-A saved copy of the output from the project is available in the `output` branch.
+A saved copy of the output from the project is available in the `output` branch and/or the `output` folder.

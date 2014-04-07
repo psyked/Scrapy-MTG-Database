@@ -1,0 +1,1011 @@
+[
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=202501&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=529&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=831&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1329&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2321&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194966&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202501&type=card"
+        ],
+        "rating": "4.641",
+        "uid": "202501",
+        "cardname": "Balance",
+        "artist": "Mark Poole",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=202501&type=card",
+                "path": "full/b0ec32855cc624e96c1b4e23d51e4ee8b6c9729a.jpg",
+                "checksum": "9fdd8cb646458556aa435ba3d6f51f30"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234&type=card",
+                "path": "full/98e80904f3e1f220065355c5ed7c6b9da5934ed7.jpg",
+                "checksum": "9fdd8cb646458556aa435ba3d6f51f30"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=529&type=card",
+                "path": "full/6b17342a05a9da706b63171af7401e315a544732.jpg",
+                "checksum": "0e263ebfbdc88c85e85af1bed91eec80"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=831&type=card",
+                "path": "full/63ad074bd0efec5cc6192e52a91544e9ed5636a8.jpg",
+                "checksum": "19cfbb8dcb2063d0dfd5d2c3b1ebf23c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1329&type=card",
+                "path": "full/6954c6925731ff7bd355b9400b0e4b12a73dc583.jpg",
+                "checksum": "e6ffd359d9255b01eb56086bdd8db311"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2321&type=card",
+                "path": "full/b270d805e56d7b3de948615b3759d8867bc700c0.jpg",
+                "checksum": "df743b2173c70c5ba8845e5c571f087b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194966&type=card",
+                "path": "full/f303426bfc8850e5f39028e8e43554189fc5980c.jpg",
+                "checksum": "88c5b6240264e373c2d849a9bb5c3741"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202501&type=card",
+                "path": "full/aba484a4b34b78e35785dc5bb228097e295ed5ce.jpg",
+                "checksum": "9fdd8cb646458556aa435ba3d6f51f30"
+            }
+        ],
+        "cardnumber": "6",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=202501",
+        "expansion": "Masters Edition IV (Rare)",
+        "cardtext": [
+            "Each player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
+        ],
+        "prices": [
+            "£2.45p",
+            "£2.45p"
+        ],
+        "manacost": [
+            "1",
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Limited Edition Alpha (Rare)",
+            "Limited Edition Beta (Rare)",
+            "Unlimited Edition (Rare)",
+            "Revised Edition (Rare)",
+            "Fourth Edition (Rare)",
+            "From the Vault: Exiled (Mythic Rare)",
+            "Masters Edition IV (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194969&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=436&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=738&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159254&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194969&type=card"
+        ],
+        "rating": "4.581",
+        "uid": "194969",
+        "cardname": "Berserk",
+        "artist": "Steve Prescott",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194969&type=card",
+                "path": "full/e831fa44f2241f0e4230304f0e9de16b627f94c9.jpg",
+                "checksum": "5276fa487cf24242bd7b2af8118b2677"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=141&type=card",
+                "path": "full/3afb670240592931c7a041fe80775335864dedb5.jpg",
+                "checksum": "9e20bbf227bfbcbc6ee658cd328b8225"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=436&type=card",
+                "path": "full/ade707d5dc9b7c0e59cea7ce1fde4a93c38193ab.jpg",
+                "checksum": "180a352b4d5ea3ff2043ca2d40c18b8d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=738&type=card",
+                "path": "full/027f4d41a194a866f1e9100ba42f5f29d26a65a5.jpg",
+                "checksum": "6509fcc46cd8fc45aca5c813eec0d8e2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159254&type=card",
+                "path": "full/b24801d455cababd4d5a973fb124d620bfdfa4a6.jpg",
+                "checksum": "76ce208b208217294801da8d47957a37"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194969&type=card",
+                "path": "full/b65c21832ed1024fe49a11894dfc1abfc78a6c60.jpg",
+                "checksum": "5276fa487cf24242bd7b2af8118b2677"
+            }
+        ],
+        "cardnumber": "2",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194969",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            "Cast Berserk only before the combat damage step.",
+            "Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn."
+        ],
+        "prices": [],
+        "manacost": [
+            "Green"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Limited Edition Alpha (Uncommon)",
+            "Limited Edition Beta (Uncommon)",
+            "Unlimited Edition (Uncommon)",
+            "Masters Edition (Rare)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=202596&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=741&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1237&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2203&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194967&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202596&type=card"
+        ],
+        "rating": "4.533",
+        "uid": "202596",
+        "cardname": "Channel",
+        "artist": "Richard Thomas",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=202596&type=card",
+                "path": "full/05135e3008e416e751e9a36eb5f9ed0128409324.jpg",
+                "checksum": "32e3b7056fc0073b4f9c37348b078bd6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=144&type=card",
+                "path": "full/4edf80a1b48053dbf77adac228686f1e50c79cea.jpg",
+                "checksum": "32e3b7056fc0073b4f9c37348b078bd6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=439&type=card",
+                "path": "full/e812d50e9a6b3fc6c8b92c5bbc12796fb1c53131.jpg",
+                "checksum": "e77de82253b1638191e278dd2054d0df"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=741&type=card",
+                "path": "full/bd287ab623c69de277e7650731a2285155580c4c.jpg",
+                "checksum": "32f3d1d536c81da9aa6b9a850f2be5fb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1237&type=card",
+                "path": "full/a8694ca3b3846d4a1f262a0453a7c28378a09dba.jpg",
+                "checksum": "8b73ad0cbc740070e47f0135058cf360"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2203&type=card",
+                "path": "full/0d7c808e061835a432947a51255b124799e68159.jpg",
+                "checksum": "c8c2a9c269a563a1adeb39150d44f5cc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194967&type=card",
+                "path": "full/22990f6503e0e00cb937ab11a510fa64e39a25ae.jpg",
+                "checksum": "20924b832c810f2ccb73d5d1b1ae8f00"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202596&type=card",
+                "path": "full/e670943f02206b79ea521059ac00366b1badc81f.jpg",
+                "checksum": "32e3b7056fc0073b4f9c37348b078bd6"
+            }
+        ],
+        "cardnumber": "145",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=202596",
+        "expansion": "Masters Edition IV (Rare)",
+        "cardtext": [
+            "Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.45p"
+        ],
+        "manacost": [
+            "Green",
+            "Green"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Limited Edition Alpha (Uncommon)",
+            "Limited Edition Beta (Uncommon)",
+            "Unlimited Edition (Uncommon)",
+            "Revised Edition (Uncommon)",
+            "Fourth Edition (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)",
+            "Masters Edition IV (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370368&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=79090&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194971&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370368&type=card"
+        ],
+        "rating": "4.570",
+        "uid": "370368",
+        "cardname": "Gifts Ungiven",
+        "artist": "D. Alexander Gregory",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370368&type=card",
+                "path": "full/6aba4bc93e3ccf764b682ba83660a712c0c01017.jpg",
+                "checksum": "3c083bc1fb5973ac5320cdf6ed84bd26"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=79090&type=card",
+                "path": "full/ac083783c247bc0c3329a79536a2d10b4c9754e7.jpg",
+                "checksum": "3da1ac585bdbc58922e8ce202894379b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194971&type=card",
+                "path": "full/b59f94ee4f32be0b30b98ffccaa0ab923fd45f6b.jpg",
+                "checksum": "325cefa07e6e8504218ef2ad6ad2788e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370368&type=card",
+                "path": "full/8cdcc810cce5756f640640a5d2ce14c8f111e26b.jpg",
+                "checksum": "3c083bc1fb5973ac5320cdf6ed84bd26"
+            }
+        ],
+        "cardnumber": "46",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370368",
+        "expansion": "Modern Masters (Rare)",
+        "cardtext": [
+            "Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library."
+        ],
+        "prices": [
+            "£3.49p",
+            "£9.99p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Champions of Kamigawa (Rare)",
+            "From the Vault: Exiled (Mythic Rare)",
+            "Modern Masters (Rare)"
+        ]
+    },
+    {
+        "rating": "4.592",
+        "uid": "194973",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Goblin Lackey",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Christopher Moeller",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194973&type=card",
+                "path": "full/320957167a3a44bf38ebb784f742407c5f37d021.jpg",
+                "checksum": "12462e5cfbb4fd123cbc2123382bc7a7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=9851&type=card",
+                "path": "full/d1352ddd68a538d14f8ac7e8b92ecafda44910ea.jpg",
+                "checksum": "5aa310257f76970aa4eea9703c8a9b36"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194973&type=card",
+                "path": "full/e774c3e9ac4c19be95caa8f0a7c456fe55cc2022.jpg",
+                "checksum": "12462e5cfbb4fd123cbc2123382bc7a7"
+            }
+        ],
+        "cardnumber": "5",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194973",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194973&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=9851&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194973&type=card"
+        ],
+        "cardtext": [
+            "Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield."
+        ],
+        "prices": [
+            "£8.99p"
+        ],
+        "manacost": [
+            "Red"
+        ],
+        "flavortext": [
+            "At the first sign of enemy scouts, Jula grinned and strapped on his diplomacy helmet."
+        ],
+        "types": "Creature  — Goblin",
+        "allsets": [
+            "Urza's Saga (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.491",
+        "uid": "249382",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Kird Ape",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Terese Nielsen",
+        "expansion": "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249382&type=card",
+                "path": "full/cb72b32b6b791ddfa5ea986bfd52364d57a65c2d.jpg",
+                "checksum": "df41ad39c3c548dce1e437016668c87f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1302&type=card",
+                "path": "full/03a782059b6010b12301b6297bdeb21d96db6715.jpg",
+                "checksum": "27d1b948fbc447ab512414f723265fdf"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83346&type=card",
+                "path": "full/8decfc24769ed3019a52e9e51fe2858e16ba691e.jpg",
+                "checksum": "f9aca9ab653a3b83b35f3bc22e9ad5d8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=962&type=card",
+                "path": "full/6a86937dfa689aed1f8097ed64d0c086bebf2d01.jpg",
+                "checksum": "6acf3f8056136876edbd16b7a792df24"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26605&type=card",
+                "path": "full/dfd299db139a3e2aa642dc73989ef761d051f3d7.jpg",
+                "checksum": "becce4e4f00e96c059bfac7027ae5aed"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249382&type=card",
+                "path": "full/4395457a30b594493e738363310f49946d0f895e.jpg",
+                "checksum": "df41ad39c3c548dce1e437016668c87f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194974&type=card",
+                "path": "full/b97699e8c9e57eb1067dbb5428c6bfca3b3b76ec.jpg",
+                "checksum": "0bbdbbd50256278eaecf8b7bd96c2fce"
+            }
+        ],
+        "cardnumber": "2",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=249382",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249382&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1302&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83346&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=962&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26605&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249382&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194974&type=card"
+        ],
+        "cardtext": [
+            "Kird Ape gets +1/+2 as long as you control a Forest."
+        ],
+        "prices": [
+            "£1.49p",
+            "£4.95p",
+            "£0.99p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "Red"
+        ],
+        "flavortext": [
+            "Apes can be gentle, contemplative beasts—but context is everything."
+        ],
+        "types": "Creature  — Ape",
+        "allsets": [
+            "Revised Edition (Common)",
+            "Ninth Edition (Uncommon)",
+            "Arabian Nights (Common)",
+            "Beatdown Box Set (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194975&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4614&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194975&type=card"
+        ],
+        "rating": "4.618",
+        "uid": "194975",
+        "cardname": "Lotus Petal",
+        "artist": "April Lee",
+        "convertedmana": [
+            "0"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194975&type=card",
+                "path": "full/68abb13b7a7496c10cb9ee5cc83cf9045b501b23.jpg",
+                "checksum": "e94209ba7c924c7478b757a6921715ad"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4614&type=card",
+                "path": "full/a6187c6572560e91e6336d0e14a314a4551e9c16.jpg",
+                "checksum": "6aca0587408f93abed2dfb3f438a7873"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194975&type=card",
+                "path": "full/4cd6bb32f2740b3e0f8682a6e27997daf9d4e8c0.jpg",
+                "checksum": "e94209ba7c924c7478b757a6921715ad"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194975",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            ", Sacrifice Lotus Petal: Add one mana of any color to your mana pool."
+        ],
+        "prices": [
+            "£3.99p"
+        ],
+        "manacost": [
+            "0"
+        ],
+        "flavortext": [
+            "\"Hard to imagine,\" mused Hanna, stroking the petal, \"such a lovely flower inspiring such greed.\""
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Tempest (Common)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194976&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15367&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3351&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194976&type=card"
+        ],
+        "rating": "4.638",
+        "uid": "194976",
+        "cardname": "Mystical Tutor",
+        "artist": "David O'Connor",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194976&type=card",
+                "path": "full/169251e5777b84c9d2ff9766285a182835b4543f.jpg",
+                "checksum": "dddc8e55f273a0d351ad73b39e03ac44"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15367&type=card",
+                "path": "full/bb21c5e051110d02628b522f753ee28909d69919.jpg",
+                "checksum": "46b73a19545b4b2df5117784f6823260"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3351&type=card",
+                "path": "full/fdd260d771082634e753d9264b73799334651378.jpg",
+                "checksum": "684ec1bc3c0f8d063cd2992c046d0991"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194976&type=card",
+                "path": "full/f6d58215c75078aa5b839f56f8789a1c6968777a.jpg",
+                "checksum": "dddc8e55f273a0d351ad73b39e03ac44"
+            }
+        ],
+        "cardnumber": "8",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194976",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
+        ],
+        "prices": [
+            "£6.99p",
+            "£4.99p"
+        ],
+        "manacost": [
+            "Blue"
+        ],
+        "flavortext": [
+            "The student searches the world for meaning. The master finds worlds of meaning in the search."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Classic Sixth Edition (Uncommon)",
+            "Mirage (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194977&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3865&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2478&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194977&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184651&type=card"
+        ],
+        "rating": "4.669",
+        "uid": "194977",
+        "cardname": "Necropotence",
+        "artist": "Dave Kendall",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194977&type=card",
+                "path": "full/18b0e77b1c90ed409226bf25f739f3f1f8ae4f48.jpg",
+                "checksum": "49ddf55b9ce35d85fb4ddc2170cfef98"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3865&type=card",
+                "path": "full/ad9837a0e0fbd6ab7625bcc0aadde603c960de5c.jpg",
+                "checksum": "86fdf701eb9e6e47ada250e451cc783d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2478&type=card",
+                "path": "full/14f56207c1496fe043f2b30a4ff6610b78e69eb2.jpg",
+                "checksum": "97356863e67052f491ccf5eb80f69396"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194977&type=card",
+                "path": "full/9ba591ca72984446b7c02145a84eba66cc48d577.jpg",
+                "checksum": "49ddf55b9ce35d85fb4ddc2170cfef98"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184651&type=card",
+                "path": "full/cb10830b9747945766e4f7ead5fe28b067e57199.jpg",
+                "checksum": "97356863e67052f491ccf5eb80f69396"
+            }
+        ],
+        "cardnumber": "9",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194977",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            "Skip your draw step.",
+            "Whenever you discard a card, exile that card from your graveyard.",
+            "Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step."
+        ],
+        "prices": [
+            "£4.99p",
+            "£4.99p"
+        ],
+        "manacost": [
+            "Black",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Enchantment",
+        "allsets": [
+            "Fifth Edition (Rare)",
+            "Ice Age (Rare)",
+            "From the Vault: Exiled (Mythic Rare)",
+            "Masters Edition II (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194972&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=50400&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194972&type=card"
+        ],
+        "rating": "4.653",
+        "uid": "194972",
+        "cardname": "Sensei's Divining Top",
+        "artist": "Michael Sutfin",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194972&type=card",
+                "path": "full/78d1f04aea692563c5947efdec5bd906a46fa4bb.jpg",
+                "checksum": "a2040fb84179fc321f3596dafe1584ae"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=50400&type=card",
+                "path": "full/2d3fc9ab4f996a27f8d3460acd3a0ebdacbfc5e9.jpg",
+                "checksum": "208593ba0e82dc7a51dc7f076664a55a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194972&type=card",
+                "path": "full/f761a6d5f0e30387ee79ac86ea09a55b6e6a50de.jpg",
+                "checksum": "a2040fb84179fc321f3596dafe1584ae"
+            }
+        ],
+        "cardnumber": "10",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194972",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            ": Look at the top three cards of your library, then put them back in any order.",
+            ": Draw a card, then put Sensei's Divining Top on top of its owner's library."
+        ],
+        "prices": [
+            "£17.99p"
+        ],
+        "manacost": [
+            "1"
+        ],
+        "flavortext": [],
+        "types": "Artifact",
+        "allsets": [
+            "Champions of Kamigawa (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.417",
+        "uid": "194970",
+        "pt": [
+            "3 / 4"
+        ],
+        "cardname": "Serendib Efreet",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Matt Stewart",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194970&type=card",
+                "path": "full/d41ac65f839efd715b1cb8ecdfd7dc85b3d663ad.jpg",
+                "checksum": "fd1cde48d4e0da1b6b6f2129d74381d8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1221&type=card",
+                "path": "full/de8fe7c34c14758c7ab5287b1192fa057046687f.jpg",
+                "checksum": "6298bb166e6aa85a88eac1776adeaef7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=939&type=card",
+                "path": "full/90281ab0bc128bed7860abb11b5e6823eef17e41.jpg",
+                "checksum": "cb62a31251611d443fc51215796a75f2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159137&type=card",
+                "path": "full/21369729a40a51b4a9ed1248535528216e0f59c9.jpg",
+                "checksum": "cb62a31251611d443fc51215796a75f2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194970&type=card",
+                "path": "full/84fb299c6ed53a9d1f07c47ffd7d29aed9de0eba.jpg",
+                "checksum": "fd1cde48d4e0da1b6b6f2129d74381d8"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194970",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194970&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1221&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=939&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159137&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194970&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "At the beginning of your upkeep, Serendib Efreet deals 1 damage to you."
+        ],
+        "prices": [
+            "£3.95p",
+            "£34.95p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "Summoners of efreeti remember only the power of command, never the sting of regret."
+        ],
+        "types": "Creature  — Efreet",
+        "allsets": [
+            "Revised Edition (Rare)",
+            "Arabian Nights (Rare)",
+            "Masters Edition (Rare)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247201&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48197&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247201&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194978&type=card"
+        ],
+        "rating": "4.481",
+        "uid": "247201",
+        "cardname": "Skullclamp",
+        "artist": "Luca Zontini",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247201&type=card",
+                "path": "full/61f90f56299b733a66c4188df0579c493db9a9bc.jpg",
+                "checksum": "fa569824deadfe6bb702b8eed70d2eb9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48197&type=card",
+                "path": "full/510a856fe100cdd257e9a13338515710edc07b06.jpg",
+                "checksum": "a2542e201b1732c3f1d5057ef0b1534b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247201&type=card",
+                "path": "full/d2ae5c07fbb7e1dbf4cf53c062b1f5556e2604c2.jpg",
+                "checksum": "fa569824deadfe6bb702b8eed70d2eb9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194978&type=card",
+                "path": "full/26afaa2f68aa8bc26424a41544198057ad764e0f.jpg",
+                "checksum": "ed557ac5138e7f580fb401583403d91d"
+            }
+        ],
+        "cardnumber": "260",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247201",
+        "expansion": "Magic: The Gathering-Commander (Uncommon)",
+        "cardtext": [
+            "Equipped creature gets +1/-1.",
+            "Whenever equipped creature dies, draw two cards.",
+            "Equip"
+        ],
+        "prices": [
+            "£3.99p",
+            "£3.49p"
+        ],
+        "manacost": [
+            "1"
+        ],
+        "flavortext": [
+            "The mind is a beautiful bounty encased in an annoying bone container."
+        ],
+        "types": "Artifact  — Equipment",
+        "allsets": [
+            "Darksteel (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=202433&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2380&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1077&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1076&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1078&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1079&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194968&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202433&type=card"
+        ],
+        "rating": "4.617",
+        "uid": "202433",
+        "cardname": "Strip Mine",
+        "artist": "Daniel Gelon",
+        "convertedmana": [],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=202433&type=card",
+                "path": "full/759d5d12d7eb1abe8ea47fb2921955d2bf4657a1.jpg",
+                "checksum": "c33f51aa8af1156645de6c00f9d69bfc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2380&type=card",
+                "path": "full/e485247e545e0cef1427d9c10867e8d428345c64.jpg",
+                "checksum": "6495ed1bca7d2f09092c938a18237c00"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1077&type=card",
+                "path": "full/f8a17a059b7efed779564e7999d21018304f53a8.jpg",
+                "checksum": "4a49dec8ea4d52e9104570012ecb083e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1076&type=card",
+                "path": "full/67f4cdc9a910a413d10817bad821af613b0dbcd7.jpg",
+                "checksum": "c33f51aa8af1156645de6c00f9d69bfc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1078&type=card",
+                "path": "full/5d1ad9b95b87a77f1dd2e40e6b0ae271d2c99df9.jpg",
+                "checksum": "6cd49a8a12d36bb19f1936756db9fbfc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1079&type=card",
+                "path": "full/ad99bebe7e90148aeea8aef42657a9b40fec86cf.jpg",
+                "checksum": "a38c6d9264d9f9304f54192731a00a98"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194968&type=card",
+                "path": "full/cd97a425c2d5980fb89cc4f13960eb00c272b59b.jpg",
+                "checksum": "8470f82031027867615d92a2301f79e0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202433&type=card",
+                "path": "full/9b1ddd100c10e770c7b996f42fc745d101c1012c.jpg",
+                "checksum": "c33f51aa8af1156645de6c00f9d69bfc"
+            }
+        ],
+        "cardnumber": "252",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=202433",
+        "expansion": "Masters Edition IV (Rare)",
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            ", Sacrifice Strip Mine: Destroy target land."
+        ],
+        "prices": [
+            "£15.99p",
+            "£15.99p",
+            "£15.99p",
+            "£3.99p",
+            "£15.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Fourth Edition (Uncommon)",
+            "Antiquities (Rare)",
+            "Antiquities (Rare)",
+            "Antiquities (Rare)",
+            "Antiquities (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)",
+            "Masters Edition IV (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194980&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=12383&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194980&type=card"
+        ],
+        "rating": "4.643",
+        "uid": "194980",
+        "cardname": "Tinker",
+        "artist": "Chris Rahn",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194980&type=card",
+                "path": "full/10f679b4e8dbd28c94e2d408fbfb625af6c77c1e.jpg",
+                "checksum": "61aa061d7fd457adfdede21013f4774d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=12383&type=card",
+                "path": "full/4f201cdbc00c4fb307267312d6b380ecec6099c9.jpg",
+                "checksum": "945f2ca61763634652f7caef88453974"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194980&type=card",
+                "path": "full/81020f6a350d8b33797fa5519bc77338b9ebcfc5.jpg",
+                "checksum": "61aa061d7fd457adfdede21013f4774d"
+            }
+        ],
+        "cardnumber": "14",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194980",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            "As an additional cost to cast Tinker, sacrifice an artifact.",
+            "Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library."
+        ],
+        "prices": [
+            "£4.95p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"What separates us from mere beasts is the capacity for self-improvement.\""
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Urza's Legacy (Uncommon)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194979&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43545&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194979&type=card"
+        ],
+        "rating": "4.573",
+        "uid": "194979",
+        "cardname": "Trinisphere",
+        "artist": "Tim Hildebrandt",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=194979&type=card",
+                "path": "full/7f5c2a8e746e1262f6434ad258f4eb86a44e0f21.jpg",
+                "checksum": "b9591eb8455ad9365db7b3d3a611a08e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43545&type=card",
+                "path": "full/594f2b1c27f156dc4e024c459d5e3d7492fa2e93.jpg",
+                "checksum": "9249e6df8a86fc2a433f0461f0d459cb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194979&type=card",
+                "path": "full/a8445fa440e02308045c274f0aa37ede4b6ab00b.jpg",
+                "checksum": "b9591eb8455ad9365db7b3d3a611a08e"
+            }
+        ],
+        "cardnumber": "15",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=194979",
+        "expansion": "From the Vault: Exiled (Mythic Rare)",
+        "cardtext": [
+            "As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast.",
+            "(Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost",
+            "to cast costs",
+            "to cast instead.)"
+        ],
+        "prices": [
+            "£2.99p"
+        ],
+        "manacost": [
+            "3"
+        ],
+        "flavortext": [
+            "Designed to restrain petty thoughts, but used to repress entire empires."
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Darksteel (Rare)",
+            "From the Vault: Exiled (Mythic Rare)"
+        ]
+    }
+]

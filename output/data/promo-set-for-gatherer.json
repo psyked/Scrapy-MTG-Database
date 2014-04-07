@@ -1,0 +1,1374 @@
+[
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=109739&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=109739&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97042&type=card"
+        ],
+        "rating": "3.694",
+        "uid": "109739",
+        "cardname": "Arena",
+        "artist": "Rob Alexander",
+        "convertedmana": [],
+        "rarity": "Special",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=109739&type=card",
+                "path": "full/da216f8b511e0d7f35949573127eee068e42bec2.jpg",
+                "checksum": "b19651d7cb7c8316eb0f0a8ba4fc5324"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=109739&type=card",
+                "path": "full/7f58aeadd162c31b9f9361ed60d471d55745bb22.jpg",
+                "checksum": "b19651d7cb7c8316eb0f0a8ba4fc5324"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97042&type=card",
+                "path": "full/d9ef6689ec1e50a27172f94f9fa02e5ed14433ae.jpg",
+                "checksum": "4df5cc6c9d5489add883440634b12105"
+            }
+        ],
+        "cardnumber": "117",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=109739",
+        "expansion": "Time Spiral \"Timeshifted\" (Special)",
+        "cardtext": [
+            ",",
+            ": Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other.",
+            "(Each deals damage equal to its power to the other.)"
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Time Spiral \"Timeshifted\" (Special)",
+            "Promo set for Gatherer (Special)"
+        ]
+    },
+    {
+        "rating": "3.796",
+        "uid": "46617",
+        "pt": [
+            "4 / 9"
+        ],
+        "cardname": "Avatar of Hope",
+        "convertedmana": [
+            "8"
+        ],
+        "artist": "Mark Zug",
+        "expansion": "Eighth Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=46617&type=card",
+                "path": "full/0ade5484a4b11aeb843a841989aab53f13db9865.jpg",
+                "checksum": "e76691dbee8fc4f401494deab6ddf154"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=46617&type=card",
+                "path": "full/d281f60d80dee7b867ed3507985f3826a303ceac.jpg",
+                "checksum": "e76691dbee8fc4f401494deab6ddf154"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=24564&type=card",
+                "path": "full/c90ce3c5bad512749a4f774fd7f4fd85fd010f97.jpg",
+                "checksum": "b1b610bbab8ba7f5b42fa8dc6939f015"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97060&type=card",
+                "path": "full/fa2061a5ed13ac5c39366d7972e8d740f682a24f.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "4",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=46617",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=46617&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=46617&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=24564&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97060&type=card"
+        ],
+        "cardtext": [
+            "If you have 3 or less life, Avatar of Hope costs",
+            "less to cast.",
+            "Flying",
+            "Avatar of Hope can block any number of creatures."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "6",
+            "White",
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Avatar",
+        "allsets": [
+            "Eighth Edition (Rare)",
+            "Prophecy (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.544",
+        "uid": "83002",
+        "pt": [
+            "* / *"
+        ],
+        "cardname": "Beast of Burden",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Chippy",
+        "expansion": "Ninth Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=83002&type=card",
+                "path": "full/c4bcdbe8d6e16b42ee8adad12613ec9962afe609.jpg",
+                "checksum": "42b1e474a3f16a801334899d720dcaf1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15861&type=card",
+                "path": "full/00acd0721814f30fe756310b597b9c13450f8984.jpg",
+                "checksum": "278e83b5b20966ce9c85bf815e299457"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45488&type=card",
+                "path": "full/7c46538a61a92e0d1e3b267294ba19820c9cd479.jpg",
+                "checksum": "9b6739315ca94d6e692a7646002c228a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83002&type=card",
+                "path": "full/1e429285350faad6eb0d9cb76d856183126d1909.jpg",
+                "checksum": "42b1e474a3f16a801334899d720dcaf1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=12504&type=card",
+                "path": "full/2c641a7c65a8814b23358aebe9ebe0a0b5eb7181.jpg",
+                "checksum": "63092b79228dc838b1201b8eba373ee3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97058&type=card",
+                "path": "full/1708004ea18f4458e3333f3bff586b1ca10ba42e.jpg",
+                "checksum": "5b51bb36b4ba5f5c4ea4f386ed505d29"
+            }
+        ],
+        "cardnumber": "288",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=83002",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=83002&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15861&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45488&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83002&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=12504&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97058&type=card"
+        ],
+        "cardtext": [
+            "Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield."
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "£0.49p",
+            "£0.48p",
+            "£0.95p"
+        ],
+        "manacost": [
+            "6"
+        ],
+        "flavortext": [
+            "Though it was built as an instrument of labor, it wasn't long before it became an instrument of war."
+        ],
+        "types": "Artifact Creature  — Golem",
+        "allsets": [
+            "Seventh Edition (Rare)",
+            "Eighth Edition (Rare)",
+            "Ninth Edition (Rare)",
+            "Urza's Legacy (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "4.291",
+        "uid": "247523",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "False Prophet",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Eric Peterson",
+        "expansion": "Magic: The Gathering-Commander (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247523&type=card",
+                "path": "full/fbf060ca4125ed237435ba44f262f650007e578a.jpg",
+                "checksum": "82aa95986d4329426ff3cdd5e28c7654"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15765&type=card",
+                "path": "full/d906ecbec24e4303ba57a761183ac301df9a3801.jpg",
+                "checksum": "685980b3981b63fd3de465f4f57dc693"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97044&type=card",
+                "path": "full/72518ff1b7251fc2e8611d2b2e2657bcfdbcac17.jpg",
+                "checksum": "dbd9b01d5bc9ca1925599bb599fce5e5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247523&type=card",
+                "path": "full/c8c1d034c355b96a99dca3654cccbd2fc63e6efc.jpg",
+                "checksum": "82aa95986d4329426ff3cdd5e28c7654"
+            }
+        ],
+        "cardnumber": "13",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247523",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247523&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15765&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97044&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247523&type=card"
+        ],
+        "cardtext": [
+            "When False Prophet dies, exile all creatures."
+        ],
+        "prices": [
+            "£0.49p",
+            "£1.49p"
+        ],
+        "manacost": [
+            "2",
+            "White",
+            "White"
+        ],
+        "flavortext": [
+            "\"You lived for Serra's love. Will you not die for it?\""
+        ],
+        "types": "Creature  — Human Cleric",
+        "allsets": [
+            "Urza's Destiny (Rare)",
+            "Promo set for Gatherer (Rare)",
+            "Magic: The Gathering-Commander (Rare)"
+        ]
+    },
+    {
+        "rating": "3.955",
+        "uid": "34263",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Feral Throwback",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Carl Critchlow",
+        "expansion": "Legions (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=34263&type=card",
+                "path": "full/b56b54b001d735f94f53e6e35458c6ab9ead87dd.jpg",
+                "checksum": "929a5d31792db34061eceebcb2597d10"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34263&type=card",
+                "path": "full/290240be7b0b05f38ae71c4ebac4672335ab96a0.jpg",
+                "checksum": "929a5d31792db34061eceebcb2597d10"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97066&type=card",
+                "path": "full/2caffb121420eda5d55ed58c49bba5c01b90b61d.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "126",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=34263",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=34263&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34263&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97066&type=card"
+        ],
+        "cardtext": [
+            "Amplify 2",
+            "(As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)",
+            "Provoke",
+            "(When this attacks, you may have target creature defending player controls untap and block it if able.)"
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "4",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Beast",
+        "allsets": [
+            "Legions (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "4.158",
+        "uid": "26743",
+        "pt": [
+            "6 / 4"
+        ],
+        "cardname": "Fungal Shambler",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Jim Nelson",
+        "expansion": "Apocalypse (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=26743&type=card",
+                "path": "full/f894c101aae4f407b0c138743c8ee299c06e30c9.jpg",
+                "checksum": "b6e9a9e360936ce9b3937f75a0cfc69f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26743&type=card",
+                "path": "full/d539f9a3ae0cfea9e103a40d260d0536345cb279.jpg",
+                "checksum": "b6e9a9e360936ce9b3937f75a0cfc69f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97062&type=card",
+                "path": "full/a6e632a88e1ab1ea54a15a34b47c489b8b02e2af.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "100",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=26743",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=26743&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26743&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97062&type=card"
+        ],
+        "cardtext": [
+            "Trample",
+            "Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card."
+        ],
+        "prices": [
+            "£0.47p"
+        ],
+        "manacost": [
+            "4",
+            "Green",
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Fungus Beast",
+        "allsets": [
+            "Apocalypse (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.317",
+        "uid": "45425",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Giant Badger",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Lars Grant-West",
+        "expansion": "Eighth Edition (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=45425&type=card",
+                "path": "full/24f89bf6ed586d40c037e9006eb1923731c19d22.jpg",
+                "checksum": "2c5be04ab236237d8fcb842460be6325"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45425&type=card",
+                "path": "full/6de9fd8c4a6a4744060601c7fd2f50c00bed73e6.jpg",
+                "checksum": "2c5be04ab236237d8fcb842460be6325"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97045&type=card",
+                "path": "full/8ef5d65ef24183175eb33b501ac9565e79875225.jpg",
+                "checksum": "4f9bdf01d184ce7fcac4489205e7cfdb"
+            }
+        ],
+        "cardnumber": "253",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=45425",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=45425&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45425&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97045&type=card"
+        ],
+        "cardtext": [
+            "Whenever Giant Badger blocks, it gets +2/+2 until end of turn."
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "1",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [
+            "Disturb a sleeping badger and the snapping of your bones will awaken the countryside."
+        ],
+        "types": "Creature  — Badger",
+        "allsets": [
+            "Eighth Edition (Common)",
+            "Promo set for Gatherer (Special)"
+        ]
+    },
+    {
+        "rating": "4.482",
+        "uid": "34822",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Glory",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Donato Giancola",
+        "expansion": "Judgment (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=34822&type=card",
+                "path": "full/0fbfab5a69fb6e528196ef5d49a459f22e80429c.jpg",
+                "checksum": "30fea4c784137e3d652d09ffbd8c7729"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34822&type=card",
+                "path": "full/99aeeb41e270e404fd1b6e5d8f90b150b972032d.jpg",
+                "checksum": "30fea4c784137e3d652d09ffbd8c7729"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97064&type=card",
+                "path": "full/157c507f0d42499c266ce543ccd9418e398b576d.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=34822",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=34822&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34822&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97064&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard."
+        ],
+        "prices": [
+            "£1.49p"
+        ],
+        "manacost": [
+            "3",
+            "White",
+            "White"
+        ],
+        "flavortext": [
+            "\"Glory was gone; Glory was everywhere.\"",
+            "—Scroll of Beginnings"
+        ],
+        "types": "Creature  — Incarnation",
+        "allsets": [
+            "Judgment (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=47449&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=47449&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97046&type=card"
+        ],
+        "rating": "4.019",
+        "uid": "47449",
+        "cardname": "Helm of Kaldra",
+        "artist": "Donato Giancola",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=47449&type=card",
+                "path": "full/484c0aacf085e9a6c04343eb8f5e26d365ee61d2.jpg",
+                "checksum": "c68e6d810e01ed0457fafa02ab64065c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=47449&type=card",
+                "path": "full/46b7d56bd84fdc6d76471fae94c76fd5b1e7175b.jpg",
+                "checksum": "c68e6d810e01ed0457fafa02ab64065c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97046&type=card",
+                "path": "full/ca8a27300604b702fd8e270fb12c677e8839d4d1.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "131",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=47449",
+        "expansion": "Fifth Dawn (Rare)",
+        "cardtext": [
+            "Equipped creature has first strike, trample, and haste.",
+            ": If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.",
+            "Equip"
+        ],
+        "prices": [
+            "£3.99p"
+        ],
+        "manacost": [
+            "3"
+        ],
+        "flavortext": [],
+        "types": "Legendary Artifact  — Equipment",
+        "allsets": [
+            "Fifth Dawn (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "4.417",
+        "uid": "31869",
+        "pt": [
+            "6 / 3"
+        ],
+        "cardname": "Laquatus's Champion",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Greg Staples",
+        "expansion": "Torment (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=31869&type=card",
+                "path": "full/d87fbce466b2d30a903791c1d400d6395b47eec7.jpg",
+                "checksum": "0e68bc139971fbb3a0e9e4c8b4a91638"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31869&type=card",
+                "path": "full/b3f9a0014779fa861809a10ebc0c763769146002.jpg",
+                "checksum": "0e68bc139971fbb3a0e9e4c8b4a91638"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97063&type=card",
+                "path": "full/1243a9c1579afa4a0f3a17c3415363d3424a1110.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "67",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=31869",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=31869&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31869&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97063&type=card"
+        ],
+        "cardtext": [
+            "When Laquatus's Champion enters the battlefield, target player loses 6 life.",
+            "When Laquatus's Champion leaves the battlefield, that player gains 6 life.",
+            ": Regenerate Laquatus's Champion."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "Chainer's dark gift to a darker soul."
+        ],
+        "types": "Creature  — Nightmare Horror",
+        "allsets": [
+            "Torment (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "4.088",
+        "uid": "5666",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Lightning Dragon",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Ron Spencer",
+        "expansion": "Urza's Saga (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=5666&type=card",
+                "path": "full/48c1d68cad04aab1aa9844cf8e8c18467069ab9d.jpg",
+                "checksum": "c4362db55f7d36a764e20138c360affd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5666&type=card",
+                "path": "full/190e92dbb02065ee706066b9c5887481a8e0e236.jpg",
+                "checksum": "c4362db55f7d36a764e20138c360affd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97047&type=card",
+                "path": "full/84d0596c5518d2e449ef5aab2116d8d281795356.jpg",
+                "checksum": "b96904122fb9779ea59e7bfcec9958e3"
+            }
+        ],
+        "cardnumber": "202",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=5666",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=5666&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5666&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97047&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Echo",
+            "",
+            "(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+            ": Lightning Dragon gets +1/+0 until end of turn."
+        ],
+        "prices": [
+            "£3.99p"
+        ],
+        "manacost": [
+            "2",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Urza's Saga (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=184773&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97048&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184773&type=card"
+        ],
+        "rating": "4.657",
+        "uid": "184773",
+        "cardname": "Mana Crypt",
+        "artist": "Mark Tedin",
+        "convertedmana": [
+            "0"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=184773&type=card",
+                "path": "full/ca97dacce7db3bfa22d5b66fd79db5e7c432002e.jpg",
+                "checksum": "ebef5622f7a7dde995feb7159cbe9647"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97048&type=card",
+                "path": "full/cb21d8f87eeb96557642d5fa9a526c16abd0b2b1.jpg",
+                "checksum": "ebef5622f7a7dde995feb7159cbe9647"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184773&type=card",
+                "path": "full/47959930a646d6954475bdfe05c6e5cedd54ed48.jpg",
+                "checksum": "ebef5622f7a7dde995feb7159cbe9647"
+            }
+        ],
+        "cardnumber": "214",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=184773",
+        "expansion": "Masters Edition II (Rare)",
+        "cardtext": [
+            "At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [],
+        "manacost": [
+            "0"
+        ],
+        "flavortext": [],
+        "types": "Artifact",
+        "allsets": [
+            "Promo set for Gatherer (Special)",
+            "Masters Edition II (Rare)"
+        ]
+    },
+    {
+        "rating": "2.102",
+        "uid": "6128",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Monstrous Hound",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Dermot Power",
+        "expansion": "Exodus (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=6128&type=card",
+                "path": "full/a0475a30ac37bacce109c11c741fad545b3b0d35.jpg",
+                "checksum": "518cf32425c0798251334732220108b2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=6128&type=card",
+                "path": "full/ad9da42a920ff91d4daa4b6b2f68cd6d8310044c.jpg",
+                "checksum": "518cf32425c0798251334732220108b2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97049&type=card",
+                "path": "full/dee66464c950078222e5aa319e8f039fa1216d57.jpg",
+                "checksum": "143f6109afb40c1d7e6a5fd0d749b30f"
+            }
+        ],
+        "cardnumber": "89",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=6128",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=6128&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=6128&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97049&type=card"
+        ],
+        "cardtext": [
+            "Monstrous Hound can't attack unless you control more lands than defending player.",
+            "Monstrous Hound can't block unless you control more lands than attacking player."
+        ],
+        "prices": [
+            "£0.47p"
+        ],
+        "manacost": [
+            "3",
+            "Red"
+        ],
+        "flavortext": [
+            "\"Stay.\""
+        ],
+        "types": "Creature  — Hound",
+        "allsets": [
+            "Exodus (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.838",
+        "uid": "19666",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Overtaker",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Clyde Caldwell",
+        "expansion": "Mercadian Masques (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=19666&type=card",
+                "path": "full/995d8a907f21d9a5cffc28cfd91493e2a85dd002.jpg",
+                "checksum": "eca9fc473735fe489f19439b46884738"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=19666&type=card",
+                "path": "full/9001337d4faa50f20ce60ba3b437da333150ffbf.jpg",
+                "checksum": "eca9fc473735fe489f19439b46884738"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97051&type=card",
+                "path": "full/0539e6ec45db3b66d08748181ad27ec8ca2e9c29.jpg",
+                "checksum": "196400c595bb047ec9c47a099d08ba4e"
+            }
+        ],
+        "cardnumber": "89",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=19666",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=19666&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=19666&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97051&type=card"
+        ],
+        "cardtext": [
+            ",",
+            ", Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn."
+        ],
+        "prices": [
+            "£0.48p"
+        ],
+        "manacost": [
+            "1",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"It's no challenge to master a Mercadian.\""
+        ],
+        "types": "Creature  — Merfolk Spellshaper",
+        "allsets": [
+            "Mercadian Masques (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "4.229",
+        "uid": "27634",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Questing Phelddagrif",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Matt Cavotta",
+        "expansion": "Planeshift (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=27634&type=card",
+                "path": "full/99a3cd7a734291811b1eacd8f0ca598fb1670bff.jpg",
+                "checksum": "c4739a6d8441b6a4088e360f6504a890"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=27634&type=card",
+                "path": "full/677c364ce80593c72d7955ee0f5458c9c5567b35.jpg",
+                "checksum": "c4739a6d8441b6a4088e360f6504a890"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97052&type=card",
+                "path": "full/8ac948c1b54595ec3cdfa73b32c946e6c4336d18.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "119",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=27634",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=27634&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=27634&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97052&type=card"
+        ],
+        "cardtext": [
+            ": Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.",
+            ": Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.",
+            ": Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card."
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "1",
+            "Green",
+            "White",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Phelddagrif",
+        "allsets": [
+            "Planeshift (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.657",
+        "uid": "23148",
+        "pt": [
+            "3 / 1"
+        ],
+        "cardname": "Raging Kavu",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Arnie Swekel",
+        "expansion": "Invasion (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=23148&type=card",
+                "path": "full/570bff070a51e094c8f6d63cb96aaf9b2970612b.jpg",
+                "checksum": "bcb9a561bf0223688e37f3da77f4b17d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=23148&type=card",
+                "path": "full/2f52d8089230f4c5bd9d76cc826c5cce040b9ea2.jpg",
+                "checksum": "bcb9a561bf0223688e37f3da77f4b17d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97061&type=card",
+                "path": "full/97ce42160f8064a062711ef6ab8bcc756ca04748.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "262",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=23148",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=23148&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=23148&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97061&type=card"
+        ],
+        "cardtext": [
+            "Flash",
+            "Haste"
+        ],
+        "prices": [
+            "£0.47p"
+        ],
+        "manacost": [
+            "1",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "It took Yavimaya a thousand years to breed them, but it took only seconds for them to prove their worth."
+        ],
+        "types": "Creature  — Kavu",
+        "allsets": [
+            "Invasion (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.359",
+        "uid": "22890",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Rathi Assassin",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Dana Knutson",
+        "expansion": "Nemesis (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=22890&type=card",
+                "path": "full/3f4f221d50fb0cd6896dc65b9bf962a8b975db56.jpg",
+                "checksum": "1dc9f5ba3176f21f7473b66a405450b4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=22890&type=card",
+                "path": "full/6aa7a9a89fc93231a58b9b3327ed018692c9aafe.jpg",
+                "checksum": "1dc9f5ba3176f21f7473b66a405450b4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97059&type=card",
+                "path": "full/713cd80bc7aa1e6a8716c8065a7652c3f0924a2b.jpg",
+                "checksum": "c6a21c71bd621001a6b5fcbfa9c57f4c"
+            }
+        ],
+        "cardnumber": "67",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=22890",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=22890&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=22890&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97059&type=card"
+        ],
+        "cardtext": [
+            ",",
+            ": Destroy target tapped nonblack creature.",
+            ",",
+            ": Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library."
+        ],
+        "prices": [
+            "£0.95p"
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Zombie Mercenary Assassin",
+        "allsets": [
+            "Nemesis (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.708",
+        "uid": "13088",
+        "pt": [
+            "* / *"
+        ],
+        "cardname": "Revenant",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Andrew Goldhawk",
+        "expansion": "Seventh Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=13088&type=card",
+                "path": "full/4d3cff4e229187ea0114b019d5f624e4d95cfbaa.jpg",
+                "checksum": "360a7bb286fa29dd84a8677b6ec9d8ba"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=13088&type=card",
+                "path": "full/568bec5e020bcf843c04525d66fda92d5505d3cc.jpg",
+                "checksum": "360a7bb286fa29dd84a8677b6ec9d8ba"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5211&type=card",
+                "path": "full/daea72ef5f5394c76dfc3e2cd9a9626bc839ea1c.jpg",
+                "checksum": "5723af505664dde6d7bd960d2143e34d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97053&type=card",
+                "path": "full/113adce069ec58ff3eb922c1f2b266553d8eae3d.jpg",
+                "checksum": "812c3885077816118f095315edd0e0a2"
+            }
+        ],
+        "cardnumber": "160",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=13088",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=13088&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=13088&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5211&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97053&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Revenant's power and toughness are each equal to the number of creature cards in your graveyard."
+        ],
+        "prices": [
+            "£0.47p",
+            "£0.95p"
+        ],
+        "manacost": [
+            "4",
+            "Black"
+        ],
+        "flavortext": [
+            "It eats death and drinks pain."
+        ],
+        "types": "Creature  — Spirit",
+        "allsets": [
+            "Seventh Edition (Rare)",
+            "Stronghold (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.643",
+        "uid": "370559",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Ryusei, the Falling Star",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Nottsuo",
+        "expansion": "Modern Masters (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370559&type=card",
+                "path": "full/31df6690a6d246b992a21bdf0f09285ab14563b4.jpg",
+                "checksum": "363c905603aff77766f666a04616dad3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=79242&type=card",
+                "path": "full/fcd72f9eb9c8b5bee263f9abb7e9295957eb0bae.jpg",
+                "checksum": "a10a0da9b25fe65266d620d10f32d27d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97068&type=card",
+                "path": "full/70195e928ba689c534cda53e905dd9dbd2b2c214.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220471&type=card",
+                "path": "full/bdb9f8a84a83700078428aad869fd8cf2de49fb4.jpg",
+                "checksum": "381427f20ad7aaff7cd71b45098c5212"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370559&type=card",
+                "path": "full/d7568e3652e95d02cf600dfe5ff4b8de98432b17.jpg",
+                "checksum": "363c905603aff77766f666a04616dad3"
+            }
+        ],
+        "cardnumber": "128",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370559",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370559&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=79242&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97068&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220471&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370559&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying."
+        ],
+        "prices": [
+            "£1.49p",
+            "£1.49p"
+        ],
+        "manacost": [
+            "5",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Dragon Spirit",
+        "allsets": [
+            "Champions of Kamigawa (Rare)",
+            "Promo set for Gatherer (Rare)",
+            "Archenemy (Rare)",
+            "Modern Masters (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=48582&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48582&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97055&type=card"
+        ],
+        "rating": "3.924",
+        "uid": "48582",
+        "cardname": "Shield of Kaldra",
+        "artist": "Donato Giancola",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=48582&type=card",
+                "path": "full/42684be20821fff44c98806c3b1be009a4fc226a.jpg",
+                "checksum": "184d84c4cd76dbdd90361b11ae16222b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48582&type=card",
+                "path": "full/7ed2fa2556387fa63029f34d979aaef5e57811e1.jpg",
+                "checksum": "184d84c4cd76dbdd90361b11ae16222b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97055&type=card",
+                "path": "full/df6381e166045644e472996f8f42b38060075409.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "139",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=48582",
+        "expansion": "Darksteel (Rare)",
+        "cardtext": [
+            "Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra have indestructible.",
+            "Equipped creature has indestructible.",
+            "(Damage and effects that say \"destroy\" don't destroy it.)",
+            "Equip"
+        ],
+        "prices": [
+            "£2.99p"
+        ],
+        "manacost": [
+            "4"
+        ],
+        "flavortext": [],
+        "types": "Legendary Artifact  — Equipment",
+        "allsets": [
+            "Darksteel (Rare)",
+            "Promo set for Gatherer (Promo)"
+        ]
+    },
+    {
+        "rating": "3.744",
+        "uid": "41280",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Silent Specter",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Daren Bader",
+        "expansion": "Onslaught (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=41280&type=card",
+                "path": "full/d9067e93d5a98638491fcd1a97df24861f071bed.jpg",
+                "checksum": "85149caef595ea0c62c5f8f3385e6b54"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=41280&type=card",
+                "path": "full/2a7bbad9bf22b139a5405093906dbf382b889a94.jpg",
+                "checksum": "85149caef595ea0c62c5f8f3385e6b54"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97065&type=card",
+                "path": "full/ba3d8ff9195fbd31c305e86df74ce7f6c2610c45.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "169",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=41280",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=41280&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=41280&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97065&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever Silent Specter deals combat damage to a player, that player discards two cards.",
+            "Morph",
+            "",
+            "(You may cast this face down as a 2/2 creature for",
+            ". Turn it face up any time for its morph cost.)"
+        ],
+        "prices": [
+            "£0.95p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Specter",
+        "allsets": [
+            "Onslaught (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "4.288",
+        "uid": "106644",
+        "pt": [
+            "3 / 4"
+        ],
+        "cardname": "Soul Collector",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Matthew D. Wilson",
+        "expansion": "Time Spiral \"Timeshifted\" (Special)",
+        "rarity": "Special",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=106644&type=card",
+                "path": "full/0d0a809b2b68c00789cba9fbab9a28dd18c9aa9f.jpg",
+                "checksum": "40874a2e2c01fe622ad145e9815712ac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43615&type=card",
+                "path": "full/e9839ac31ea37d90ca59267308d9d2cf3be31b6c.jpg",
+                "checksum": "6204daf291a5cbd87dd880ed42f5cd2d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=106644&type=card",
+                "path": "full/d914b6f946d0f15c4a3bda2640000df8fd3128ae.jpg",
+                "checksum": "40874a2e2c01fe622ad145e9815712ac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97067&type=card",
+                "path": "full/d3202e89931be0038393553b91d8917ee4ada85c.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "47",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=106644",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=106644&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43615&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=106644&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97067&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever a creature dealt damage by Soul Collector this turn dies, return that card to the battlefield under your control.",
+            "Morph",
+            "",
+            "(You may cast this face down as a 2/2 creature for",
+            ". Turn it face up any time for its morph cost.)"
+        ],
+        "prices": [
+            "£0.79p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "3",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Vampire",
+        "allsets": [
+            "Scourge (Rare)",
+            "Time Spiral \"Timeshifted\" (Special)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=48583&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48583&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97056&type=card"
+        ],
+        "rating": "4.344",
+        "uid": "48583",
+        "cardname": "Sword of Kaldra",
+        "artist": "Donato Giancola",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=48583&type=card",
+                "path": "full/19864e5a078dfbd5837ff64ef91feffcc227b8d9.jpg",
+                "checksum": "d260450c177e73c4af5735ab19b95b03"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48583&type=card",
+                "path": "full/999010739bae781a622611d32d8dd913753dfe6e.jpg",
+                "checksum": "d260450c177e73c4af5735ab19b95b03"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97056&type=card",
+                "path": "full/144018ee9b85e69d1e4140bbace7bd4bd4c6168c.jpg",
+                "checksum": "a8f9034c8b80d4346ddd2bc911589a8f"
+            }
+        ],
+        "cardnumber": "251",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=48583",
+        "expansion": "Mirrodin (Rare)",
+        "cardtext": [
+            "Equipped creature gets +5/+5.",
+            "Whenever equipped creature deals damage to a creature, exile that creature.",
+            "Equip",
+            "",
+            "(",
+            ": Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)"
+        ],
+        "prices": [
+            "£4.99p"
+        ],
+        "manacost": [
+            "4"
+        ],
+        "flavortext": [],
+        "types": "Legendary Artifact  — Equipment",
+        "allsets": [
+            "Mirrodin (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    }
+]

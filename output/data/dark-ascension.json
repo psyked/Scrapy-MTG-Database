@@ -1,0 +1,984 @@
+[
+    {
+        "rating": "3.740",
+        "uid": "370739",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Briarpack Alpha",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Daarken",
+        "expansion": "Magic 2014 Core Set (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370739&type=card",
+                "path": "full/405f36feabf4b5aa936f7a8a155ea873e166b48c.jpg",
+                "checksum": "e7026a80bd4205f722af2e043c2ac455"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262664&type=card",
+                "path": "full/adbf2741c8105d2a052c2f60e33c9ae77ae6799f.jpg",
+                "checksum": "5100f1df9355e360fc42c19b310f615c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370739&type=card",
+                "path": "full/76221a8c4ac8cc297347aedf4832af7537e01716.jpg",
+                "checksum": "e7026a80bd4205f722af2e043c2ac455"
+            }
+        ],
+        "cardnumber": "166",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370739",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370739&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262664&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370739&type=card"
+        ],
+        "cardtext": [
+            "Flash",
+            "(You may cast this spell any time you could cast an instant.)",
+            "When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn."
+        ],
+        "prices": [
+            "£0.20p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Green"
+        ],
+        "flavortext": [
+            "\"One of my greatest teachers.\"—Garruk Wildspeaker"
+        ],
+        "types": "Creature  — Wolf",
+        "allsets": [
+            "Dark Ascension (Uncommon)",
+            "Magic 2014 Core Set (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370616&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=190172&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220194&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=254118&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262848&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370616&type=card"
+        ],
+        "rating": "3.017",
+        "uid": "370616",
+        "cardname": "Divination",
+        "artist": "Howard Lyon",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370616&type=card",
+                "path": "full/5b0ead56200baff46c2ffebdc9b50470717653cb.jpg",
+                "checksum": "ad6fe7bae054381db8db91f2350bfeab"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=190172&type=card",
+                "path": "full/24b670f65c9b0bce8781b47a069107cb4bdf0b53.jpg",
+                "checksum": "2fcb505650edd3bd02e715d95dea203d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220194&type=card",
+                "path": "full/681ccf57d362fbb0cd5d65e000fb5e9e6f2262d3.jpg",
+                "checksum": "874158d31bf8cd433c6347333bcbdba3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=254118&type=card",
+                "path": "full/50b76af83deda0021d3ce70054d3176441a1da85.jpg",
+                "checksum": "67c8682cb6c98f1065dde2e40bdf795d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262848&type=card",
+                "path": "full/d5587443a57a0b8c338023abd5e181476f87bb4e.jpg",
+                "checksum": "b222cca715dadd2f70dcdee37c86a3a8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370616&type=card",
+                "path": "full/07fe17891b4856d5cb09a6aa45e833175ab8b2ff.jpg",
+                "checksum": "ad6fe7bae054381db8db91f2350bfeab"
+            }
+        ],
+        "cardnumber": "52",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370616",
+        "expansion": "Magic 2014 Core Set (Common)",
+        "cardtext": [
+            "Draw two cards."
+        ],
+        "prices": [
+            "£0.15p",
+            "£0.15p",
+            "£0.10p",
+            "£0.10p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"The key to unlocking this puzzle is within you.\"—Doriel, mentor of Mistral Isle"
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Magic 2010 (Common)",
+            "Magic 2012 (Common)",
+            "Magic 2013 (Common)",
+            "Dark Ascension (Common)",
+            "Magic 2014 Core Set (Common)"
+        ]
+    },
+    {
+        "rating": "4.000",
+        "uid": "376317",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Dungeon Geists",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Nils Hamm",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376317&type=card",
+                "path": "full/7efb18677c8ae65d134952e93f4d6d289d7a500e.jpg",
+                "checksum": "53d2b34f79dfa39e55ef60969742897e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249875&type=card",
+                "path": "full/f73d1a585ae1dc03895bee1cc448f4f090b0131e.jpg",
+                "checksum": "1920eb2bbeacb47c8d2d923d9a1430a1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376317&type=card",
+                "path": "full/c25fb559290de8a06fe43017bae0af7e5b9a2db6.jpg",
+                "checksum": "53d2b34f79dfa39e55ef60969742897e"
+            }
+        ],
+        "cardnumber": "42",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376317",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376317&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249875&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376317&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists."
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.40p"
+        ],
+        "manacost": [
+            "2",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Spirit",
+        "allsets": [
+            "Dark Ascension (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376324&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269666&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193483&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247396&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249395&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262680&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368505&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376324&type=card"
+        ],
+        "rating": "4.200",
+        "uid": "376324",
+        "cardname": "Evolving Wilds",
+        "artist": "Steven Belledin",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376324&type=card",
+                "path": "full/a383d8edd8bdd28db11a1ab8b637df46b2282c7a.jpg",
+                "checksum": "cda7157dabd731194ff3dcc44a747749"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=269666&type=card",
+                "path": "full/364e180830e237f086ed80236749e5e939a66362.jpg",
+                "checksum": "a3cb2163c99c6955854819c4c74ae4f2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193483&type=card",
+                "path": "full/d5696c25619f4c4920bdfe5051acb8636bc5faee.jpg",
+                "checksum": "73541d9d5311a70c182dcf551c620226"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247396&type=card",
+                "path": "full/fa0f24a97083b426c6126e8611c6e62af56af40a.jpg",
+                "checksum": "c86c115b8221eaf835773ff075c22161"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249395&type=card",
+                "path": "full/17a5a6d68a0e3c59dd04b042cbb8a63199fdcdc7.jpg",
+                "checksum": "81b30c0fa875aa197411304c4ebd9896"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262680&type=card",
+                "path": "full/702d42de0f6361638e0db20475ce04eaccc108b7.jpg",
+                "checksum": "eeba31f13564d181bd0df2b74a608f7d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368505&type=card",
+                "path": "full/a23f18214c63cb2484a37a1cf125744d5e5a41e7.jpg",
+                "checksum": "32bedf3808ae76872dd8c4263f221b47"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376324&type=card",
+                "path": "full/6924401bae5994d60dddca86e84a4791fcf859bd.jpg",
+                "checksum": "cda7157dabd731194ff3dcc44a747749"
+            }
+        ],
+        "cardnumber": "287",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376324",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            ", Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p",
+            "£0.25p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Without the interfering hands of civilization, nature will always shape itself to its own needs."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Magic 2013 (Common)",
+            "Rise of the Eldrazi (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Common)",
+            "Dark Ascension (Common)",
+            "Duel Decks: Sorin vs. Tibalt (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368475&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245299&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368475&type=card"
+        ],
+        "rating": "4.275",
+        "uid": "368475",
+        "cardname": "Faithless Looting",
+        "artist": "Gabor Szikszai",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368475&type=card",
+                "path": "full/7b24f91bfc61b98d3c416a798856c8e9d86287d5.jpg",
+                "checksum": "7066b9d30674fafd5951e856a5d90c22"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245299&type=card",
+                "path": "full/b5e28e6c6a6ad276b01a99f43de1e1f90b5fb98e.jpg",
+                "checksum": "141a9eb3481ce3f63eebc9b87148dca3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368475&type=card",
+                "path": "full/a2e5062435ebad51bb8b431ba060f6556f1b17e5.jpg",
+                "checksum": "7066b9d30674fafd5951e856a5d90c22"
+            }
+        ],
+        "cardnumber": "59",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368475",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Common)",
+        "cardtext": [
+            "Draw two cards, then discard two cards.",
+            "Flashback",
+            "",
+            "(You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "Red"
+        ],
+        "flavortext": [
+            "\"Avacyn has abandoned us! We have nothing left except what we can take!\""
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Dark Ascension (Common)",
+            "Duel Decks: Sorin vs. Tibalt (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271225&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208001&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=241858&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5151&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262871&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271225&type=card"
+        ],
+        "rating": "4.441",
+        "uid": "271225",
+        "cardname": "Fling",
+        "artist": "Parente",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271225&type=card",
+                "path": "full/ec536809becb7aa0b34b813cea9660e920e37925.jpg",
+                "checksum": "65b6645cfbf1a1288e38e7bcaf1388bf"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208001&type=card",
+                "path": "full/6bcefc554a598312be614ea6ef483e73189ccbf6.jpg",
+                "checksum": "80457a1b476b7d20dbcf9260d76dea93"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=241858&type=card",
+                "path": "full/9f3b2a65459b008d9c5a98d9f1cd516ccd97f55e.jpg",
+                "checksum": "08e531b235cce61ab6a30b17f6f09d42"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=5151&type=card",
+                "path": "full/9fafbef34d8feb34830d415c56828ec25feeffe6.jpg",
+                "checksum": "13f071897f379fa71bec1bce9a7466d6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262871&type=card",
+                "path": "full/dc260be21c7ed63f5923925fb9be441b9ff53c1b.jpg",
+                "checksum": "df69bb6ccd3db7bf45d42e1831c5ee1c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271225&type=card",
+                "path": "full/2580489de361c2c7555452c469df127475056c61.jpg",
+                "checksum": "65b6645cfbf1a1288e38e7bcaf1388bf"
+            }
+        ],
+        "cardnumber": "44",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271225",
+        "expansion": "Planechase 2012 Edition (Common)",
+        "cardtext": [
+            "As an additional cost to cast Fling, sacrifice a creature.",
+            "Fling deals damage equal to the sacrificed creature's power to target creature or player."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.45p",
+            "£0.25p",
+            "£0.25p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "1",
+            "Red"
+        ],
+        "flavortext": [
+            "About halfway to the target, Snukk vowed that he had been tricked for the last time."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Magic 2011 (Common)",
+            "Magic 2012 (Common)",
+            "Stronghold (Common)",
+            "Dark Ascension (Common)",
+            "Planechase 2012 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376356&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270939&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376356&type=card"
+        ],
+        "rating": "3.545",
+        "uid": "376356",
+        "cardname": "Grim Backwoods",
+        "artist": "Vincent Proce",
+        "convertedmana": [],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376356&type=card",
+                "path": "full/edc0cd0f8aa679ecec44e3fca3bd155b1e2b5d49.jpg",
+                "checksum": "52f32944402300dfbf01a6ae0ecdd865"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270939&type=card",
+                "path": "full/1c2b02604703466c4d18d7f45981c797059ef0fc.jpg",
+                "checksum": "a397c525430776bbb3d5d437cb706654"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376356&type=card",
+                "path": "full/22a22ef5e0aa8ad2eb48de13874f7086c3f6bd70.jpg",
+                "checksum": "52f32944402300dfbf01a6ae0ecdd865"
+            }
+        ],
+        "cardnumber": "292",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376356",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            ",",
+            ", Sacrifice a creature: Draw a card."
+        ],
+        "prices": [
+            "£0.40p",
+            "£0.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "\"I love what they've done with the place.\"—Liliana Vess"
+        ],
+        "types": "Land",
+        "allsets": [
+            "Dark Ascension (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373519&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243224&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373519&type=card"
+        ],
+        "rating": "3.018",
+        "uid": "373519",
+        "cardname": "Griptide",
+        "artist": "Adam Paquette",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373519&type=card",
+                "path": "full/55e72cb94b136d89574472535fc4664dca306cc2.jpg",
+                "checksum": "3e41ec0eea46ee3b526621de95c34b45"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243224&type=card",
+                "path": "full/23b7a1c4575d681f55ac2e5afee96ead29de7fd6.jpg",
+                "checksum": "209bde2d6798953ce84eefcdb53352fe"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373519&type=card",
+                "path": "full/eef46c8ca1d3be8fb818316e916ee59c127b291b.jpg",
+                "checksum": "3e41ec0eea46ee3b526621de95c34b45"
+            }
+        ],
+        "cardnumber": "50",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373519",
+        "expansion": "Theros (Common)",
+        "cardtext": [
+            "Put target creature on top of its owner's library."
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.10p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [
+            "When the sea god Thassa wishes to speak with a mortal, she does not issue a summons or grant a vision requesting a visit. The sea simply brings her guest before her."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Dark Ascension (Common)",
+            "Theros (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338390&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262842&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338390&type=card"
+        ],
+        "rating": "3.318",
+        "uid": "338390",
+        "cardname": "Grim Flowering",
+        "artist": "Adam Paquette",
+        "convertedmana": [
+            "6"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338390&type=card",
+                "path": "full/7f95805b82a1b2289bc0230d4fa166e586e6a9ba.jpg",
+                "checksum": "87f7686c37f3c7e1b2a809f6599be51b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262842&type=card",
+                "path": "full/123a1a2a9f054ca1adee5ac77ef12b2d0c79982a.jpg",
+                "checksum": "f7ed5a0fd93e498331f9e8c8b4c34fce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338390&type=card",
+                "path": "full/0fc28d95778b62255a8472a1254c856b44f362ef.jpg",
+                "checksum": "87f7686c37f3c7e1b2a809f6599be51b"
+            }
+        ],
+        "cardnumber": "75",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338390",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "cardtext": [
+            "Draw a card for each creature card in your graveyard."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "5",
+            "Green"
+        ],
+        "flavortext": [
+            "\"Nothing in nature goes to waste, not even the rotting corpse of a good-for-nothing, blood-sucking vampire.\"",
+            "—Halana of Ulvenwald"
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Dark Ascension (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.581",
+        "uid": "368530",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Hellrider",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Svetlin Velinov",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368530&type=card",
+                "path": "full/b4bc420266a0ddcfa25f62e5e769e41b16135ba0.jpg",
+                "checksum": "d8dc658f4264f45f8df3a69ab5eb49b2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226874&type=card",
+                "path": "full/e3eb71fb5e8e69b39570fd29590b2357ca8b9f99.jpg",
+                "checksum": "85d410bf1779b3a4f329930012cc67a0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368530&type=card",
+                "path": "full/5c8fc124cc9e766f6db4d62a2cdd3a8aeb0d640e.jpg",
+                "checksum": "d8dc658f4264f45f8df3a69ab5eb49b2"
+            }
+        ],
+        "cardnumber": "52",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368530",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368530&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226874&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368530&type=card"
+        ],
+        "cardtext": [
+            "Haste",
+            "Whenever a creature you control attacks, Hellrider deals 1 damage to defending player."
+        ],
+        "prices": [
+            "£2.49p"
+        ],
+        "manacost": [
+            "2",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [
+            "\"Behind every devil's mayhem lurks a demon's scheme.\"",
+            "—Rem Karolus, Blade of the Inquisitors"
+        ],
+        "types": "Creature  — Devil",
+        "allsets": [
+            "Dark Ascension (Rare)",
+            "Duel Decks: Sorin vs. Tibalt (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376381&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244695&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376381&type=card"
+        ],
+        "rating": "4.150",
+        "uid": "376381",
+        "cardname": "Jar of Eyeballs",
+        "artist": "Jaime Jones",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376381&type=card",
+                "path": "full/3be1fb40efb202c19b44d4fca4010eaf2a983f14.jpg",
+                "checksum": "bbc7bc43ee069752abd795a90d01388f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244695&type=card",
+                "path": "full/977dcf8a7ed69dc561dbe833a037ab426c399063.jpg",
+                "checksum": "ee547f30eb305e1be358b75de5360550"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376381&type=card",
+                "path": "full/06c482b7c8a12720c83cc5cf8f3c9981f4a610d6.jpg",
+                "checksum": "bbc7bc43ee069752abd795a90d01388f"
+            }
+        ],
+        "cardnumber": "244",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376381",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "cardtext": [
+            "Whenever a creature you control dies, put two eyeball counters on Jar of Eyeballs.",
+            ",",
+            ", Remove all eyeball counters from Jar of Eyeballs: Look at the top X cards of your library, where X is the number of eyeball counters removed this way. Put one of them into your hand and the rest on the bottom of your library in any order."
+        ],
+        "prices": [
+            "£0.40p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3"
+        ],
+        "flavortext": [],
+        "types": "Artifact",
+        "allsets": [
+            "Dark Ascension (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368485&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262695&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368485&type=card"
+        ],
+        "rating": "4.400",
+        "uid": "368485",
+        "cardname": "Lingering Souls",
+        "artist": "John Stanko",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368485&type=card",
+                "path": "full/2936c47692789e7479e942b6e66b229ee506e2e5.jpg",
+                "checksum": "0c83a296d85913c5048e50bab85d943a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=262695&type=card",
+                "path": "full/86189764a5ba1feb11222bdf2688f7100a08c79c.jpg",
+                "checksum": "517ce37806c54effb31ee0d44f27ca36"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368485&type=card",
+                "path": "full/0baaa4b4b3696e62d43fd9645e82e252713b38f9.jpg",
+                "checksum": "0c83a296d85913c5048e50bab85d943a"
+            }
+        ],
+        "cardnumber": "24",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368485",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "cardtext": [
+            "Put two 1/1 white Spirit creature tokens with flying onto the battlefield.",
+            "Flashback",
+            "",
+            "(You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+        ],
+        "prices": [
+            "£1.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "2",
+            "White"
+        ],
+        "flavortext": [
+            "The murdered inhabitants of Hollowhenge impart to the living the terror they felt in death."
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Dark Ascension (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.375",
+        "uid": "370760",
+        "pt": [
+            "2 / 3"
+        ],
+        "cardname": "Nephalia Seakite",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Wayne England",
+        "expansion": "Magic 2014 Core Set (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370760&type=card",
+                "path": "full/568ec9d51e97d31cd173b55fe2f085da35fa155f.jpg",
+                "checksum": "4908420e4d509b4bd5b59c4dd36a55a7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247126&type=card",
+                "path": "full/a4a0b78c539a0a939aa4249b11310644791cd75d.jpg",
+                "checksum": "6762df9ff1849f218755e98985837da0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370760&type=card",
+                "path": "full/f22daffa033d19f80916c2c92947091a4acc6537.jpg",
+                "checksum": "4908420e4d509b4bd5b59c4dd36a55a7"
+            }
+        ],
+        "cardnumber": "65",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370760",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370760&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247126&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370760&type=card"
+        ],
+        "cardtext": [
+            "Flash",
+            "(You may cast this spell any time you could cast an instant.)",
+            "Flying"
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"Keep one eye on the cliff road or you may fall to your death. Keep one eye on the sky or your death may fall on you.\"—Manfried Ulmach, Elgaud Master-at-Arms"
+        ],
+        "types": "Creature  — Bird",
+        "allsets": [
+            "Dark Ascension (Common)",
+            "Magic 2014 Core Set (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=245288&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34199&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245288&type=card"
+        ],
+        "rating": "3.915",
+        "uid": "245288",
+        "cardname": "Ray of Revelation",
+        "artist": "Cliff Childs",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=245288&type=card",
+                "path": "full/b0024fc2d63df968c12da941e413825a64849c2e.jpg",
+                "checksum": "9d5e0241e8f9c20e8b8e1cc06d37fc88"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34199&type=card",
+                "path": "full/62e166a8ff824f07b173d0fede720ec02315b34a.jpg",
+                "checksum": "58db2af7903db3a154dc05a2f3b4bf42"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=245288&type=card",
+                "path": "full/80d7f92b9b18f03a93d78878bf1bfc75149379d7.jpg",
+                "checksum": "9d5e0241e8f9c20e8b8e1cc06d37fc88"
+            }
+        ],
+        "cardnumber": "17",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=245288",
+        "expansion": "Dark Ascension (Common)",
+        "cardtext": [
+            "Destroy target enchantment.",
+            "Flashback",
+            "",
+            "(You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.30p"
+        ],
+        "manacost": [
+            "1",
+            "White"
+        ],
+        "flavortext": [
+            "\"May angels carry him into the Blessed Sleep with dreams of sunlit days and moonless nights.\"",
+            "—Tomb inscription of Saint Raban"
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Judgment (Common)",
+            "Dark Ascension (Common)"
+        ]
+    },
+    {
+        "rating": "4.113",
+        "uid": "368535",
+        "pt": [
+            "3"
+        ],
+        "cardname": "Sorin, Lord of Innistrad",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Chase Stone",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368535&type=card",
+                "path": "full/28bc9618d57e3cca874330ea32f64cd674fb61c1.jpg",
+                "checksum": "96034a3160081ddda49081814787b964"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249985&type=card",
+                "path": "full/090a817ca3339c56dffcf92720e6490f2de4c7e5.jpg",
+                "checksum": "9635f7dbe3b03d129719b9a9bbc80300"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368535&type=card",
+                "path": "full/3c6aacc30553208c1ca766af52ed06e0e7c18eb5.jpg",
+                "checksum": "96034a3160081ddda49081814787b964"
+            }
+        ],
+        "cardnumber": "1",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368535",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368535&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249985&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368535&type=card"
+        ],
+        "cardtext": [
+            "+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.",
+            "-2: You get an emblem with \"Creatures you control get +1/+0.\"",
+            "-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control."
+        ],
+        "prices": [
+            "£4.99p"
+        ],
+        "manacost": [
+            "2",
+            "White",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Planeswalker  — Sorin",
+        "allsets": [
+            "Dark Ascension (Mythic Rare)",
+            "Duel Decks: Sorin vs. Tibalt (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "3.706",
+        "uid": "279989",
+        "pt": [
+            "2 / 1"
+        ],
+        "cardname": "Torch Fiend",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Winona Nelson",
+        "expansion": "Magic 2013 (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=279989&type=card",
+                "path": "full/ae066e606ba03731dea4178f12a8cd8b37b2499d.jpg",
+                "checksum": "de845891ed7b09b1c401244cc7d79bb5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279989&type=card",
+                "path": "full/96162f19f0dc4286e858a0548b7114ce5f4a7670.jpg",
+                "checksum": "de845891ed7b09b1c401244cc7d79bb5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244702&type=card",
+                "path": "full/23ee60c6878ccabe34c95f04f8e33c263b21d65d.jpg",
+                "checksum": "33529539d19fb6b9d9b8eac9673ac54a"
+            }
+        ],
+        "cardnumber": "151",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=279989",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=279989&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279989&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244702&type=card"
+        ],
+        "cardtext": [
+            ", Sacrifice Torch Fiend: Destroy target artifact."
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "£0.15p"
+        ],
+        "manacost": [
+            "1",
+            "Red"
+        ],
+        "flavortext": [
+            "Devils redecorate every room with fire."
+        ],
+        "types": "Creature  — Devil",
+        "allsets": [
+            "Magic 2013 (Uncommon)",
+            "Dark Ascension (Common)"
+        ]
+    }
+]

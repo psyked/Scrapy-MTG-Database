@@ -1,0 +1,929 @@
+[
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376256&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270966&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368974&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376256&type=card"
+        ],
+        "rating": "3.667",
+        "uid": "376256",
+        "cardname": "Azorius Guildgate",
+        "artist": "Drew Baker",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376256&type=card",
+                "path": "full/b9b973b58ad48f24f56caa44270136cc53830845.jpg",
+                "checksum": "26a975c12e5eb059f2aa0693062028a1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270966&type=card",
+                "path": "full/d611883c652787e1509b5f28695c72c240cb577d.jpg",
+                "checksum": "0616445ea8371fa388859e0f06e81e40"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368974&type=card",
+                "path": "full/6fe1807881173e94c0068405f29b3af01b6a1dbf.jpg",
+                "checksum": "7b2d957fb8c6c3b9d810bf2a452bed4e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376256&type=card",
+                "path": "full/db85e3bf395aaed4f85344ac48088646c8a4b6c2.jpg",
+                "checksum": "26a975c12e5eb059f2aa0693062028a1"
+            }
+        ],
+        "cardnumber": "275",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376256",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Azorius Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.35p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter the Senate, the seat of justice and the foundation of Ravnican society."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Return to Ravnica (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376272&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366390&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369008&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373389&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376272&type=card"
+        ],
+        "rating": "4.100",
+        "uid": "376272",
+        "cardname": "Boros Guildgate",
+        "artist": "Noah Bradley",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376272&type=card",
+                "path": "full/38df8747c9f064a1cf25bcf7ad1572178714c9ea.jpg",
+                "checksum": "1ea18eed00f64e72eafbe79b52dac1e6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366390&type=card",
+                "path": "full/a4b368ada43d48d1a348bde2c9ccc26e1f1f1974.jpg",
+                "checksum": "d1d1e3a02a93633fc665b23503938bfd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369008&type=card",
+                "path": "full/297335cf6e49559260b2eca4d2c2ab4a9531eb51.jpg",
+                "checksum": "adb8ff6458c01bda00c81d52e69a6c42"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373389&type=card",
+                "path": "full/1f8d4012a3359be12a22583b7ad811e40d5cc342.jpg",
+                "checksum": "44e7238cd4053ad576ad970ffd68a448"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376272&type=card",
+                "path": "full/c3c3dbdc701fb2969a32c2716c6e3767aee8b9e3.jpg",
+                "checksum": "1ea18eed00f64e72eafbe79b52dac1e6"
+            }
+        ],
+        "cardnumber": "280",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376272",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Boros Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.49p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter with merciful hearts. Exit with battle cries."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Gatecrash (Common)",
+            "Dragon's Maze (Common)",
+            "Duel Decks: Heroes vs. Monsters (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376306&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366313&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369058&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376306&type=card"
+        ],
+        "rating": "3.500",
+        "uid": "376306",
+        "cardname": "Dimir Guildgate",
+        "artist": "Cliff Childs",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376306&type=card",
+                "path": "full/a90cc232ffee0b0e07792b514d60673350027aaf.jpg",
+                "checksum": "e3319259b1afc54d8aa3cba93bbce53b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366313&type=card",
+                "path": "full/7b0d6dd099a55da8fe91de1b37924ce565e1915f.jpg",
+                "checksum": "f0bfb443f13e6308a401a8da825ba785"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369058&type=card",
+                "path": "full/f9f678d579179cdc3a9e149f4238bf31c112b86f.jpg",
+                "checksum": "fade33a29e9be0cd87279dcc0ccdf2fd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376306&type=card",
+                "path": "full/b0482c3fc9c40470d1987d7c238f87054a2e2c79.jpg",
+                "checksum": "e3319259b1afc54d8aa3cba93bbce53b"
+            }
+        ],
+        "cardnumber": "284",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376306",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Dimir Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.49p",
+            "£1.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter and become a mastermind of spies, lies, and deception."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Gatecrash (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "3.368",
+        "uid": "368969",
+        "pt": [
+            "2 / 1"
+        ],
+        "cardname": "Feral Animist",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Dave Kendall",
+        "expansion": "Dragon's Maze (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368969&type=card",
+                "path": "full/5a8c3fd44c9436bc435afd45ca539f22bea52496.jpg",
+                "checksum": "6526392da1fd838f6ca7063b17afbd45"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96945&type=card",
+                "path": "full/ea3c0c335e69e6ebea6ef2162fdb4fbaba53d73d.jpg",
+                "checksum": "e6a91e8f91396a34e4d0714d1a403c00"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368969&type=card",
+                "path": "full/119f37cf09eb95d30b16da5a6623d36422130161.jpg",
+                "checksum": "6526392da1fd838f6ca7063b17afbd45"
+            }
+        ],
+        "cardnumber": "70",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368969",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368969&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96945&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368969&type=card"
+        ],
+        "cardtext": [
+            ": Feral Animist gets +X/+0 until end of turn, where X is its power."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "1",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"Channeling the rage of the beast is the easy part. Explaining why you woke up with no memory in a pile of mangled lawmages—that's trickier.\""
+        ],
+        "types": "Creature  — Goblin Shaman",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Dragon's Maze (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376351&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270964&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368960&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376351&type=card"
+        ],
+        "rating": "3.571",
+        "uid": "376351",
+        "cardname": "Golgari Guildgate",
+        "artist": "Eytan Zana",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376351&type=card",
+                "path": "full/f6ad767b53ec09bef28c8601d66f7d9ac55227a0.jpg",
+                "checksum": "6a27c75f805dd8e3ee4b634de418dab3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270964&type=card",
+                "path": "full/20c3cf38a7d46acb08e9c5cc39d4c3c083d3b20d.jpg",
+                "checksum": "960fd181c7c77a5b28f0f84407e3c2d5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368960&type=card",
+                "path": "full/7ea11d41d1b2173dee333db00de623375a04d83a.jpg",
+                "checksum": "ad3f9da992418640eabd88e4aed5213a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376351&type=card",
+                "path": "full/00dbc5de073f102b7d72b8cfd1900f6b7a0b2aa1.jpg",
+                "checksum": "6a27c75f805dd8e3ee4b634de418dab3"
+            }
+        ],
+        "cardnumber": "290",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376351",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Golgari Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.35p",
+            "£0.49p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter those who are starving and sick. You are welcome among the Swarm when the rest of Ravnica rejects you."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Return to Ravnica (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376359&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366253&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369040&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376359&type=card"
+        ],
+        "rating": "4.214",
+        "uid": "376359",
+        "cardname": "Gruul Guildgate",
+        "artist": "Randy Gallegos",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376359&type=card",
+                "path": "full/1dcdd9648f66e46ce2a7fbc523868151904ca0c8.jpg",
+                "checksum": "0e8f975e6fca2dabfa5148e8cab1b2f3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366253&type=card",
+                "path": "full/e5b8fd1f0012a2210a5cd0d073c69c931866a249.jpg",
+                "checksum": "40150b4f47cfa907100c5d53769b4b31"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369040&type=card",
+                "path": "full/6bfabf75af7bca48ceebb02a8f293f87ab090f9b.jpg",
+                "checksum": "94436d6076f86b9630233c979312a89e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376359&type=card",
+                "path": "full/bef3b2c28316eac0d3f36ccc84af2579ced7f4df.jpg",
+                "checksum": "0e8f975e6fca2dabfa5148e8cab1b2f3"
+            }
+        ],
+        "cardnumber": "294",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376359",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Gruul Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.49p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter and leave the shackles of society behind."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Gatecrash (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376378&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270961&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368995&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376378&type=card"
+        ],
+        "rating": "3.750",
+        "uid": "376378",
+        "cardname": "Izzet Guildgate",
+        "artist": "Noah Bradley",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376378&type=card",
+                "path": "full/8a2194e32b2ebc25a95b58c71d5c43aae02aa546.jpg",
+                "checksum": "fc762a7f06d49ff80ac3cfb4a58d7080"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270961&type=card",
+                "path": "full/4b5d2620c53685b5ab517ea37b608520cc53f341.jpg",
+                "checksum": "058ecd20d7cdd7e48b0cca619c2552f7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368995&type=card",
+                "path": "full/91f0176c1ceb332c329334e0e49062c106939967.jpg",
+                "checksum": "87c6ff2ca2347af8fe3c44b05832c1ed"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376378&type=card",
+                "path": "full/65bd5cf2a402537ca944df924d0121e3450cfc3d.jpg",
+                "checksum": "fc762a7f06d49ff80ac3cfb4a58d7080"
+            }
+        ],
+        "cardnumber": "297",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376378",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Izzet Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter those with the vision to create and the daring to release their creations."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Return to Ravnica (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376443&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366374&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369079&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376443&type=card"
+        ],
+        "rating": "4.000",
+        "uid": "376443",
+        "cardname": "Orzhov Guildgate",
+        "artist": "John Avon",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376443&type=card",
+                "path": "full/062e9fed654e048642891dcf2187bc17844d08ec.jpg",
+                "checksum": "e3e7a948f39e230e61bfb6e850f706ce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366374&type=card",
+                "path": "full/b4cff1f40945847101ad2615023257f336ec46a5.jpg",
+                "checksum": "f551f5a8bde5d3247c365d92792b5318"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369079&type=card",
+                "path": "full/0f62d6d71f04df64d9d0e232251d7d1860402afd.jpg",
+                "checksum": "b8f2bda3648b80d451c14d396abed00e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376443&type=card",
+                "path": "full/97e3498344a0c7d0219b35770952cd9a6b211b49.jpg",
+                "checksum": "e3e7a948f39e230e61bfb6e850f706ce"
+            }
+        ],
+        "cardnumber": "312",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376443",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Orzhov Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.49p",
+            "£0.49p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter to find wealth, security, and eternal life . . . for just a small price up front."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Gatecrash (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=369073&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=89063&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292956&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369073&type=card"
+        ],
+        "rating": "4.417",
+        "uid": "369073",
+        "cardname": "Putrefy",
+        "artist": "Igor Kieryluk",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=369073&type=card",
+                "path": "full/1a1c7144d7bd2143807fba2016d8290dd3bfbac3.jpg",
+                "checksum": "9d3ec9584a88afeabc8832d0548c252d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=89063&type=card",
+                "path": "full/1a36717c4bd7a9d75afba9511f66673a202985c3.jpg",
+                "checksum": "39feb8d69d0464a74cd31eb447b12c98"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292956&type=card",
+                "path": "full/576a4b84d9c2d389e468e2fbbf3110bdec47a6fe.jpg",
+                "checksum": "663c17796c60fe7350112c664b0e05e6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369073&type=card",
+                "path": "full/e3baf2bc4432421569a0a5b661ab9e72c146f431.jpg",
+                "checksum": "9d3ec9584a88afeabc8832d0548c252d"
+            }
+        ],
+        "cardnumber": "93",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=369073",
+        "expansion": "Dragon's Maze (Uncommon)",
+        "cardtext": [
+            "Destroy target artifact or creature. It can't be regenerated."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.49p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "1",
+            "Black",
+            "Green"
+        ],
+        "flavortext": [
+            "\"We are all decaying, always in a state of near-death. One moment without breath and we begin to break down.\"",
+            "—Cevraya, Golgari shaman"
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Ravnica: City of Guilds (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)",
+            "Dragon's Maze (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376465&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270953&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368990&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376465&type=card"
+        ],
+        "rating": "3.417",
+        "uid": "376465",
+        "cardname": "Rakdos Guildgate",
+        "artist": "Eytan Zana",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376465&type=card",
+                "path": "full/a8e7019f47f064dd3a97d48f897f5cf31297c41e.jpg",
+                "checksum": "b99bb6d6169c73298df884a61243bc01"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270953&type=card",
+                "path": "full/06c96d0c9f99b7d125e3521f628e920a0338bb0b.jpg",
+                "checksum": "666a82a23ee7d330a1129f802625549d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368990&type=card",
+                "path": "full/a2c1cb2e3ba7218beff4fbfc72f38955bc6e0cb4.jpg",
+                "checksum": "c80c460cf9a59dc1ad2bacd650393cbe"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376465&type=card",
+                "path": "full/be1f79736463681eb3fb8963705b7a0ce2cf7545.jpg",
+                "checksum": "b99bb6d6169c73298df884a61243bc01"
+            }
+        ],
+        "cardnumber": "314",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376465",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Rakdos Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter and indulge your darkest fantasies, for you may never pass this way again."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Return to Ravnica (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376490&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271099&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369018&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376490&type=card"
+        ],
+        "rating": "3.500",
+        "uid": "376490",
+        "cardname": "Selesnya Guildgate",
+        "artist": "Howard Lyon",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376490&type=card",
+                "path": "full/bfc65767eae1ef608af90a19f311e08807ff224a.jpg",
+                "checksum": "850e34b4091541c2a2ccd3c3d0568708"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271099&type=card",
+                "path": "full/c5f76cb881c0efefad6b621fe05e31a3bc8bdfd4.jpg",
+                "checksum": "4c188316ce1dd8073e7a48b4d03dd330"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369018&type=card",
+                "path": "full/21a97efaee6263ce4002820e547cf6b0546d1166.jpg",
+                "checksum": "146bd8931303e658e847ebbd80598273"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376490&type=card",
+                "path": "full/91e159ff8cd8a3fb411ffe8d652c061c63ce0e1e.jpg",
+                "checksum": "850e34b4091541c2a2ccd3c3d0568708"
+            }
+        ],
+        "cardnumber": "321",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376490",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Selesnya Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter and rejoice! The Conclave stands united, open to one and all."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Return to Ravnica (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376500&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366383&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368959&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376500&type=card"
+        ],
+        "rating": "3.500",
+        "uid": "376500",
+        "cardname": "Simic Guildgate",
+        "artist": "Svetlin Velinov",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376500&type=card",
+                "path": "full/b36b9b9eebbc1747cefcee5a62242a15e80f0870.jpg",
+                "checksum": "9b609f15fb8911e1f0d930a409d7bdf8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366383&type=card",
+                "path": "full/3e9c31dd39a73d789c3692e9cb6de0ff53404c0c.jpg",
+                "checksum": "5e6d38ebcb82eba7824287f9db14e72a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368959&type=card",
+                "path": "full/532deccf3544c0b0c2f70c0ff3cedbfc72da25c6.jpg",
+                "checksum": "324dd8117b529a07ba8310b0cf214acf"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376500&type=card",
+                "path": "full/ade81b80098437d3ce295226ac535ce0a1bd2283.jpg",
+                "checksum": "9b609f15fb8911e1f0d930a409d7bdf8"
+            }
+        ],
+        "cardnumber": "323",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376500",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Simic Guildgate enters the battlefield tapped.",
+            ": Add",
+            "or",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Enter and comprehend the perfection of orchestrated life."
+        ],
+        "types": "Land  — Gate",
+        "allsets": [
+            "Gatecrash (Common)",
+            "Dragon's Maze (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "2.825",
+        "uid": "369037",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Wind Drake",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "John Severin Brassell",
+        "expansion": "Dragon's Maze (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=369037&type=card",
+                "path": "full/c809e12e9a7081280289267c42cf2b33d4cf6e6d.jpg",
+                "checksum": "db7ecc89bd82e6df5a73366eb247f509"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=14521&type=card",
+                "path": "full/74858c95aaa0a1bf8b567bedecf8abe5ff54a3d0.jpg",
+                "checksum": "ea537b0141c887fe1046a4a2af644e92"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=13039&type=card",
+                "path": "full/9039782babe167dc2abc725850264730805f09c1.jpg",
+                "checksum": "44d2c8b78e7cf7c18e91f33cb895ddac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45230&type=card",
+                "path": "full/be4fea34aee596c48a22797e2cbe2bc246964263.jpg",
+                "checksum": "00cf6170928c549c494dffd715755aa5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83334&type=card",
+                "path": "full/d470b4e7d47b7cb35b24576d4e3bf49e508a3d4a.jpg",
+                "checksum": "9957173be0a78b51cf40ed657336ad7a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193962&type=card",
+                "path": "full/26e4f186f2143c1f76a64edeb589a064b5abaada.jpg",
+                "checksum": "64b4ecc0c7d4862d24d4f7a323a4abce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279860&type=card",
+                "path": "full/3896e84e22ab55296a20152767aa8b3e144f3ca2.jpg",
+                "checksum": "5c1be81beef0097d4a235cb62f666d62"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4745&type=card",
+                "path": "full/7e4524a017ff53bff5e5823b85621b925d627bb7.jpg",
+                "checksum": "a937aa3c0dbdc1fdebda6b3fba363dfe"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21029&type=card",
+                "path": "full/7a9d66c2016c64e23394424e192899301fcd98a9.jpg",
+                "checksum": "20c25e397177fc1547fab08dae688e29"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25448&type=card",
+                "path": "full/d684f07665fb3b92f87ffd0d42927d83e563b71d.jpg",
+                "checksum": "c3b2eb51a80d03e70c524d9c27cd4cc4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21124&type=card",
+                "path": "full/0c0d50b74d71fa3141eb0863974e4d9aabb855ff.jpg",
+                "checksum": "e3ce2ed2dad1ab4bc31e7db1dfe3343e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4284&type=card",
+                "path": "full/f75fa7cf8c84ff3ff6a74e23323d2f4a7e43a1ad.jpg",
+                "checksum": "10879e655509198d596ab6f5fe5622cd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369037&type=card",
+                "path": "full/54ae45e849be6401bd26d571be326ee548757a01.jpg",
+                "checksum": "db7ecc89bd82e6df5a73366eb247f509"
+            }
+        ],
+        "cardnumber": "20",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=369037",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=369037&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=14521&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=13039&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45230&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83334&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193962&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=279860&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4745&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21029&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25448&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21124&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4284&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369037&type=card"
+        ],
+        "cardtext": [
+            "Flying"
+        ],
+        "prices": [
+            "£0.99p",
+            "",
+            "",
+            "",
+            "£0.10p",
+            "£0.20p",
+            "",
+            "",
+            "",
+            "£0.10p",
+            "£0.20p",
+            "£0.20p",
+            "£0.10p",
+            "£0.20p",
+            "£0.20p",
+            "£0.20p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "Air currents whip through the city corridors, creating wind tunnels that accelerate urban drakes toward their prey."
+        ],
+        "types": "Creature  — Drake",
+        "allsets": [
+            "Classic Sixth Edition (Common)",
+            "Seventh Edition (Common)",
+            "Eighth Edition (Common)",
+            "Ninth Edition (Common)",
+            "Magic 2010 (Common)",
+            "Magic 2013 (Common)",
+            "Tempest (Common)",
+            "Starter 1999 (Common)",
+            "Starter 2000 (Common)",
+            "Battle Royale Box Set (Common)",
+            "Portal (Common)",
+            "Dragon's Maze (Common)"
+        ]
+    },
+    {
+        "rating": "4.143",
+        "uid": "373339",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Zhur-Taa Druid",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Mark Winters",
+        "expansion": "Duel Decks: Heroes vs. Monsters (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373339&type=card",
+                "path": "full/2c385440374fb29139d68650cb4e52a7c2dda197.jpg",
+                "checksum": "f5a252e07b12f7a4367f7464e732e540"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369065&type=card",
+                "path": "full/a6c58a5efe6e3be903116a8e17479d79675367f5.jpg",
+                "checksum": "655f61bf95d1e26f16a4ce50373f7451"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373339&type=card",
+                "path": "full/191a8cd6aa02b9d0788c26e4cfe30d9368d63811.jpg",
+                "checksum": "f5a252e07b12f7a4367f7464e732e540"
+            }
+        ],
+        "cardnumber": "48",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373339",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373339&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=369065&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373339&type=card"
+        ],
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            "Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent."
+        ],
+        "prices": [
+            "£0.30p"
+        ],
+        "manacost": [
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"Only the decadent think magic should be pristine and without cost.\""
+        ],
+        "types": "Creature  — Human Druid",
+        "allsets": [
+            "Dragon's Maze (Common)",
+            "Duel Decks: Heroes vs. Monsters (Common)"
+        ]
+    }
+]

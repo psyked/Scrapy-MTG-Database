@@ -1,0 +1,1048 @@
+[
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338441&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=236466&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338441&type=card"
+        ],
+        "rating": "4.395",
+        "uid": "338441",
+        "cardname": "Chaos Warp",
+        "artist": "Trevor Claxton",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338441&type=card",
+                "path": "full/5933094cdef2a51792c90de2148b01e750d6b93a.jpg",
+                "checksum": "6af24836bffea61795d5e3d2e1d8dec7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=236466&type=card",
+                "path": "full/d370dcb04f58dd5394bb1d4ba1a4496c3a55f105.jpg",
+                "checksum": "037f46d0ac75d8a7df1ec4c92e8dd811"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338441&type=card",
+                "path": "full/1b90943fac4538c30eb7807368304d4b2da79197.jpg",
+                "checksum": "6af24836bffea61795d5e3d2e1d8dec7"
+            }
+        ],
+        "cardnumber": "1",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338441",
+        "expansion": "Commander's Arsenal (Rare)",
+        "cardtext": [
+            "The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield."
+        ],
+        "prices": [
+            "£5.99p"
+        ],
+        "manacost": [
+            "2",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Magic: The Gathering-Commander (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376280&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=237004&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338442&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376280&type=card"
+        ],
+        "rating": "4.700",
+        "uid": "376280",
+        "cardname": "Command Tower",
+        "artist": "Ryan Yee",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376280&type=card",
+                "path": "full/0f0417c1aa28b707b4d2d746d51c322c21f9e479.jpg",
+                "checksum": "e20de6edf242cd0a440bef2c606f61ce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=237004&type=card",
+                "path": "full/736e6fddb1d1f6fbf7d7e788648bd14f05ce04f4.jpg",
+                "checksum": "eaa79be8ce9cd1459ce4a6d8d6823db3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338442&type=card",
+                "path": "full/0f9de41c0c39f1e1ec3ef53070b2cf91e1c75ccb.jpg",
+                "checksum": "b7bb1b13fca47f15a6fa07b57879fee0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376280&type=card",
+                "path": "full/63bacd143c5b79d6e1330b2c8d51085c18a640b0.jpg",
+                "checksum": "e20de6edf242cd0a440bef2c606f61ce"
+            }
+        ],
+        "cardnumber": "281",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376280",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            ": Add to your mana pool one mana of any color in your commander's color identity."
+        ],
+        "prices": [
+            "£2.99p",
+            "£5.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "When defeat is near and guidance is scarce, all eyes look in one direction."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Magic: The Gathering-Commander (Common)",
+            "Commander's Arsenal (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376302&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43522&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338453&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376302&type=card"
+        ],
+        "rating": "4.528",
+        "uid": "376302",
+        "cardname": "Decree of Pain",
+        "artist": "Mathias Kollros",
+        "convertedmana": [
+            "8"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376302&type=card",
+                "path": "full/c59ebc92a97a4d832cdbe6e0a51d97b902630f88.jpg",
+                "checksum": "b5c22b13b56ee443b399078fb6bf48c7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43522&type=card",
+                "path": "full/1c217f95765e61eb0683eb3f537840f5fc3818c5.jpg",
+                "checksum": "b92ae8d655fc51fada5661b28f449528"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338453&type=card",
+                "path": "full/7c9d646669829515d6eb88eab8a6083c1e2f8ea5.jpg",
+                "checksum": "321dea4b487bc3ce39fc0015145a62a2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376302&type=card",
+                "path": "full/e335e7f19de6f4f670826730a85054b8715612a3.jpg",
+                "checksum": "b5c22b13b56ee443b399078fb6bf48c7"
+            }
+        ],
+        "cardnumber": "72",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376302",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "cardtext": [
+            "Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.",
+            "Cycling",
+            "",
+            "(",
+            ", Discard this card: Draw a card.)",
+            "When you cycle Decree of Pain, all creatures get -2/-2 until end of turn."
+        ],
+        "prices": [
+            "£7.99p",
+            "£4.99p"
+        ],
+        "manacost": [
+            "6",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Scourge (Rare)",
+            "Commander's Arsenal (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338454&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15370&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3637&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338454&type=card"
+        ],
+        "rating": "4.385",
+        "uid": "338454",
+        "cardname": "Desertion",
+        "artist": "Richard Kane Ferguson",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338454&type=card",
+                "path": "full/dba1c97a65f906e0768b89ff3973740a7ee816bf.jpg",
+                "checksum": "885aef4cb61aafc50ba92583792196de"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=15370&type=card",
+                "path": "full/4b7e64ba46b603667fb585423e153b0cdedf2cce.jpg",
+                "checksum": "c890b9cd724eb748a69cfae76eb8671b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3637&type=card",
+                "path": "full/7a1290917df807e78215d121d98390e6906495db.jpg",
+                "checksum": "23b957a6ada495a7d2871571ebf604cb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338454&type=card",
+                "path": "full/9f6d15c339ebf9f968c194b8f9e1e1d5c840b91a.jpg",
+                "checksum": "885aef4cb61aafc50ba92583792196de"
+            }
+        ],
+        "cardnumber": "4",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338454",
+        "expansion": "Commander's Arsenal (Rare)",
+        "cardtext": [
+            "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard."
+        ],
+        "prices": [
+            "£6.99p",
+            "£6.49p"
+        ],
+        "manacost": [
+            "3",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [
+            "First the insult, then the injury."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Classic Sixth Edition (Rare)",
+            "Visions (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "rating": "3.667",
+        "uid": "338449",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Diaochan, Artful Beauty",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Miao Aili",
+        "expansion": "Commander's Arsenal (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338449&type=card",
+                "path": "full/7514a7574767c6ec6d5a8a05e358746220a826f0.jpg",
+                "checksum": "a62f86a2474e4f919d573e4ad3333b08"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10544&type=card",
+                "path": "full/110832dbcf4bce1ca16c4de638972f5690eeed25.jpg",
+                "checksum": "ca336ce80d51089024b239757c06959d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338449&type=card",
+                "path": "full/6ea5ae3c26db353126469c9ab7b95b6b5ecfb5ce.jpg",
+                "checksum": "a62f86a2474e4f919d573e4ad3333b08"
+            }
+        ],
+        "cardnumber": "5",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338449",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338449&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10544&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338449&type=card"
+        ],
+        "cardtext": [
+            ": Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared."
+        ],
+        "prices": [
+            "£19.99p"
+        ],
+        "manacost": [
+            "3",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Human Advisor",
+        "allsets": [
+            "Portal Three Kingdoms (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "rating": "4.286",
+        "uid": "338446",
+        "pt": [
+            "5 / 6"
+        ],
+        "cardname": "Dragonlair Spider",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Carl Critchlow",
+        "expansion": "Commander's Arsenal (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338446&type=card",
+                "path": "full/e7415410cf9a4642344429b9f1a19c6ad633c1ad.jpg",
+                "checksum": "061c76ddcb1cd73d0aa6aa636bd5da78"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338446&type=card",
+                "path": "full/33afdc531ac3a478b0034e3b5637fe9a809fb84c.jpg",
+                "checksum": "061c76ddcb1cd73d0aa6aa636bd5da78"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270726&type=card",
+                "path": "full/ffafde117f7962ae849bd59ab792715238f92a5d.jpg",
+                "checksum": "fadccaa7bfb8b89ddd60716f39484fc8"
+            }
+        ],
+        "cardnumber": "6",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338446",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338446&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338446&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270726&type=card"
+        ],
+        "cardtext": [
+            "Reach",
+            "Whenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield."
+        ],
+        "prices": [
+            "£3.49p"
+        ],
+        "manacost": [
+            "2",
+            "Red",
+            "Red",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [
+            "Swarms thrive in its nest, feeding on leathery bits of discarded wing."
+        ],
+        "types": "Creature  — Spider",
+        "allsets": [
+            "Commander's Arsenal (Rare)",
+            "Planechase 2012 Edition (Rare)"
+        ]
+    },
+    {
+        "rating": "4.396",
+        "uid": "338451",
+        "pt": [
+            "2 / 4"
+        ],
+        "cardname": "Duplicant",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Marco Nelor",
+        "expansion": "Commander's Arsenal (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338451&type=card",
+                "path": "full/cb19006821ed9e7580ce8437616571000a735667.jpg",
+                "checksum": "2f65365b89445dc199767fb87f41974d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=49439&type=card",
+                "path": "full/ba3b2f79dc8a02045278afddb99e17e09a8cd744.jpg",
+                "checksum": "df6a51a8f532d71512761bb15f600c00"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220526&type=card",
+                "path": "full/119c9d6aaa5939907357a8a6a3364b16090bc78a.jpg",
+                "checksum": "85943f58a062f7926e64f2c8f893b3b4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338451&type=card",
+                "path": "full/e90a28ba3b8c9e60d924572f35f65931affd0363.jpg",
+                "checksum": "2f65365b89445dc199767fb87f41974d"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338451",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338451&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=49439&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220526&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338451&type=card"
+        ],
+        "cardtext": [
+            "Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.",
+            "As long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter."
+        ],
+        "prices": [
+            "£3.99p"
+        ],
+        "manacost": [
+            "6"
+        ],
+        "flavortext": [],
+        "types": "Artifact Creature  — Shapeshifter",
+        "allsets": [
+            "Mirrodin (Rare)",
+            "Archenemy (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "rating": "4.220",
+        "uid": "338443",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Edric, Spymaster of Trest",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Volkan Baga",
+        "expansion": "Commander's Arsenal (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338443&type=card",
+                "path": "full/40180ee9b7f5398ac65ef15fcef30285695ead37.jpg",
+                "checksum": "7120472684aa79cd45ec8824224d379f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230000&type=card",
+                "path": "full/05ce8056e99b33b80bee3341494c443edac12481.jpg",
+                "checksum": "464c75df1f8c56c6c70130a87cd252d3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338443&type=card",
+                "path": "full/d9757cbb94d212ea968945d5d64900afa32a73a5.jpg",
+                "checksum": "7120472684aa79cd45ec8824224d379f"
+            }
+        ],
+        "cardnumber": "8",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338443",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338443&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=230000&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338443&type=card"
+        ],
+        "cardtext": [
+            "Whenever a creature deals combat damage to one of your opponents, its controller may draw a card."
+        ],
+        "prices": [
+            "£3.99p"
+        ],
+        "manacost": [
+            "1",
+            "Green",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"I am not at liberty to reveal my sources, but I can assure you, the price on your head is high.\""
+        ],
+        "types": "Legendary Creature  — Elf Rogue",
+        "allsets": [
+            "Magic: The Gathering-Commander (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "rating": "4.100",
+        "uid": "338444",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Kaalia of the Vast",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Michael Komarck",
+        "expansion": "Commander's Arsenal (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338444&type=card",
+                "path": "full/8d83783beb6e8847918be8acd37e32b612a3354e.jpg",
+                "checksum": "4392945b7218af11ccd2167f29ca8fd4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=236473&type=card",
+                "path": "full/0b4b0652227329ff535c27581856e9c1df8c7dd9.jpg",
+                "checksum": "a07cfac4dacb7e8da8e6b6a75238a671"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338444&type=card",
+                "path": "full/ca86a674e7802bb0a13819d660f5262d54d0caeb.jpg",
+                "checksum": "4392945b7218af11ccd2167f29ca8fd4"
+            }
+        ],
+        "cardnumber": "9",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338444",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338444&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=236473&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338444&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent."
+        ],
+        "prices": [
+            "£14.99p"
+        ],
+        "manacost": [
+            "1",
+            "White",
+            "Black",
+            "Red"
+        ],
+        "flavortext": [
+            "\"I'll have my revenge if I have to call on every force from above and below.\""
+        ],
+        "types": "Legendary Creature  — Human Cleric",
+        "allsets": [
+            "Magic: The Gathering-Commander (Mythic Rare)",
+            "Commander's Arsenal (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.133",
+        "uid": "338450",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Loyal Retainers",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Solomon Au Yeung",
+        "expansion": "Commander's Arsenal (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338450&type=card",
+                "path": "full/82dc4f26d9fe634073c7e319e6c32b4ff5e23272.jpg",
+                "checksum": "19eab47f7bc65b5661ebd79f9fcc466a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10491&type=card",
+                "path": "full/01eaaca9a632ab06dd63487eefe19ba1e9341b02.jpg",
+                "checksum": "3884f2bdf40e8430ee63662bf975c6f0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338450&type=card",
+                "path": "full/1a2ce891bc796033cd826ad2ac471cf62addfb33.jpg",
+                "checksum": "19eab47f7bc65b5661ebd79f9fcc466a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201136&type=card",
+                "path": "full/100dd2aa49928947c00041b30c5a064c18a88b78.jpg",
+                "checksum": "3884f2bdf40e8430ee63662bf975c6f0"
+            }
+        ],
+        "cardnumber": "10",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338450",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338450&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10491&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338450&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201136&type=card"
+        ],
+        "cardtext": [
+            "Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared."
+        ],
+        "prices": [
+            "£99.99p"
+        ],
+        "manacost": [
+            "2",
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Human Advisor",
+        "allsets": [
+            "Portal Three Kingdoms (Uncommon)",
+            "Commander's Arsenal (Uncommon)",
+            "Masters Edition III (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.211",
+        "uid": "338447",
+        "pt": [
+            "7 / 5"
+        ],
+        "cardname": "Maelstrom Wanderer",
+        "convertedmana": [
+            "8"
+        ],
+        "artist": "Thomas M. Baxa",
+        "expansion": "Commander's Arsenal (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338447&type=card",
+                "path": "full/a47c5aeebea502dc93c0d4eea9f6dddc66730bdb.jpg",
+                "checksum": "2177e3babcee24de966474ef6244a1e5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338447&type=card",
+                "path": "full/2191cfbf4fe725b7405daab36e6cd39342379bb5.jpg",
+                "checksum": "2177e3babcee24de966474ef6244a1e5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265154&type=card",
+                "path": "full/f5c0802799a0e8349a139abbbac68e72e958a823.jpg",
+                "checksum": "70e9b924e8f90550c591414856628f27"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338447",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338447&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338447&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265154&type=card"
+        ],
+        "cardtext": [
+            "Creatures you control have haste.",
+            "Cascade, cascade",
+            "(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)"
+        ],
+        "prices": [
+            "£7.99p"
+        ],
+        "manacost": [
+            "5",
+            "Blue",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Elemental",
+        "allsets": [
+            "Commander's Arsenal (Mythic Rare)",
+            "Planechase 2012 Edition (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338452&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48919&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338452&type=card"
+        ],
+        "rating": "4.483",
+        "uid": "338452",
+        "cardname": "Mind's Eye",
+        "artist": "Karl Kopinski",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338452&type=card",
+                "path": "full/295e4f1ef250d86a728c7a125df2a71af74e259a.jpg",
+                "checksum": "527cc3291dd48fc0001114598a6390d9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=48919&type=card",
+                "path": "full/ffaa9040711b03568727f269f2052849974661c4.jpg",
+                "checksum": "ae4ca0aa9bd69bb2a745f779e6ce0fc1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338452&type=card",
+                "path": "full/75ac7ecebb013c183fda5fcc2ffbdea6bea04f56.jpg",
+                "checksum": "527cc3291dd48fc0001114598a6390d9"
+            }
+        ],
+        "cardnumber": "13",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338452",
+        "expansion": "Commander's Arsenal (Rare)",
+        "cardtext": [
+            "Whenever an opponent draws a card, you may pay",
+            ". If you do, draw a card."
+        ],
+        "prices": [
+            "£4.99p"
+        ],
+        "manacost": [
+            "5"
+        ],
+        "flavortext": [
+            "\"Ideas drift like petals on the wind. I have only to lift my face to the breeze.\""
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Mirrodin (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338455&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35057&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338455&type=card"
+        ],
+        "rating": "4.400",
+        "uid": "338455",
+        "cardname": "Mirari's Wake",
+        "artist": "Volkan Baga",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338455&type=card",
+                "path": "full/ad8ad274bb60873b47fa4dc0e453a68b8073e7e5.jpg",
+                "checksum": "8d00a3e9569882c87c9af66e076d4850"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35057&type=card",
+                "path": "full/4dd93e3205328f87bf666167a7817e3e0c6251c8.jpg",
+                "checksum": "c0f122329657910f30b3ae73df56880e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338455&type=card",
+                "path": "full/3dd9e72f46ccc85edb01b1788145e984afc6dded.jpg",
+                "checksum": "8d00a3e9569882c87c9af66e076d4850"
+            }
+        ],
+        "cardnumber": "14",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338455",
+        "expansion": "Commander's Arsenal (Rare)",
+        "cardtext": [
+            "Creatures you control get +1/+1.",
+            "Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced."
+        ],
+        "prices": [
+            "£9.99p"
+        ],
+        "manacost": [
+            "3",
+            "Green",
+            "White"
+        ],
+        "flavortext": [
+            "Even after a false god tore the magic from Dominaria, power still radiated from the Mirari sword that slew her."
+        ],
+        "types": "Enchantment",
+        "allsets": [
+            "Judgment (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338457&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=24589&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338457&type=card"
+        ],
+        "rating": "4.667",
+        "uid": "338457",
+        "cardname": "Rhystic Study",
+        "artist": "Terese Nielsen",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338457&type=card",
+                "path": "full/8d1a9e8f29c6aeb4658e9fb6d3f471eb949780db.jpg",
+                "checksum": "ac09225a9d1f122db2cbbaf317266fa2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=24589&type=card",
+                "path": "full/53f21b489d0cea6c677c4aa868bc653bd263ffe3.jpg",
+                "checksum": "6c71d82ad27dd1bfe11a29aee7822b5b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338457&type=card",
+                "path": "full/b1ec77662bc696a3f8bfd8fa196acd1144151472.jpg",
+                "checksum": "ac09225a9d1f122db2cbbaf317266fa2"
+            }
+        ],
+        "cardnumber": "15",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338457",
+        "expansion": "Commander's Arsenal (Common)",
+        "cardtext": [
+            "Whenever an opponent casts a spell, you may draw a card unless that player pays",
+            "."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "Friends teach what you want to know. Enemies teach what you need to know."
+        ],
+        "types": "Enchantment",
+        "allsets": [
+            "Prophecy (Common)",
+            "Commander's Arsenal (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338458&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4628&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338458&type=card"
+        ],
+        "rating": "4.603",
+        "uid": "338458",
+        "cardname": "Scroll Rack",
+        "artist": "Heather Hudson",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338458&type=card",
+                "path": "full/cbaa566770351bb2df3b9534fe8327ec14c2a46f.jpg",
+                "checksum": "75156a53f10bf4ac4b04cd5196d724b2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4628&type=card",
+                "path": "full/930c80124baded2b2f3884aa7961051cf3a31e3d.jpg",
+                "checksum": "48e812222d1adeb1b956eed2a5de4061"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338458&type=card",
+                "path": "full/c3daef62f2d23a3e61906425de3ca656e625fb35.jpg",
+                "checksum": "75156a53f10bf4ac4b04cd5196d724b2"
+            }
+        ],
+        "cardnumber": "16",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338458",
+        "expansion": "Commander's Arsenal (Rare)",
+        "cardtext": [
+            ",",
+            ": Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order."
+        ],
+        "prices": [
+            "£21.99p"
+        ],
+        "manacost": [
+            "2"
+        ],
+        "flavortext": [],
+        "types": "Artifact",
+        "allsets": [
+            "Tempest (Rare)",
+            "Commander's Arsenal (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338456&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2240&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4012&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1547&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338456&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159317&type=card"
+        ],
+        "rating": "4.671",
+        "uid": "338456",
+        "cardname": "Sylvan Library",
+        "artist": "Yeong-Hao Han",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338456&type=card",
+                "path": "full/0134252605dd8b183b392f6ef3601031f06a99f4.jpg",
+                "checksum": "f2b6b0b5739e9c11813f925f2323b79e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2240&type=card",
+                "path": "full/6875eadf0dce2cda1d2f41bf63af2923accc5e21.jpg",
+                "checksum": "a2416ce2fa3a262056af39666299d4ec"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4012&type=card",
+                "path": "full/2400e9251c2a8310d3854ad4363bc1b19020d0a5.jpg",
+                "checksum": "7de473af6a6d36c87c20d7836ca157e9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1547&type=card",
+                "path": "full/59507ede677a6959529ff3b0511b02778d092c45.jpg",
+                "checksum": "a5ada40eb2ddb07522923f57a4364388"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338456&type=card",
+                "path": "full/d8c54eaa75c0440a52dc100537070e493b821d34.jpg",
+                "checksum": "f2b6b0b5739e9c11813f925f2323b79e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159317&type=card",
+                "path": "full/d3f4b65abad21a69e3cd83f6680941ef542abcca.jpg",
+                "checksum": "3f347fd0e6bf6145f58caac6dbb29bfd"
+            }
+        ],
+        "cardnumber": "17",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338456",
+        "expansion": "Commander's Arsenal (Rare)",
+        "cardtext": [
+            "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
+        ],
+        "prices": [
+            "£9.99p",
+            "£9.99p",
+            "£29.99p"
+        ],
+        "manacost": [
+            "1",
+            "Green"
+        ],
+        "flavortext": [],
+        "types": "Enchantment",
+        "allsets": [
+            "Fourth Edition (Rare)",
+            "Fifth Edition (Rare)",
+            "Legends (Uncommon)",
+            "Commander's Arsenal (Rare)",
+            "Masters Edition (Rare)"
+        ]
+    },
+    {
+        "rating": "4.382",
+        "uid": "338445",
+        "pt": [
+            "0 / 0"
+        ],
+        "cardname": "The Mimeoplasm",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Svetlin Velinov",
+        "expansion": "Commander's Arsenal (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338445&type=card",
+                "path": "full/ee22e3987341f38e33b71ca9abbc4cebadd9712f.jpg",
+                "checksum": "3b69e4ff947115c0b87c43a50fd2302b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=228232&type=card",
+                "path": "full/b2cb5d52871652dd7fede11253268657d0e3ae9c.jpg",
+                "checksum": "ae0ef5bc667514e7fb55108d3ab07c49"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338445&type=card",
+                "path": "full/9d49ddd1ca37fce0d42bf54f1405c196c35f0bdc.jpg",
+                "checksum": "3b69e4ff947115c0b87c43a50fd2302b"
+            }
+        ],
+        "cardnumber": "12",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338445",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338445&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=228232&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338445&type=card"
+        ],
+        "cardtext": [
+            "As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [
+            "2",
+            "Green",
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Ooze",
+        "allsets": [
+            "Magic: The Gathering-Commander (Mythic Rare)",
+            "Commander's Arsenal (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "3.925",
+        "uid": "338448",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Vela the Night-Clad",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Allen Williams",
+        "expansion": "Commander's Arsenal (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338448&type=card",
+                "path": "full/4827cf670ad411efd86e99aa9f3968843715cf09.jpg",
+                "checksum": "7efe831d65297149a0febd198881a4de"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338448&type=card",
+                "path": "full/e69e485c59f773a4a433f40e3bdfe0fddd91821e.jpg",
+                "checksum": "7efe831d65297149a0febd198881a4de"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270729&type=card",
+                "path": "full/321d0614523ecd666b42315198be8e19205adae3.jpg",
+                "checksum": "530c6c1defd271850d04f044042e8d4c"
+            }
+        ],
+        "cardnumber": "18",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338448",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338448&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338448&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270729&type=card"
+        ],
+        "cardtext": [
+            "Intimidate",
+            "Other creatures you control have intimidate.",
+            "Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [
+            "4",
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [
+            "Vela snuffs out every trace of Krond's reign, leaving pure nightfall in her wake."
+        ],
+        "types": "Legendary Creature  — Human Wizard",
+        "allsets": [
+            "Commander's Arsenal (Mythic Rare)",
+            "Planechase 2012 Edition (Mythic Rare)"
+        ]
+    }
+]

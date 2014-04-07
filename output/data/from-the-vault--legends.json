@@ -1,0 +1,914 @@
+[
+    {
+        "rating": "3.770",
+        "uid": "244670",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Cao Cao, Lord of Wei",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Gao Jianzhang",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244670&type=card",
+                "path": "full/63ebbfbc7c73510582929f14667cfd94533aa3ad.jpg",
+                "checksum": "11d057b319ac767245dd4922e9f6296c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10548&type=card",
+                "path": "full/9ae77075d473ce2a27efd54d0c10593025a8d53d.jpg",
+                "checksum": "575e69ddcb60377125e73d7d6381d4c2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244670&type=card",
+                "path": "full/ebb9adcf8fb4a60f8866a557fd123c4f6950810f.jpg",
+                "checksum": "11d057b319ac767245dd4922e9f6296c"
+            }
+        ],
+        "cardnumber": "1",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244670",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244670&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10548&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244670&type=card"
+        ],
+        "cardtext": [
+            ": Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared."
+        ],
+        "prices": [
+            "£17.99p"
+        ],
+        "manacost": [
+            "3",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Human Soldier",
+        "allsets": [
+            "Portal Three Kingdoms (Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.093",
+        "uid": "244665",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Captain Sisay",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Ray Lago",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244665&type=card",
+                "path": "full/c25452a8c42b5b3295f772fcee4935f935c18b5e.jpg",
+                "checksum": "b8356134677bc4242d6e18fea302589f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25976&type=card",
+                "path": "full/893d29ac8c8f87f8fce31a7945838a09cbabee0d.jpg",
+                "checksum": "d81ffdc7fd7d9293378b4a2d9042522d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244665&type=card",
+                "path": "full/eecf5e119f6bdadf8728bc79311a823a1fca03d1.jpg",
+                "checksum": "b8356134677bc4242d6e18fea302589f"
+            }
+        ],
+        "cardnumber": "2",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244665",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244665&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25976&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244665&type=card"
+        ],
+        "cardtext": [
+            ": Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library."
+        ],
+        "prices": [
+            "£2.49p"
+        ],
+        "manacost": [
+            "2",
+            "Green",
+            "White"
+        ],
+        "flavortext": [
+            "Her leadership forged the Weatherlight's finest crew."
+        ],
+        "types": "Legendary Creature  — Human Soldier",
+        "allsets": [
+            "Invasion (Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.240",
+        "uid": "244674",
+        "pt": [
+            "0 / 5"
+        ],
+        "cardname": "Doran, the Siege Tower",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Mark Zug",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244674&type=card",
+                "path": "full/39214e95b7436a4e91c17f37c98dc3e83703b9eb.jpg",
+                "checksum": "3028419464a42dbdfaf37f50270ef657"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140201&type=card",
+                "path": "full/7e8faab2a2742f835228ea1eead412ed52fab761.jpg",
+                "checksum": "b49516f30b2fcf430d7f7737b43f0240"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244674&type=card",
+                "path": "full/41fb8f08039ce356c80676fd6e024decae65633a.jpg",
+                "checksum": "3028419464a42dbdfaf37f50270ef657"
+            }
+        ],
+        "cardnumber": "3",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244674",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244674&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=140201&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244674&type=card"
+        ],
+        "cardtext": [
+            "Each creature assigns combat damage equal to its toughness rather than its power."
+        ],
+        "prices": [
+            "£4.49p"
+        ],
+        "manacost": [
+            "Black",
+            "Green",
+            "White"
+        ],
+        "flavortext": [
+            "\"Each year that passes rings you inwardly with memory and might. Wield your heart, and the world will tremble.\""
+        ],
+        "types": "Legendary Creature  — Treefolk Shaman",
+        "allsets": [
+            "Lorwyn (Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.135",
+        "uid": "370534",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Kiki-Jiki, Mirror Breaker",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Steven Belledin",
+        "expansion": "Modern Masters (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370534&type=card",
+                "path": "full/41bd212c7029f33f741da6f90319db5cff49b5e8.jpg",
+                "checksum": "bfccc2e30380c7b9939cd9150c7f14d2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=50321&type=card",
+                "path": "full/d8c9463828f50d14ade83bf46a75b8e958251d3b.jpg",
+                "checksum": "771cd413480027e3e7ef543506636aed"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244666&type=card",
+                "path": "full/d8130e4544f04c3e28c5c88c0e02fcc6aa9452a9.jpg",
+                "checksum": "579e04efdc92baa7c981744286669b26"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370534&type=card",
+                "path": "full/b0714b8bcaec6974bbfe7073c8903c4489fb49d2.jpg",
+                "checksum": "bfccc2e30380c7b9939cd9150c7f14d2"
+            }
+        ],
+        "cardnumber": "120",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370534",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370534&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=50321&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244666&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370534&type=card"
+        ],
+        "cardtext": [
+            "Haste",
+            ": Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step."
+        ],
+        "prices": [
+            "£17.99p",
+            "£24.99p"
+        ],
+        "manacost": [
+            "2",
+            "Red",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Goblin Shaman",
+        "allsets": [
+            "Champions of Kamigawa (Rare)",
+            "From the Vault: Legends (Mythic Rare)",
+            "Modern Masters (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "3.330",
+        "uid": "244672",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Kresh the Bloodbraided",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Steve Argyle",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244672&type=card",
+                "path": "full/76e28ed391794a906bc11c03718fbe945c3e6e9c.jpg",
+                "checksum": "82abd8eb087cf78995271d256f817ea7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174876&type=card",
+                "path": "full/84965745f59379ef58364bf2e1c093c44c85b38d.jpg",
+                "checksum": "9d81cf06655d4b0fa3644960adcd69d1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244672&type=card",
+                "path": "full/eb1f5df18ea822ae39601df51974335a273d4d8c.jpg",
+                "checksum": "82abd8eb087cf78995271d256f817ea7"
+            }
+        ],
+        "cardnumber": "5",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244672",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244672&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174876&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244672&type=card"
+        ],
+        "cardtext": [
+            "Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power."
+        ],
+        "prices": [
+            "£2.49p"
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "Each of his twenty-two braids is bound with bone and leather from a foe."
+        ],
+        "types": "Legendary Creature  — Human Warrior",
+        "allsets": [
+            "Shards of Alara (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "3.870",
+        "uid": "247234",
+        "pt": [
+            "0 / 0"
+        ],
+        "cardname": "Mikaeus, the Lunarch",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Steven Belledin",
+        "expansion": "Innistrad (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247234&type=card",
+                "path": "full/bd49c7a62e6733a1daf631c4ae983897129afce3.jpg",
+                "checksum": "fa0b8dcf9a12bc64abae769e3b0562ed"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247234&type=card",
+                "path": "full/4ee57a8392eda62b7626c2b9cd8d5667ffe1e48e.jpg",
+                "checksum": "fa0b8dcf9a12bc64abae769e3b0562ed"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259296&type=card",
+                "path": "full/ece09e62f6252651b1e969d6415f175991cde87d.jpg",
+                "checksum": "49f9559f03e54eb53ba25a52ff21039c"
+            }
+        ],
+        "cardnumber": "23",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247234",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247234&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247234&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259296&type=card"
+        ],
+        "cardtext": [
+            "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.",
+            ": Put a +1/+1 counter on Mikaeus.",
+            ", Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [
+            "Variable Colorless",
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Human Cleric",
+        "allsets": [
+            "Innistrad (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.679",
+        "uid": "370429",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Oona, Queen of the Fae",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Adam Rex",
+        "expansion": "Modern Masters (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370429&type=card",
+                "path": "full/272bb03b674ffe0908062420d0ced573730304f7.jpg",
+                "checksum": "40479f50fb87b5bf6637c0e849ac3444"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=152063&type=card",
+                "path": "full/587ba4d9424a8c4eb0de462aab3a507b70f45200.jpg",
+                "checksum": "51e756f6311b611a83b31ee46277f004"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244668&type=card",
+                "path": "full/fd1bfda274fe47436e7ccba791ffa7b228d28804.jpg",
+                "checksum": "7040087475ebf600e5b3aca14ea83e50"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370429&type=card",
+                "path": "full/535f7ecca6adc0e11bd24a176565f0134e29c32b.jpg",
+                "checksum": "40479f50fb87b5bf6637c0e849ac3444"
+            }
+        ],
+        "cardnumber": "193",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370429",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370429&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=152063&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244668&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370429&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield."
+        ],
+        "prices": [
+            "£1.99p",
+            "£5.49p"
+        ],
+        "manacost": [
+            "3",
+            "Blue or Black",
+            "Blue or Black",
+            "Blue or Black"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Faerie Wizard",
+        "allsets": [
+            "Shadowmoor (Rare)",
+            "From the Vault: Legends (Mythic Rare)",
+            "Modern Masters (Rare)"
+        ]
+    },
+    {
+        "rating": "4.282",
+        "uid": "259295",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Omnath, Locus of Mana",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Mike Bierek",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=259295&type=card",
+                "path": "full/97ef09cd7f6023a2acf4c65f235cf543a1c3b884.jpg",
+                "checksum": "391f593989b0710c085d4115746ad17c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197759&type=card",
+                "path": "full/b6926031eb6245156b3ad56c33bb668079d3f261.jpg",
+                "checksum": "ba5120999e312d4a47afd849881370e8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259295&type=card",
+                "path": "full/cbcd0781bbea925acfc67bf92d30ad40426cad63.jpg",
+                "checksum": "391f593989b0710c085d4115746ad17c"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=259295",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=259295&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197759&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259295&type=card"
+        ],
+        "cardtext": [
+            "Green mana doesn't empty from your mana pool as steps and phases end.",
+            "Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool."
+        ],
+        "prices": [
+            "£4.99p"
+        ],
+        "manacost": [
+            "2",
+            "Green"
+        ],
+        "flavortext": [
+            "It gathers against the coming storm."
+        ],
+        "types": "Legendary Creature  — Elemental",
+        "allsets": [
+            "Worldwake (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.440",
+        "uid": "370405",
+        "pt": [
+            "10 / 10"
+        ],
+        "cardname": "Progenitus",
+        "convertedmana": [
+            "10"
+        ],
+        "artist": "Jaime Jones",
+        "expansion": "Modern Masters (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370405&type=card",
+                "path": "full/30b040bbe378cdbfd86e43d36defe8740214b3c7.jpg",
+                "checksum": "83847b21d307d1b0a3630219c7fefcf6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179496&type=card",
+                "path": "full/a9907181f0b12cab5d0fd3d2030fdbe37f0803f6.jpg",
+                "checksum": "ef1db8bb27d42c133dbabac6e4566f82"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244675&type=card",
+                "path": "full/e62ac44c749271d48d160e02b3dda916f422af78.jpg",
+                "checksum": "7569cd4f1f3bd755aa52d71922ef455f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370405&type=card",
+                "path": "full/4d996aa21b895b182ab424745717d8aaa1ee430c.jpg",
+                "checksum": "83847b21d307d1b0a3630219c7fefcf6"
+            }
+        ],
+        "cardnumber": "182",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370405",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370405&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179496&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244675&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370405&type=card"
+        ],
+        "cardtext": [
+            "Protection from everything",
+            "If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead."
+        ],
+        "prices": [
+            "£7.99p",
+            "£19.99p"
+        ],
+        "manacost": [
+            "White",
+            "White",
+            "Blue",
+            "Blue",
+            "Black",
+            "Black",
+            "Red",
+            "Red",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [
+            "The Soul of the World has returned."
+        ],
+        "types": "Legendary Creature  — Hydra Avatar",
+        "allsets": [
+            "Conflux (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)",
+            "Modern Masters (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "3.809",
+        "uid": "244669",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Rafiq of the Many",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Wayne Reynolds",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244669&type=card",
+                "path": "full/c8b66bcadb201acf3ed4c727c3b35e8626d46e83.jpg",
+                "checksum": "471db1242a2e1b25fc9e01cfbca68fc0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174948&type=card",
+                "path": "full/0a28baf4d9a47ae3d706fa8c16d13bd1cec2156b.jpg",
+                "checksum": "47c3eb69097f175345a55ae6c7659b62"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244669&type=card",
+                "path": "full/89afa3e5ebfc4465c9e155d86e1c50e196fbb920.jpg",
+                "checksum": "471db1242a2e1b25fc9e01cfbca68fc0"
+            }
+        ],
+        "cardnumber": "10",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244669",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244669&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174948&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244669&type=card"
+        ],
+        "cardtext": [
+            "Exalted",
+            "(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+            "Whenever a creature you control attacks alone, it gains double strike until end of turn."
+        ],
+        "prices": [
+            "£7.49p"
+        ],
+        "manacost": [
+            "1",
+            "Green",
+            "White",
+            "Blue"
+        ],
+        "flavortext": [
+            "Many sigils, one purpose."
+        ],
+        "types": "Legendary Creature  — Human Knight",
+        "allsets": [
+            "Shards of Alara (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.375",
+        "uid": "376497",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Sharuum the Hegemon",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Izzy",
+        "expansion": "Commander 2013 Edition (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376497&type=card",
+                "path": "full/1f658b80519028dbcc7606ea0747b509b1e74c55.jpg",
+                "checksum": "0f938ae4eb2a1177baf97cdd47bfcda6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175127&type=card",
+                "path": "full/06c2985fb4e336e25840cbf8f5b20459e23c8e10.jpg",
+                "checksum": "9838020190bae0d34347ee0f811b2878"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244664&type=card",
+                "path": "full/decef3ee607f2a3b3216774f028bc6c760ea1113.jpg",
+                "checksum": "59913243ac50ce1b47d580192f53b33a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376497&type=card",
+                "path": "full/61139ddeb3cb9caba3f35c7c171f7133a32c09c1.jpg",
+                "checksum": "0f938ae4eb2a1177baf97cdd47bfcda6"
+            }
+        ],
+        "cardnumber": "212",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376497",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376497&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175127&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244664&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376497&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield."
+        ],
+        "prices": [
+            "£3.49p",
+            "£2.99p"
+        ],
+        "manacost": [
+            "3",
+            "White",
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [
+            "To gain audience with the hegemon, one must bring a riddle she has not heard."
+        ],
+        "types": "Legendary Artifact Creature  — Sphinx",
+        "allsets": [
+            "Shards of Alara (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)",
+            "Commander 2013 Edition (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.380",
+        "uid": "244663",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Sun Quan, Lord of Wu",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Xu Xiaoming",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244663&type=card",
+                "path": "full/dd7ac7b91e2536b580ff0a966cd3c6c64785a77f.jpg",
+                "checksum": "7a8c73f0953b50bf42de16d556f00293"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10513&type=card",
+                "path": "full/856226065d9b340991d566a3e97e2ab9c7e684af.jpg",
+                "checksum": "7b37e3aa2134677e400b719e704eb62c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244663&type=card",
+                "path": "full/e4c3269bf09b36c22eea6344f137bfae292935d3.jpg",
+                "checksum": "7a8c73f0953b50bf42de16d556f00293"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201302&type=card",
+                "path": "full/35788a797be0e83b60dae4f5f0cdd33f5165aa3b.jpg",
+                "checksum": "7b37e3aa2134677e400b719e704eb62c"
+            }
+        ],
+        "cardnumber": "12",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244663",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244663&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=10513&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244663&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201302&type=card"
+        ],
+        "cardtext": [
+            "Creatures you control have horsemanship.",
+            "(They can't be blocked except by creatures with horsemanship.)"
+        ],
+        "prices": [
+            "£19.99p"
+        ],
+        "manacost": [
+            "4",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"One score and four he reigned, the Southland king: / A dragon coiled, a tiger poised below the mighty Yangtze.\""
+        ],
+        "types": "Legendary Creature  — Human Soldier",
+        "allsets": [
+            "Portal Three Kingdoms (Rare)",
+            "From the Vault: Legends (Mythic Rare)",
+            "Masters Edition III (Rare)"
+        ]
+    },
+    {
+        "rating": "4.430",
+        "uid": "244667",
+        "pt": [
+            "3 / 4"
+        ],
+        "cardname": "Teferi, Mage of Zhalfir",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Volkan Baga",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244667&type=card",
+                "path": "full/6d6c86f497cbc1a9287b6d3eb2c166b8f7f9cceb.jpg",
+                "checksum": "d555827c43df7175959f8545c3322211"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121271&type=card",
+                "path": "full/3b1a607bab1df1ffc28bc359e4cffc60dbbbcd8b.jpg",
+                "checksum": "fad32ef0eaa0106c78a76adae7aa6412"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244667&type=card",
+                "path": "full/1bd4f127df869cbab8ef8825c6ec9fa248586c19.jpg",
+                "checksum": "d555827c43df7175959f8545c3322211"
+            }
+        ],
+        "cardnumber": "13",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244667",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244667&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=121271&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244667&type=card"
+        ],
+        "cardtext": [
+            "Flash",
+            "(You may cast this spell any time you could cast an instant.)",
+            "Creature cards you own that aren't on the battlefield have flash.",
+            "Each opponent can cast spells only any time he or she could cast a sorcery."
+        ],
+        "prices": [
+            "£5.99p"
+        ],
+        "manacost": [
+            "2",
+            "Blue",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [
+            "To save this plane, he must forsake all others."
+        ],
+        "types": "Legendary Creature  — Human Wizard",
+        "allsets": [
+            "Time Spiral (Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.201",
+        "uid": "261321",
+        "pt": [
+            "10 / 10"
+        ],
+        "cardname": "Ulamog, the Infinite Gyre",
+        "convertedmana": [
+            "11"
+        ],
+        "artist": "Aleksi Briclot",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=261321&type=card",
+                "path": "full/a9237f016902b194c5d628cf64ada92238b81f7f.jpg",
+                "checksum": "065edf7201b104fa9b9b6032307ddabe"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194911&type=card",
+                "path": "full/122a74348af40d6c98d59fe5ef6fcba66398106d.jpg",
+                "checksum": "69c4a52c4574fcc866da7fccc35ff0d6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=261321&type=card",
+                "path": "full/e37cb9b6a15d3b535f6875cb7737939656acfb34.jpg",
+                "checksum": "065edf7201b104fa9b9b6032307ddabe"
+            }
+        ],
+        "cardnumber": "14",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=261321",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=261321&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=194911&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=261321&type=card"
+        ],
+        "cardtext": [
+            "When you cast Ulamog, the Infinite Gyre, destroy target permanent.",
+            "Indestructible",
+            "Annihilator 4",
+            "(Whenever this creature attacks, defending player sacrifices four permanents.)",
+            "When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library."
+        ],
+        "prices": [
+            "£19.99p"
+        ],
+        "manacost": [
+            "11"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Eldrazi",
+        "allsets": [
+            "Rise of the Eldrazi (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.458",
+        "uid": "244677",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Visara the Dreadful",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Brad Rigney",
+        "expansion": "From the Vault: Legends (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244677&type=card",
+                "path": "full/542f5bf6ab94fd9f27594db071a0c7c0f7146739.jpg",
+                "checksum": "c73a3fa21a2ca5b06c182c8b0b6119a9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39863&type=card",
+                "path": "full/7b152dc8a3e7029ba3f946f837af81caececff97.jpg",
+                "checksum": "720cb15de4d6107e14a64ebbe2cc8ba5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244677&type=card",
+                "path": "full/f1615efb5b349ff60730c42255e5d5145e74e025.jpg",
+                "checksum": "c73a3fa21a2ca5b06c182c8b0b6119a9"
+            }
+        ],
+        "cardnumber": "15",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=244677",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=244677&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=39863&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244677&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Destroy target creature. It can't be regenerated."
+        ],
+        "prices": [
+            "£5.95p"
+        ],
+        "manacost": [
+            "3",
+            "Black",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "\"My eyes are my strongest feature.\""
+        ],
+        "types": "Legendary Creature  — Gorgon",
+        "allsets": [
+            "Onslaught (Rare)",
+            "From the Vault: Legends (Mythic Rare)"
+        ]
+    }
+]

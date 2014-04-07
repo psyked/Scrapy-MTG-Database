@@ -1,0 +1,2926 @@
+[
+    {
+        "rating": "4.383",
+        "uid": "247275",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Angel of Despair",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Todd Lockwood",
+        "expansion": "Magic: The Gathering-Commander (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247275&type=card",
+                "path": "full/e4ea810603c31522e2534d706e4c509ecffe8d24.jpg",
+                "checksum": "1b86e97631c1edaff2add28e55aa835a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83869&type=card",
+                "path": "full/cd0bd90152443720fcdb8872eff3cd724f4f4913.jpg",
+                "checksum": "919fe16d01186a0eadceb0c9a91678f0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247275&type=card",
+                "path": "full/37f58b282db878edb815f731336fd84ffcaebbd9.jpg",
+                "checksum": "1b86e97631c1edaff2add28e55aa835a"
+            }
+        ],
+        "cardnumber": "180",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247275",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247275&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83869&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247275&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Angel of Despair enters the battlefield, destroy target permanent."
+        ],
+        "prices": [
+            "£4.99p",
+            "£4.99p"
+        ],
+        "manacost": [
+            "3",
+            "White",
+            "White",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "\"I feel in them a sense of duty and commitment, yet I can feel nothing else. It is as if their duty is to an empty void.\"",
+            "—Razia, Boros archangel"
+        ],
+        "types": "Creature  — Angel",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Magic: The Gathering-Commander (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=277990&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=24119&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96936&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=277990&type=card"
+        ],
+        "rating": "3.708",
+        "uid": "277990",
+        "cardname": "Cremate",
+        "artist": "Cynthia Sheppard",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=277990&type=card",
+                "path": "full/e8bd1d59bd42bf3818e924e68bb025d6457b4e7d.jpg",
+                "checksum": "baa4a554a4ad91bebd699653015b474d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=24119&type=card",
+                "path": "full/451a523348fb3e86bc63c9e33e5b8efe8a4a1ef7.jpg",
+                "checksum": "ae774e5c3a140d79b8bf06cf934f54c4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96936&type=card",
+                "path": "full/882eb50719268b243fac3071b87a2dc1b314013f.jpg",
+                "checksum": "8bba123f4c6c89de2e10129f41f6f181"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=277990&type=card",
+                "path": "full/f827b6cce7efc63ff5e7396bdbe0f45ab1c17dc0.jpg",
+                "checksum": "baa4a554a4ad91bebd699653015b474d"
+            }
+        ],
+        "cardnumber": "59",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=277990",
+        "expansion": "Return to Ravnica (Common)",
+        "cardtext": [
+            "Exile target card from a graveyard.",
+            "Draw a card."
+        ],
+        "prices": [
+            "£0.20p",
+            "£0.35p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "Black"
+        ],
+        "flavortext": [
+            "\"Without a body, the soul is helpless to fight the terms of our contracts.\"",
+            "—Somhaur, Orzhov pontiff"
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Invasion (Uncommon)",
+            "Guildpact (Common)",
+            "Return to Ravnica (Common)"
+        ]
+    },
+    {
+        "rating": "2.685",
+        "uid": "197022",
+        "pt": [
+            "3 / 1"
+        ],
+        "cardname": "Daggerclaw Imp",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Pete Venters",
+        "expansion": "Duel Decks: Divine vs. Demonic (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=197022&type=card",
+                "path": "full/10c169b8870bd8342db5088d0620015e0878421b.jpg",
+                "checksum": "06b4a4830b7dafaa085dfdaba2fb8c24"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96949&type=card",
+                "path": "full/d7a7e8ed73e2a582c35b5c0214f1fd696adc8118.jpg",
+                "checksum": "060d01bd87b67389bdc10a9c71b93d91"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197022&type=card",
+                "path": "full/e5fddfa79fc0a0bf3a49e4b217443a26f7a5086e.jpg",
+                "checksum": "06b4a4830b7dafaa085dfdaba2fb8c24"
+            }
+        ],
+        "cardnumber": "33",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=197022",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=197022&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96949&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=197022&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Daggerclaw Imp can't block."
+        ],
+        "prices": [
+            "£0.25p"
+        ],
+        "manacost": [
+            "2",
+            "Black"
+        ],
+        "flavortext": [
+            "The Simic use the claws as scalpels, while the Rakdos use them for tattooing and torture. The Gruul use them to pick their teeth after lunching on the rest of the carcass."
+        ],
+        "types": "Creature  — Imp",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Divine vs. Demonic (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.518",
+        "uid": "292730",
+        "pt": [
+            "3 / 5"
+        ],
+        "cardname": "Djinn Illuminatus",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Carl Critchlow",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292730&type=card",
+                "path": "full/d9a9441f9905f1b22e6c9f43ffcc5e51051e982d.jpg",
+                "checksum": "f1d99fd4fbf529142a5763de401f93de"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97197&type=card",
+                "path": "full/6553dae5ee178d8f15e0483a0f770a2376552a52.jpg",
+                "checksum": "844e2da51062514a3c992c457f52f397"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292730&type=card",
+                "path": "full/8bef8db2fe7a78c00e0f9a27c8c823ab557bfce5.jpg",
+                "checksum": "f1d99fd4fbf529142a5763de401f93de"
+            }
+        ],
+        "cardnumber": "12",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292730",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292730&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97197&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292730&type=card"
+        ],
+        "cardtext": [
+            "(",
+            "can be paid with either",
+            "or",
+            ".)",
+            "Flying",
+            "Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost.",
+            "(When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.75p"
+        ],
+        "manacost": [
+            "5",
+            "Blue or Red",
+            "Blue or Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Djinn",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Duel Decks: Izzet vs. Golgari (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370376&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96829&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247276&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370376&type=card"
+        ],
+        "rating": "4.355",
+        "uid": "370376",
+        "cardname": "Electrolyze",
+        "artist": "Zoltan Boros & Gabor Szikszai",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370376&type=card",
+                "path": "full/77ae7afa752e78e2fd9576739141bcb4ef33fedc.jpg",
+                "checksum": "623e973662fe6d362d7f34e1796d0202"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96829&type=card",
+                "path": "full/e3da600e6cc91f5cf11e97ac60bf52aff542a700.jpg",
+                "checksum": "133e4580b38de1be37d8d8e62d21d5d7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247276&type=card",
+                "path": "full/020b418abea4ac0e8b4f13d133c8abdf542634f3.jpg",
+                "checksum": "049cf54a082acd7ba9b66889fe44e9bc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370376&type=card",
+                "path": "full/fb3f66393c2c2fd4ad9c0695a16de8a94ee7a713.jpg",
+                "checksum": "623e973662fe6d362d7f34e1796d0202"
+            }
+        ],
+        "cardnumber": "175",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370376",
+        "expansion": "Modern Masters (Uncommon)",
+        "cardtext": [
+            "Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.",
+            "Draw a card."
+        ],
+        "prices": [
+            "£1.99p",
+            "£1.99p",
+            "£1.99p"
+        ],
+        "manacost": [
+            "1",
+            "Blue",
+            "Red"
+        ],
+        "flavortext": [
+            "The Izzet learn something from every lesson they teach."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)",
+            "Modern Masters (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.368",
+        "uid": "368969",
+        "pt": [
+            "2 / 1"
+        ],
+        "cardname": "Feral Animist",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Dave Kendall",
+        "expansion": "Dragon's Maze (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368969&type=card",
+                "path": "full/5a8c3fd44c9436bc435afd45ca539f22bea52496.jpg",
+                "checksum": "6526392da1fd838f6ca7063b17afbd45"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96945&type=card",
+                "path": "full/ea3c0c335e69e6ebea6ef2162fdb4fbaba53d73d.jpg",
+                "checksum": "e6a91e8f91396a34e4d0714d1a403c00"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368969&type=card",
+                "path": "full/119f37cf09eb95d30b16da5a6623d36422130161.jpg",
+                "checksum": "6526392da1fd838f6ca7063b17afbd45"
+            }
+        ],
+        "cardnumber": "70",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368969",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368969&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96945&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368969&type=card"
+        ],
+        "cardtext": [
+            ": Feral Animist gets +X/+0 until end of turn, where X is its power."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "1",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"Channeling the rage of the beast is the easy part. Explaining why you woke up with no memory in a pile of mangled lawmages—that's trickier.\""
+        ],
+        "types": "Creature  — Goblin Shaman",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Dragon's Maze (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.491",
+        "uid": "292731",
+        "pt": [
+            "0 / 1"
+        ],
+        "cardname": "Gelectrode",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Dan Scott",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292731&type=card",
+                "path": "full/acfd383c73f7bb7771e3930c9eb234fb3b4c6ac7.jpg",
+                "checksum": "fb05d49a0e4f27b2c11ffbb3214c5fe4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96891&type=card",
+                "path": "full/cea0ce4f00fbb9f841500c996a2acdc1c3d800cb.jpg",
+                "checksum": "d39b9367b3671517b52c68a090d2d357"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292731&type=card",
+                "path": "full/84e800fc965db50d304fcfe67d24e8ff6cbf0454.jpg",
+                "checksum": "fb05d49a0e4f27b2c11ffbb3214c5fe4"
+            }
+        ],
+        "cardnumber": "5",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292731",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292731&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96891&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292731&type=card"
+        ],
+        "cardtext": [
+            ": Gelectrode deals 1 damage to target creature or player.",
+            "Whenever you cast an instant or sorcery spell, you may untap Gelectrode."
+        ],
+        "prices": [
+            "£1.49p",
+            "£1.49p"
+        ],
+        "manacost": [
+            "1",
+            "Blue",
+            "Red"
+        ],
+        "flavortext": [
+            "\"Diametrically opposing energies in self-sealed plasmodermic bubbles make great pets!\"",
+            "—Trivaz, Izzet mage"
+        ],
+        "types": "Creature  — Weird",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "rating": "2.829",
+        "uid": "132105",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Ghost Warden",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Ittoku",
+        "expansion": "Tenth Edition (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=132105&type=card",
+                "path": "full/2f195bfe54fb639545a290cca9326306d79ccbee.jpg",
+                "checksum": "b4537f3547dfec4bc425328dc48a8592"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=132105&type=card",
+                "path": "full/70059d23178c44afbd72def67abf6587c4240cc9.jpg",
+                "checksum": "b4537f3547dfec4bc425328dc48a8592"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96901&type=card",
+                "path": "full/45eecb9656753fcf1d549094ec62f14a03a2b6d1.jpg",
+                "checksum": "8992c803d65a3157167fa6622a43d87e"
+            }
+        ],
+        "cardnumber": "16",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=132105",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=132105&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=132105&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96901&type=card"
+        ],
+        "cardtext": [
+            ": Target creature gets +1/+1 until end of turn."
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "1",
+            "White"
+        ],
+        "flavortext": [
+            "\"I thought of fate as an iron lattice, intricate but rigidly unchangeable. That was until some force bent fate's bars to spare my life.\"",
+            "—Ilromov, traveling storyteller"
+        ],
+        "types": "Creature  — Spirit",
+        "allsets": [
+            "Tenth Edition (Common)",
+            "Guildpact (Common)"
+        ]
+    },
+    {
+        "rating": "3.100",
+        "uid": "373373",
+        "pt": [
+            "2 / 3"
+        ],
+        "cardname": "Ghor-Clan Savage",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Greg Staples",
+        "expansion": "Duel Decks: Heroes vs. Monsters (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373373&type=card",
+                "path": "full/866c2fddd654258b8efb6da8de4d08ee74a926c4.jpg",
+                "checksum": "0f2d7c870eb2eb3e4012fdcede0a74b2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96849&type=card",
+                "path": "full/c8ab8cf83e369645a8227a92d7285d9398b01029.jpg",
+                "checksum": "505202b759af992ac90a215dcd86b1ce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373373&type=card",
+                "path": "full/9ad4fcc5525bf25e7b9c1466d59033c2c8d68c69.jpg",
+                "checksum": "0f2d7c870eb2eb3e4012fdcede0a74b2"
+            }
+        ],
+        "cardnumber": "53",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373373",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373373&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96849&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373373&type=card"
+        ],
+        "cardtext": [
+            "Bloodthirst 3",
+            "(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)"
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [
+            "The snap of sinew. The crunch of bone. A cry for mercy. These are the music of the Gruul."
+        ],
+        "types": "Creature  — Centaur Berserker",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Heroes vs. Monsters (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=366302&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96935&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366302&type=card"
+        ],
+        "rating": "4.347",
+        "uid": "366302",
+        "cardname": "Godless Shrine",
+        "artist": "Cliff Childs",
+        "convertedmana": [],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=366302&type=card",
+                "path": "full/95c735d80dc97c88c40f74016269a149a077689f.jpg",
+                "checksum": "b50d27a5995e79b2d7dca1bfb439c53a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96935&type=card",
+                "path": "full/bc6398ed7cb832c72c6ea95ebfbba4e45e55e712.jpg",
+                "checksum": "31b2cd47ac1e9141d5edae33b7b45f21"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366302&type=card",
+                "path": "full/3f36aabe8a947f1fe49f173a0fadffb5ab33a8d8.jpg",
+                "checksum": "b50d27a5995e79b2d7dca1bfb439c53a"
+            }
+        ],
+        "cardnumber": "242",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=366302",
+        "expansion": "Gatecrash (Rare)",
+        "cardtext": [
+            "(",
+            ": Add",
+            "or",
+            "to your mana pool.)",
+            "As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped."
+        ],
+        "prices": [
+            "£13.99p",
+            "£7.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Judgment without hope."
+        ],
+        "types": "Land  — Plains Swamp",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Gatecrash (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247277&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96859&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220504&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247277&type=card"
+        ],
+        "rating": "3.340",
+        "uid": "247277",
+        "cardname": "Gruul Signet",
+        "artist": "Greg Hildebrandt",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247277&type=card",
+                "path": "full/17634d2c7860bc362fc25f0924684a21da2172a2.jpg",
+                "checksum": "f4da0aa440711e6963561e5b1a5c8c1c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96859&type=card",
+                "path": "full/acbd0d667255bfa23419eb5d31c1fc50f302b628.jpg",
+                "checksum": "bdb0e29ba344e934cec13a66249ba5ac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220504&type=card",
+                "path": "full/0bef2a4afcecb6f541a4b4dcfca1a97c3a788c52.jpg",
+                "checksum": "bdd1dfe922b127edb631112e13c98a1a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247277&type=card",
+                "path": "full/daf4c0734ce6a826ecf4afe10130f0585d2b9e9e.jpg",
+                "checksum": "f4da0aa440711e6963561e5b1a5c8c1c"
+            }
+        ],
+        "cardnumber": "250",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247277",
+        "expansion": "Magic: The Gathering-Commander (Common)",
+        "cardtext": [
+            ",",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "2"
+        ],
+        "flavortext": [
+            "Gruul territorial markings need not be legible. The blood, snot, and muck used to smear them are unmistakably Gruul."
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Guildpact (Common)",
+            "Archenemy (Common)",
+            "Magic: The Gathering-Commander (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271228&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97223&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247278&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205353&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271228&type=card"
+        ],
+        "rating": "3.389",
+        "uid": "271228",
+        "cardname": "Gruul Turf",
+        "artist": "John Avon",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271228&type=card",
+                "path": "full/492567a00c87bfeb1fdbab744aa58bb6b9f65b23.jpg",
+                "checksum": "38b4277da85cdef3b7149d05baa184be"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97223&type=card",
+                "path": "full/e26e43c1758a556069c9736c2cb823f0d746e120.jpg",
+                "checksum": "c341636a5dccc8182bfcbf16e13581fa"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247278&type=card",
+                "path": "full/bea6a211ec27c551858143cee2b63d4bd90e760d.jpg",
+                "checksum": "41ff0421428fefd1583d6d6c816d3805"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205353&type=card",
+                "path": "full/692f4519bed855b861af6720659020d1283a2ff3.jpg",
+                "checksum": "3baafcfd54eaad499bac2b43f08a4e38"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271228&type=card",
+                "path": "full/00765741bf8ca593ff53c21efc2971d89a555bc8.jpg",
+                "checksum": "38b4277da85cdef3b7149d05baa184be"
+            }
+        ],
+        "cardnumber": "119",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271228",
+        "expansion": "Planechase 2012 Edition (Common)",
+        "cardtext": [
+            "Gruul Turf enters the battlefield tapped.",
+            "When Gruul Turf enters the battlefield, return a land you control to its owner's hand.",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.49p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Guildpact (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Planechase (Common)",
+            "Planechase 2012 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292732&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83630&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292732&type=card"
+        ],
+        "rating": "3.810",
+        "uid": "292732",
+        "cardname": "Invoke the Firemind",
+        "artist": "Zoltan Boros & Gabor Szikszai",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292732&type=card",
+                "path": "full/ab998e0bee46c58c215172650b15f798951cd7e5.jpg",
+                "checksum": "9d90fc3cfc35f3be5c644b69d43298e2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83630&type=card",
+                "path": "full/90a00c371a2502a52ec6435b5abe039a00e96f13.jpg",
+                "checksum": "9c7a4c74ce4a679d9e92beba7e019421"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292732&type=card",
+                "path": "full/74e1c978eb5a40e632a4f6102cd1b3786ecd7c4f.jpg",
+                "checksum": "9d90fc3cfc35f3be5c644b69d43298e2"
+            }
+        ],
+        "cardnumber": "31",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292732",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Rare)",
+        "cardtext": [
+            "Choose one — Draw X cards; or Invoke the Firemind deals X damage to target creature or player."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.79p"
+        ],
+        "manacost": [
+            "Variable Colorless",
+            "Blue",
+            "Blue",
+            "Red"
+        ],
+        "flavortext": [
+            "To those in tune with the Firemind, there is no difference between knowledge and flame."
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Duel Decks: Izzet vs. Golgari (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376377&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97220&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247279&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292733&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376377&type=card"
+        ],
+        "rating": "4.200",
+        "uid": "376377",
+        "cardname": "Izzet Boilerworks",
+        "artist": "John Avon",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376377&type=card",
+                "path": "full/80403e43c61abbbb8605220985987ac4c2e17b6b.jpg",
+                "checksum": "556a417ccfc9d8554fd0e9bae1dd5379"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97220&type=card",
+                "path": "full/34c3011cf9d53b3ce612bf68a144e048082d776a.jpg",
+                "checksum": "166b1eabdd2dd3067c7f2e9596d5cc8e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247279&type=card",
+                "path": "full/637b5edbc0871ae93ad97de9732ae9d4ca29e4a1.jpg",
+                "checksum": "e83237acc7253ae2e65cb469b3615923"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292733&type=card",
+                "path": "full/60096b074af674719c26d2a7e3bc5e63914746a3.jpg",
+                "checksum": "a4a4fd9d3f63452805b36cc6e41619a7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376377&type=card",
+                "path": "full/bc4cf69daa18f3f450c28a0f6e6796e8fdb84413.jpg",
+                "checksum": "556a417ccfc9d8554fd0e9bae1dd5379"
+            }
+        ],
+        "cardnumber": "296",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376377",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Izzet Boilerworks enters the battlefield tapped.",
+            "When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Guildpact (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "3.429",
+        "uid": "292734",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Izzet Chronarch",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Steven Belledin",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292734&type=card",
+                "path": "full/6ed2bba51d07f3df4abf4259f8cb545944b97d7c.jpg",
+                "checksum": "98a0e6056679cd366995b571619a2511"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97202&type=card",
+                "path": "full/fe31bc1815828026a0d8fbf1b772ed51ab653f89.jpg",
+                "checksum": "e9930317addbc488519bc0ad48c1f47d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247280&type=card",
+                "path": "full/dd68c2d8f441b8dc92b2778ccd768cca7b34e01c.jpg",
+                "checksum": "7994046e5ef9175aa677855443cd5839"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292734&type=card",
+                "path": "full/12807bdb917f562f2c939b3244d63a24bef6ba41.jpg",
+                "checksum": "98a0e6056679cd366995b571619a2511"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292734",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292734&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97202&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247280&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292734&type=card"
+        ],
+        "cardtext": [
+            "When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.15p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "3",
+            "Blue",
+            "Red"
+        ],
+        "flavortext": [
+            "He ensures not only whether but also when and where the lightning strikes twice."
+        ],
+        "types": "Creature  — Human Wizard",
+        "allsets": [
+            "Guildpact (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292736&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96867&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247281&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292736&type=card"
+        ],
+        "rating": "4.042",
+        "uid": "292736",
+        "cardname": "Izzet Signet",
+        "artist": "Raoul Vitale",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292736&type=card",
+                "path": "full/2ddb178319e55833652fcff0cc47448952f923a8.jpg",
+                "checksum": "c9d01465b29b8b7a97221118f3b459f5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96867&type=card",
+                "path": "full/f2ec5eb90cf44b0a7c592d047932f6eabbbd135b.jpg",
+                "checksum": "78d1d600edd64c01fc7b9141c1594c4b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247281&type=card",
+                "path": "full/7ca04f95e8e896feeccb9d55b5369043e171df8a.jpg",
+                "checksum": "1e48b3e3e11396662995bfa68ec9a084"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292736&type=card",
+                "path": "full/0cf8d4c3755b22907af12a64de69fc90dce8f09a.jpg",
+                "checksum": "c9d01465b29b8b7a97221118f3b459f5"
+            }
+        ],
+        "cardnumber": "17",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292736",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "cardtext": [
+            ",",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "2"
+        ],
+        "flavortext": [
+            "The Izzet signet is redesigned often, each time becoming closer to a vanity portrait of Niv-Mizzet."
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Guildpact (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "rating": "4.341",
+        "uid": "292735",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Izzet Guildmage",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Jim Murray",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292735&type=card",
+                "path": "full/1aad83ef705cad207d9b4b7b1cb03c3e6dbeffca.jpg",
+                "checksum": "3aa40746a5916c201b9c2a0bf3c2f644"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96966&type=card",
+                "path": "full/e75cf1dcf0ad6cf707efad1fbb13008b3e359fa4.jpg",
+                "checksum": "8febd1f67c2dc367dbabe0da656ea9d0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292735&type=card",
+                "path": "full/fa63bdf28e4f20daedf33f29220a3277ef3db6ee.jpg",
+                "checksum": "3aa40746a5916c201b9c2a0bf3c2f644"
+            }
+        ],
+        "cardnumber": "4",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292735",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292735&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96966&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292735&type=card"
+        ],
+        "cardtext": [
+            "(",
+            "can be paid with either",
+            "or",
+            ".)",
+            ": Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.",
+            ": Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "Blue or Red",
+            "Blue or Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Human Wizard",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205013&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205013&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107682&type=card"
+        ],
+        "rating": "4.372",
+        "uid": "205013",
+        "cardname": "Leyline of the Void",
+        "artist": "Rob Alexander",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205013&type=card",
+                "path": "full/7594ea5f12be27076b176fc9280d1e112391d2b4.jpg",
+                "checksum": "b3a09049aec044bc5ee48f3b2db9b801"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205013&type=card",
+                "path": "full/5d73f8c974cd3ccb09e871cfaf6fa1c845c61082.jpg",
+                "checksum": "b3a09049aec044bc5ee48f3b2db9b801"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107682&type=card",
+                "path": "full/f21fcf18393cd83a096d0fa0dc54ba5de3db3b79.jpg",
+                "checksum": "e078f7a5fee650b24faa0b39e68c3803"
+            }
+        ],
+        "cardnumber": "101",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=205013",
+        "expansion": "Magic 2011 (Rare)",
+        "cardtext": [
+            "If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.",
+            "If a card would be put into an opponent's graveyard from anywhere, exile it instead."
+        ],
+        "prices": [
+            "£2.49p",
+            "£2.49p"
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Enchantment",
+        "allsets": [
+            "Magic 2011 (Rare)",
+            "Guildpact (Rare)"
+        ]
+    },
+    {
+        "rating": "3.250",
+        "uid": "243420",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Lionheart Maverick",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Hideaki Takamura",
+        "expansion": "Duel Decks: Knights vs. Dragons (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243420&type=card",
+                "path": "full/b2002a73bf1d7bf1d37d1ca5ff10c7fc00d02d7e.jpg",
+                "checksum": "dbf95d1c950467323e3db49231b827c6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96841&type=card",
+                "path": "full/e1454507d09d3bfc21288f7d35761ba4993be506.jpg",
+                "checksum": "065332c07d06c0de3e181bd1e8858bea"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243420&type=card",
+                "path": "full/399654cd107589af0fc151210b557ef0a8873336.jpg",
+                "checksum": "dbf95d1c950467323e3db49231b827c6"
+            }
+        ],
+        "cardnumber": "3",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=243420",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243420&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96841&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243420&type=card"
+        ],
+        "cardtext": [
+            "Vigilance",
+            ": Lionheart Maverick gets +1/+2 until end of turn."
+        ],
+        "prices": [
+            "£0.20p"
+        ],
+        "manacost": [
+            "White"
+        ],
+        "flavortext": [
+            "\"Your signet is no symbol of power. It marks only your need for numbers to aid you. What do you do, guild-rat, now that you face my blade alone?\""
+        ],
+        "types": "Creature  — Human Knight",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Knights vs. Dragons (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368498&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96930&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247282&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368498&type=card"
+        ],
+        "rating": "4.500",
+        "uid": "368498",
+        "cardname": "Mortify",
+        "artist": "Nils Hamm",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368498&type=card",
+                "path": "full/8e0fb94a101c493f4885b2048aa7d5578811077b.jpg",
+                "checksum": "c5fe3588a16e63dadad2d82469c81d85"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96930&type=card",
+                "path": "full/32dbe2d613d5b20bb9f7a9c5240b70344d35cc24.jpg",
+                "checksum": "c6bb1450e7140b2648d1eeab63b9ecbc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247282&type=card",
+                "path": "full/08a001accba7e74788f9cea5770e17ca1c013be7.jpg",
+                "checksum": "7cb49382c103ddd421df9c6385751baa"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368498&type=card",
+                "path": "full/9824aeb6e46886f779b55c86fd4c6317c9b17a30.jpg",
+                "checksum": "c5fe3588a16e63dadad2d82469c81d85"
+            }
+        ],
+        "cardnumber": "25",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368498",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "cardtext": [
+            "Destroy target creature or enchantment."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "1",
+            "White",
+            "Black"
+        ],
+        "flavortext": [
+            "Many who cross Sorin's path come down with a sudden and fatal case of being-in-the-way-of-a-millennia-old-vampire."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.424",
+        "uid": "292738",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Niv-Mizzet, the Firemind",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Svetlin Velinov",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292738&type=card",
+                "path": "full/92842c4caa6ceaf9ce8c2b3812e0948949fdf0eb.jpg",
+                "checksum": "1b1663f859dd78746de209bad3ccdedc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96952&type=card",
+                "path": "full/911302e77cbc6117a8eea5c211cf3fba2479694e.jpg",
+                "checksum": "9c0313ce0601984845d9bc4689688661"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178023&type=card",
+                "path": "full/ae0331798adab8f7d49ff47174ae6a0c1602be90.jpg",
+                "checksum": "c7d5f4681b8dd1315514c81135ba7c6f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292738&type=card",
+                "path": "full/eb9aa4203220b8be5bfb4f777f8296395e69fe11.jpg",
+                "checksum": "1b1663f859dd78746de209bad3ccdedc"
+            }
+        ],
+        "cardnumber": "1",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292738",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292738&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96952&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178023&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292738&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.",
+            ": Draw a card."
+        ],
+        "prices": [
+            "£14.99p",
+            "£6.99p",
+            "£10.99p"
+        ],
+        "manacost": [
+            "2",
+            "Blue",
+            "Blue",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Dragon Wizard",
+        "allsets": [
+            "Guildpact (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Duel Decks: Izzet vs. Golgari (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292737&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96937&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292737&type=card"
+        ],
+        "rating": "1.478",
+        "uid": "292737",
+        "cardname": "Nivix, Aerie of the Firemind",
+        "artist": "Martina Pilcerova",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292737&type=card",
+                "path": "full/fe93ade7107eee0f78a12307a6454026b6630168.jpg",
+                "checksum": "4bfead338558673124d1e2db539e7f53"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96937&type=card",
+                "path": "full/a8a7b03bd39d64fad5a583fe67744e030a46475a.jpg",
+                "checksum": "e03fdc3c04b06da42d6ec946c2e818ca"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292737&type=card",
+                "path": "full/c313bba8388926627addee50766abfba8b7fde2c.jpg",
+                "checksum": "4bfead338558673124d1e2db539e7f53"
+            }
+        ],
+        "cardnumber": "36",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292737",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            ",",
+            ": Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.19p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Niv-Mizzet's genius and vanity reverberate throughout the mirrored halls of Nivix."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "rating": "2.300",
+        "uid": "338389",
+        "pt": [
+            "3 / 2"
+        ],
+        "cardname": "Ogre Savant",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Parente",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338389&type=card",
+                "path": "full/bb4649055b73a78af18b532d918b7f27454d56b7.jpg",
+                "checksum": "5870cd862df5dfbe094e78b7370c50cd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97236&type=card",
+                "path": "full/aeaef1f209d30a794bf4bcc5837af7ea6a411b4d.jpg",
+                "checksum": "558be0947ef02c6c6a7c224a2f9e9f3d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249387&type=card",
+                "path": "full/5bcd6c987b3eb58b5c3881bb5613d547be5861be.jpg",
+                "checksum": "71dbf51eda32b49d1b4c5b39c575399c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338389&type=card",
+                "path": "full/4e2d9b8cb1c2262bf7219ae9a580a0b0541edf25.jpg",
+                "checksum": "5870cd862df5dfbe094e78b7370c50cd"
+            }
+        ],
+        "cardnumber": "9",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338389",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338389&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97236&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249387&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338389&type=card"
+        ],
+        "cardtext": [
+            "When Ogre Savant enters the battlefield, if",
+            "was spent to cast Ogre Savant, return target creature to its owner's hand."
+        ],
+        "prices": [
+            "£0.25p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "4",
+            "Red"
+        ],
+        "flavortext": [
+            "He's an oxymoron."
+        ],
+        "types": "Creature  — Ogre Wizard",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247285&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96870&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247285&type=card"
+        ],
+        "rating": "3.429",
+        "uid": "247285",
+        "cardname": "Orzhov Signet",
+        "artist": "Greg Hildebrandt",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247285&type=card",
+                "path": "full/04b1ecfd9eb26a2b17dd97739a7f89e05aec7b2d.jpg",
+                "checksum": "795b1db21e90140eeafe5bf0922d59ac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96870&type=card",
+                "path": "full/69a3d85b087f802ed06686815da15e48270130c7.jpg",
+                "checksum": "f8e5ca42aacd716d6d36255042c62b3a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247285&type=card",
+                "path": "full/fa741dda7da31087c39b52d45f8b6fc9de4c66a5.jpg",
+                "checksum": "795b1db21e90140eeafe5bf0922d59ac"
+            }
+        ],
+        "cardnumber": "255",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247285",
+        "expansion": "Magic: The Gathering-Commander (Common)",
+        "cardtext": [
+            ",",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "2"
+        ],
+        "flavortext": [
+            "The form of the sigil is just as important as the sigil itself. If it's carried on a medallion, its bearer is a master. If it's tattooed on the body, its bearer is a slave."
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Guildpact (Common)",
+            "Magic: The Gathering-Commander (Common)"
+        ]
+    },
+    {
+        "rating": "3.677",
+        "uid": "247284",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Orzhov Guildmage",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Greg Staples",
+        "expansion": "Magic: The Gathering-Commander (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247284&type=card",
+                "path": "full/c3305fbe389af110711c30420f8addaf83224ac1.jpg",
+                "checksum": "4590dcd5ec7ce5b3a60de0315eb36087"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96921&type=card",
+                "path": "full/edfc9b047417c3467e4e99d76e1b1e7f8a3f9b9d.jpg",
+                "checksum": "f78395a19eb97ff1545a8cd4c796f824"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247284&type=card",
+                "path": "full/4f60c361324edd540d26cae80acf568279814e02.jpg",
+                "checksum": "4590dcd5ec7ce5b3a60de0315eb36087"
+            }
+        ],
+        "cardnumber": "217",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247284",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247284&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96921&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247284&type=card"
+        ],
+        "cardtext": [
+            ": Target player gains 1 life.",
+            ": Each player loses 1 life."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "White or Black",
+            "White or Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Human Wizard",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376442&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96871&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247283&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376442&type=card"
+        ],
+        "rating": "4.250",
+        "uid": "376442",
+        "cardname": "Orzhov Basilica",
+        "artist": "John Avon",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376442&type=card",
+                "path": "full/031fd41a81a9d95ff1e08d8226e4bb6c67bced8a.jpg",
+                "checksum": "1185ec91559e293c0c2ba0a1c9b1325b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96871&type=card",
+                "path": "full/4374071e1f9e1d36193f03077a8770dde128b27a.jpg",
+                "checksum": "e178b2cf7395f359bfaa20fa487b8ad1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247283&type=card",
+                "path": "full/72ff1045e6e82475ad53d3d7b884d21bac90637f.jpg",
+                "checksum": "54605921dacb3b2fc0ec5ed132c06a4a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376442&type=card",
+                "path": "full/3f3205e2e748ad388f8a52ec3abbb8b8d279d116.jpg",
+                "checksum": "1185ec91559e293c0c2ba0a1c9b1325b"
+            }
+        ],
+        "cardnumber": "311",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376442",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Orzhov Basilica enters the battlefield tapped.",
+            "When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.49p",
+            "£0.99p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Guildpact (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "3.688",
+        "uid": "338396",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Plagued Rusalka",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Alex Horley-Orlandelli",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338396&type=card",
+                "path": "full/0b8a6ca3f5e4bcfa1740c5b02f133c88b3a66730.jpg",
+                "checksum": "ead8bcd817cff50ad04c70c1053ab15a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107691&type=card",
+                "path": "full/579791d01e76a5af9c4a58ba948c9fbaaa451290.jpg",
+                "checksum": "24753dfb7ee53222f1a8d67d896b9cee"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338396&type=card",
+                "path": "full/a3f9127af8e64a6f31c4d1add910b8f4755f430c.jpg",
+                "checksum": "ead8bcd817cff50ad04c70c1053ab15a"
+            }
+        ],
+        "cardnumber": "46",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338396",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338396&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107691&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338396&type=card"
+        ],
+        "cardtext": [
+            ", Sacrifice a creature: Target creature gets -1/-1 until end of turn."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "Black"
+        ],
+        "flavortext": [
+            "\"Look at her, once filled with innocence. Death has a way of wringing away such . . . deficiencies.\"",
+            "—Savra"
+        ],
+        "types": "Creature  — Spirit",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292739&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96845&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292739&type=card"
+        ],
+        "rating": "2.647",
+        "uid": "292739",
+        "cardname": "Pyromatics",
+        "artist": "Glen Angus",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292739&type=card",
+                "path": "full/d38c99ab3b568e34a17ce85970ba64fa1536b373.jpg",
+                "checksum": "39b3efd36392e0401b43ec7eea45374d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96845&type=card",
+                "path": "full/31e750b626254c027c55118b4bc404de7b94a57b.jpg",
+                "checksum": "41476c97db00f7e2d2c14fb4bee83dfd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292739&type=card",
+                "path": "full/248da20f0e3d2b4d821b7a4854d25e8014e2399b.jpg",
+                "checksum": "39b3efd36392e0401b43ec7eea45374d"
+            }
+        ],
+        "cardnumber": "20",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292739",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "cardtext": [
+            "Replicate",
+            "",
+            "(When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)",
+            "Pyromatics deals 1 damage to target creature or player."
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "1",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370644&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96826&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370644&type=card"
+        ],
+        "rating": "4.160",
+        "uid": "370644",
+        "cardname": "Quicken",
+        "artist": "Aleksi Briclot",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370644&type=card",
+                "path": "full/f0362c51094f12fc73d863c11e2faf8c236227ff.jpg",
+                "checksum": "0b52932a996eb8d68d1af900246ff750"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96826&type=card",
+                "path": "full/3084ea952052eb0fb598a02b45a579b1688248f4.jpg",
+                "checksum": "89c35f743b4b80e620287d7e966f7c42"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370644&type=card",
+                "path": "full/8962eb8b5d3b73a9337a9627c9f91476b387dde0.jpg",
+                "checksum": "0b52932a996eb8d68d1af900246ff750"
+            }
+        ],
+        "cardnumber": "68",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370644",
+        "expansion": "Magic 2014 Core Set (Rare)",
+        "cardtext": [
+            "The next sorcery card you cast this turn can be cast as though it had flash.",
+            "(It can be cast any time you could cast an instant.)",
+            "Draw a card."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.79p"
+        ],
+        "manacost": [
+            "Blue"
+        ],
+        "flavortext": [
+            "A skilled Izzet chronarch can carry out an epic vendetta between the fall of one hourglass grain and the next."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Magic 2014 Core Set (Rare)"
+        ]
+    },
+    {
+        "rating": "2.944",
+        "uid": "368532",
+        "pt": [
+            "4 / 3"
+        ],
+        "cardname": "Revenant Patriarch",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Nick Percival",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368532&type=card",
+                "path": "full/93c10de959201f531726e838332593c33daf0756.jpg",
+                "checksum": "678489dea802f766b6e4905a282c5cfb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96972&type=card",
+                "path": "full/7415eb0f3fc6fefaa2575e56e24ed667458d754d.jpg",
+                "checksum": "ff9b8327f3db391e729208999d776bc2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368532&type=card",
+                "path": "full/c3c3dea3b9e542b0a6710428b9237ac5f99ad5dd.jpg",
+                "checksum": "678489dea802f766b6e4905a282c5cfb"
+            }
+        ],
+        "cardnumber": "16",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368532",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368532&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96972&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368532&type=card"
+        ],
+        "cardtext": [
+            "When Revenant Patriarch enters the battlefield, if",
+            "was spent to cast it, target player skips his or her next combat phase.",
+            "Revenant Patriarch can't block."
+        ],
+        "prices": [
+            "£0.25p"
+        ],
+        "manacost": [
+            "4",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Spirit",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.343",
+        "uid": "205354",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Rumbling Slum",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Carl Critchlow",
+        "expansion": "Planechase (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205354&type=card",
+                "path": "full/b0acb4e18f59510c1edf710246d0ba46b3c58e89.jpg",
+                "checksum": "a2206085a3a75b020f441154ada5f78d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97199&type=card",
+                "path": "full/ce6988f724131c6de672faae470a004ae26e7b99.jpg",
+                "checksum": "fccb7d7623db97c19486c72037c01f72"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205354&type=card",
+                "path": "full/d808951786657532641fe7033729acaf8711df89.jpg",
+                "checksum": "a2206085a3a75b020f441154ada5f78d"
+            }
+        ],
+        "cardnumber": "93",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=205354",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205354&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97199&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205354&type=card"
+        ],
+        "cardtext": [
+            "At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player."
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "1",
+            "Red",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [
+            "The Orzhov contract the Izzet to animate slum districts and banish them to the wastes. The Gruul adopt them and send them back to the city for vengeance."
+        ],
+        "types": "Creature  — Elemental",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Planechase (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376482&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3551&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97216&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220505&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247286&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205355&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376482&type=card"
+        ],
+        "rating": "4.125",
+        "uid": "376482",
+        "cardname": "Savage Twister",
+        "artist": "John Avon",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376482&type=card",
+                "path": "full/d0d46d4eca2bfa2b8ec3aee94e6ee4c0e184f17a.jpg",
+                "checksum": "1ba8ee4f55ea54c97f119c7ca1ac68db"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3551&type=card",
+                "path": "full/458e1a20982325ed51b144d440605bb0873e2600.jpg",
+                "checksum": "dafeeda37743063a9f7630c562efb49f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97216&type=card",
+                "path": "full/c77f24f094d1c644a5f0c9df5a206470f76e14a1.jpg",
+                "checksum": "84f9648d2c67acbc27a481af633cfc5b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220505&type=card",
+                "path": "full/37203be44b6fb938430227e666065a086acc0756.jpg",
+                "checksum": "5fd8b559a91256530b8b651274f5ae74"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247286&type=card",
+                "path": "full/e2bc362321a51c2861024e2bd5a86c1fb2075c27.jpg",
+                "checksum": "fab7e0e8bb25102118b669fc95175205"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205355&type=card",
+                "path": "full/0b456af94f074a46cac3a4da369ed3f1be1719bd.jpg",
+                "checksum": "84cf131170372e9f1535ef120acfea9e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376482&type=card",
+                "path": "full/a788e84cf7b69b4a00c77b696bbe7134f47ae7ca.jpg",
+                "checksum": "1ba8ee4f55ea54c97f119c7ca1ac68db"
+            }
+        ],
+        "cardnumber": "208",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376482",
+        "expansion": "Commander 2013 Edition (Uncommon)",
+        "cardtext": [
+            "Savage Twister deals X damage to each creature."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.40p",
+            "£0.35p",
+            "£0.35p"
+        ],
+        "manacost": [
+            "Variable Colorless",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example.\"—Trigori, Azorius senator"
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Mirage (Uncommon)",
+            "Guildpact (Uncommon)",
+            "Archenemy (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)",
+            "Planechase (Uncommon)",
+            "Commander 2013 Edition (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.389",
+        "uid": "368504",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Scorched Rusalka",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Luca Zontini",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368504&type=card",
+                "path": "full/3bf319a93fb624589d17b7f5ff3019a14f6e75cf.jpg",
+                "checksum": "9788c9ca7deeab05cc0d2dd45bb804d8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107698&type=card",
+                "path": "full/272878e2ea5d9a8275e0d5ce5cb6eea838eeed93.jpg",
+                "checksum": "879809fa785d83a802a7ce99fd0546b7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368504&type=card",
+                "path": "full/2d53e5e8f493c649cde85e088d023710f58be949.jpg",
+                "checksum": "9788c9ca7deeab05cc0d2dd45bb804d8"
+            }
+        ],
+        "cardnumber": "43",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368504",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368504&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107698&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368504&type=card"
+        ],
+        "cardtext": [
+            ", Sacrifice a creature: Scorched Rusalka deals 1 damage to target player."
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "Red"
+        ],
+        "flavortext": [
+            "Each small blaze she sets jogs her memory, letting her piece together the mystery of her own fiery end."
+        ],
+        "types": "Creature  — Spirit",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.300",
+        "uid": "271230",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Silhana Ledgewalker",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "James Wong",
+        "expansion": "Planechase 2012 Edition (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271230&type=card",
+                "path": "full/ecc73378dd64db212fcfae10beb22e5da7d649d8.jpg",
+                "checksum": "9c19df41d77f9aef332012f33bd3ace1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96825&type=card",
+                "path": "full/a673d2d4c0d3e6a0e01ea06170c994b66569dbb1.jpg",
+                "checksum": "2d3c716111816e722220174f651a966b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271230&type=card",
+                "path": "full/8010c859fffbed8095b4a003899f3cd04fdf2d5a.jpg",
+                "checksum": "9c19df41d77f9aef332012f33bd3ace1"
+            }
+        ],
+        "cardnumber": "77",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271230",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271230&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96825&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271230&type=card"
+        ],
+        "cardtext": [
+            "Hexproof",
+            "(This creature can't be the target of spells or abilities your opponents control.)",
+            "Silhana Ledgewalker can't be blocked except by creatures with flying."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "1",
+            "Green"
+        ],
+        "flavortext": [
+            "Street folk call them \"spire mice,\" but behind the mockery is an unspoken envy of the ledgewalkers' skill at avoiding harm."
+        ],
+        "types": "Creature  — Elf Rogue",
+        "allsets": [
+            "Guildpact (Common)",
+            "Planechase 2012 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "3.091",
+        "uid": "373413",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Skarrgan Skybreaker",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Dan Scott",
+        "expansion": "Duel Decks: Heroes vs. Monsters (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373413&type=card",
+                "path": "full/b076e8864af6da41686fa08be8d98d43fee8e354.jpg",
+                "checksum": "762fa26f30cfa132c3e7f91344df102a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97222&type=card",
+                "path": "full/3bb16e6b516921cf85d62c8527d7e9714331dfed.jpg",
+                "checksum": "c092751eee12f6ae215e870c12613efe"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373413&type=card",
+                "path": "full/bff005ee2082d200e9fac3601bf78fc9a854d41b.jpg",
+                "checksum": "762fa26f30cfa132c3e7f91344df102a"
+            }
+        ],
+        "cardnumber": "60",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373413",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373413&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97222&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373413&type=card"
+        ],
+        "cardtext": [
+            "Bloodthirst 3",
+            "(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)",
+            ", Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player."
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "4",
+            "Red",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"The sky isn't falling—it's being thrown at us!\"—Otak, Tin Street shopkeep"
+        ],
+        "types": "Creature  — Giant Shaman",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Heroes vs. Monsters (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.091",
+        "uid": "373393",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Skarrgan Firebird",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Kev Walker",
+        "expansion": "Duel Decks: Heroes vs. Monsters (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373393&type=card",
+                "path": "full/5bd980f04ff94a43d6f34dc6b849c6994b720a3f.jpg",
+                "checksum": "904fc9e0df6ca91150c104bafcd87825"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96957&type=card",
+                "path": "full/0961b1a5aeabea428f98c31d4f9cb23b7f40b487.jpg",
+                "checksum": "ab1af47cbc749a289948a25f680dadf3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373393&type=card",
+                "path": "full/7fd0d51778386c260dc7bec19822fdea86c77f01.jpg",
+                "checksum": "904fc9e0df6ca91150c104bafcd87825"
+            }
+        ],
+        "cardnumber": "57",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373393",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373393&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96957&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373393&type=card"
+        ],
+        "cardtext": [
+            "Bloodthirst 3",
+            "(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)",
+            "Flying",
+            ": Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn."
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "4",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Phoenix",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Duel Decks: Heroes vs. Monsters (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373357&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96970&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271231&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373357&type=card"
+        ],
+        "rating": "4.182",
+        "uid": "373357",
+        "cardname": "Skarrg, the Rage Pits",
+        "artist": "Martina Pilcerova",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373357&type=card",
+                "path": "full/046079d0bc9667838b402b5d16f98af889d2e118.jpg",
+                "checksum": "7131de990c3fbfcbe9b38affa72a7ee1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96970&type=card",
+                "path": "full/fe1aaf5686ebcb4c255d391e5089708ce56dcff2.jpg",
+                "checksum": "33e8f0ae6d9bd5e2e79e412c1e58b451"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271231&type=card",
+                "path": "full/46f39f3ef36148fb34f912a74eabd514b490a93a.jpg",
+                "checksum": "b2b9f6054f0c014a9fe1315ba90af37f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373357&type=card",
+                "path": "full/138fdc597c06594857829f77715f62109ff74f25.jpg",
+                "checksum": "7131de990c3fbfcbe9b38affa72a7ee1"
+            }
+        ],
+        "cardnumber": "73",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373357",
+        "expansion": "Duel Decks: Heroes vs. Monsters (Uncommon)",
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            ",",
+            ": Target creature gets +1/+1 and gains trample until end of turn."
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "\"This palace will be our fire-spit, and roasted prince our victory meal. Send in the torch-pigs!\"—Ghut Rak, Gruul guildmage"
+        ],
+        "types": "Land",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Planechase 2012 Edition (Uncommon)",
+            "Duel Decks: Heroes vs. Monsters (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.500",
+        "uid": "370363",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Skeletal Vampire",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Wayne Reynolds",
+        "expansion": "Modern Masters (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370363&type=card",
+                "path": "full/51af690e660243bf7827091c96b585aa37d74a00.jpg",
+                "checksum": "3e578dd9419ce8c416b4c11544e21b70"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96899&type=card",
+                "path": "full/e33b5fc517166851a3c3beb74128978414c94bfd.jpg",
+                "checksum": "0c0fd6527ddc45f4a07a811c674920b9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201809&type=card",
+                "path": "full/da0947c05fbb1510f351fb22514bea113e037f1e.jpg",
+                "checksum": "f96c65f2d1640aaf6b7bca8e5be75b6f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370363&type=card",
+                "path": "full/4c592b4d9a88628ea5fc3745f3bbc4f266d525f6.jpg",
+                "checksum": "3e578dd9419ce8c416b4c11544e21b70"
+            }
+        ],
+        "cardnumber": "96",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370363",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370363&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96899&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201809&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370363&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.",
+            ", Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.",
+            "Sacrifice a Bat: Regenerate Skeletal Vampire."
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Vampire Skeleton",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Duel Decks: Garruk vs. Liliana (Rare)",
+            "Modern Masters (Rare)"
+        ]
+    },
+    {
+        "rating": "3.409",
+        "uid": "338393",
+        "pt": [
+            "1 / 3"
+        ],
+        "cardname": "Steamcore Weird",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Justin Norman",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338393&type=card",
+                "path": "full/8493529c5dec671ea4fd237b1eccc95f6ef017ac.jpg",
+                "checksum": "21a0e5687baf79d3713f822cfbc5e83b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97201&type=card",
+                "path": "full/785ec3c77f5f216fa866979e6b1c898020faa918.jpg",
+                "checksum": "9e9a843127b07074b7f50e3e64d98be4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259273&type=card",
+                "path": "full/ad53f8843100535e51890747d23b6a299cdf4dcd.jpg",
+                "checksum": "93d2fbc14f806e0fb8160f3ae9bfd46a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338393&type=card",
+                "path": "full/6f71130fc7520d3b91ab667661045df738533035.jpg",
+                "checksum": "21a0e5687baf79d3713f822cfbc5e83b"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338393",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338393&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97201&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259273&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338393&type=card"
+        ],
+        "cardtext": [
+            "When Steamcore Weird enters the battlefield, if",
+            "was spent to cast Steamcore Weird, it deals 2 damage to target creature or player."
+        ],
+        "prices": [
+            "£0.25p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [
+            "Like many Izzet creations, weirds are based on wild contradictions yet somehow manage to work."
+        ],
+        "types": "Creature  — Weird",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=253682&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96923&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=253682&type=card"
+        ],
+        "rating": "4.274",
+        "uid": "253682",
+        "cardname": "Steam Vents",
+        "artist": "Yeong-Hao Han",
+        "convertedmana": [],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=253682&type=card",
+                "path": "full/80d9b47da353889255377dbc519f29e5949f3e5f.jpg",
+                "checksum": "8ce15b8e9c90fa518d17dec8e0609dd6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96923&type=card",
+                "path": "full/0a56308387de6d10e39edf6347605fc219d3f286.jpg",
+                "checksum": "850dedce21f9fc3c3c57662c38ac240c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=253682&type=card",
+                "path": "full/10058976ba31fec11912a3e41520a7f8eb57e319.jpg",
+                "checksum": "8ce15b8e9c90fa518d17dec8e0609dd6"
+            }
+        ],
+        "cardnumber": "247",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=253682",
+        "expansion": "Return to Ravnica (Rare)",
+        "cardtext": [
+            "(",
+            ": Add",
+            "or",
+            "to your mana pool.)",
+            "As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped."
+        ],
+        "prices": [
+            "£7.99p",
+            "£8.49p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Crafted with genius, energized with madness."
+        ],
+        "types": "Land  — Island Mountain",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Return to Ravnica (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=366232&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96896&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366232&type=card"
+        ],
+        "rating": "4.229",
+        "uid": "366232",
+        "cardname": "Stomping Ground",
+        "artist": "David Palumbo",
+        "convertedmana": [],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=366232&type=card",
+                "path": "full/22f80dd0481746e0d7e2c5104e7aa977e524340c.jpg",
+                "checksum": "dc1fb1669b1c936bb4ec54e029ea4b56"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96896&type=card",
+                "path": "full/1b3fa0f5c89a86e1f8db580ff5affb1333087234.jpg",
+                "checksum": "2fb78f270cef63022afd19a7dbd77dcb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=366232&type=card",
+                "path": "full/4ee4706a6ecdc1744052ba73318d6c8b2b3ae00a.jpg",
+                "checksum": "dc1fb1669b1c936bb4ec54e029ea4b56"
+            }
+        ],
+        "cardnumber": "247",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=366232",
+        "expansion": "Gatecrash (Rare)",
+        "cardtext": [
+            "(",
+            ": Add",
+            "or",
+            "to your mana pool.)",
+            "As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped."
+        ],
+        "prices": [
+            "£7.99p",
+            "£14.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "\"Roots, ruins, and room to fight. All the comforts of home.\"",
+            "—Domri Rade"
+        ],
+        "types": "Land  — Mountain Forest",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Gatecrash (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247287&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96968&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247287&type=card"
+        ],
+        "rating": "3.440",
+        "uid": "247287",
+        "cardname": "Storm Herd",
+        "artist": "Jim Nelson",
+        "convertedmana": [
+            "10"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247287&type=card",
+                "path": "full/711376d925a79a5ed1641bb75ac26e99c976290e.jpg",
+                "checksum": "238577e7a98d4390c13e9b4a51da090b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96968&type=card",
+                "path": "full/74f5f2b9ec05b0c5c385e0ed1170722d7388ca0a.jpg",
+                "checksum": "34dfab3ed0e2c991abc9ba689e7f13e6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247287&type=card",
+                "path": "full/0a81c48512b3e8215b79531cf5b4f5124993a16a.jpg",
+                "checksum": "238577e7a98d4390c13e9b4a51da090b"
+            }
+        ],
+        "cardnumber": "34",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247287",
+        "expansion": "Magic: The Gathering-Commander (Rare)",
+        "cardtext": [
+            "Put X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "8",
+            "White",
+            "White"
+        ],
+        "flavortext": [
+            "\"When you hear thunder on a cloudless day, take cover and brace for the coming of the storm herd.\"",
+            "—Skotov, Tin Street basket vendor"
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Magic: The Gathering-Commander (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376538&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107095&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376538&type=card"
+        ],
+        "rating": "3.714",
+        "uid": "376538",
+        "cardname": "Sword of the Paruns",
+        "artist": "Greg Hildebrandt",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376538&type=card",
+                "path": "full/cda39b44a2f1df9e57819ab43e6e4c06379aa3a2.jpg",
+                "checksum": "b8c38a0694d76faaff79ffe3dbba3905"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107095&type=card",
+                "path": "full/5850d3dd070a06007a88f3123cb4638c2b1fb66f.jpg",
+                "checksum": "ff60ecc6bd89a00c656bd2fa92eca330"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376538&type=card",
+                "path": "full/0bdd53f6cc714ed136c7c3840f5e42a67885a168.jpg",
+                "checksum": "b8c38a0694d76faaff79ffe3dbba3905"
+            }
+        ],
+        "cardnumber": "264",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376538",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "cardtext": [
+            "As long as equipped creature is tapped, tapped creatures you control get +2/+0.",
+            "As long as equipped creature is untapped, untapped creatures you control get +0/+2.",
+            ": You may tap or untap equipped creature.",
+            "Equip"
+        ],
+        "prices": [
+            "£0.50p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "4"
+        ],
+        "flavortext": [],
+        "types": "Artifact  — Equipment",
+        "allsets": [
+            "Guildpact (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338397&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96946&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338397&type=card"
+        ],
+        "rating": "3.500",
+        "uid": "338397",
+        "cardname": "Thunderheads",
+        "artist": "Hideaki Takamura",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338397&type=card",
+                "path": "full/35ef7b5382c00b50a182ea2984d02398fa36f96a.jpg",
+                "checksum": "f0b86efee77adea164cfa183d58c9cb9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96946&type=card",
+                "path": "full/14a4a1a75803e9d4e57569ffa66d93a14bcaf5c6.jpg",
+                "checksum": "3ea442eff96ab90f0943b842c7621290"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338397&type=card",
+                "path": "full/335a9709da226d02aea0d2111a1111f66f52d9e4.jpg",
+                "checksum": "f0b86efee77adea164cfa183d58c9cb9"
+            }
+        ],
+        "cardnumber": "23",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338397",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "cardtext": [
+            "Replicate",
+            "",
+            "(When you cast this spell, copy it for each time you paid its replicate cost.)",
+            "Put a 3/3 blue Weird creature token with defender and flying onto the battlefield. Exile it at the beginning of the next end step."
+        ],
+        "prices": [
+            "£0.35p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "The clouds grew thick, and then they grew teeth."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292740&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96906&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292740&type=card"
+        ],
+        "rating": "3.450",
+        "uid": "292740",
+        "cardname": "Train of Thought",
+        "artist": "Matt Thompson",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292740&type=card",
+                "path": "full/79813b32da48c72fffc86629c91b960f8f5453b9.jpg",
+                "checksum": "781ec1854aeb1036219f77b0da63fd40"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96906&type=card",
+                "path": "full/5c416b6748c8a775f6baf936c0a6c2c35b1c3d9d.jpg",
+                "checksum": "e93d3eaf5177431f1c944db8bb70ffe9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292740&type=card",
+                "path": "full/21114c4a5dd25ce01f7d3f53fd8ca3068b74454a.jpg",
+                "checksum": "781ec1854aeb1036219f77b0da63fd40"
+            }
+        ],
+        "cardnumber": "19",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292740",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "cardtext": [
+            "Replicate",
+            "",
+            "(When you cast this spell, copy it for each time you paid its replicate cost.)",
+            "Draw a card."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.10p"
+        ],
+        "manacost": [
+            "1",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"But then . . . oh, but . . . which means . . . which would lead to . . . exactly!\""
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338398&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96851&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338398&type=card"
+        ],
+        "rating": "1.821",
+        "uid": "338398",
+        "cardname": "Vacuumelt",
+        "artist": "Nottsuo",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338398&type=card",
+                "path": "full/a50448a8e9880f0a02a5fc0d8ed8eb8420748075.jpg",
+                "checksum": "ba6adbaa5d29a9a4e71f93d5668e01a9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96851&type=card",
+                "path": "full/732403f191b5aead9e5d15a415afa6f65ea9ae34.jpg",
+                "checksum": "1413eff0243f35f7d1b2fea1054c5de4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338398&type=card",
+                "path": "full/c35cce3ad70bfb8f1432b70b714bbeb6609caa89.jpg",
+                "checksum": "ba6adbaa5d29a9a4e71f93d5668e01a9"
+            }
+        ],
+        "cardnumber": "24",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338398",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Uncommon)",
+        "cardtext": [
+            "Replicate",
+            "",
+            "(When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)",
+            "Return target creature to its owner's hand."
+        ],
+        "prices": [
+            "£0.35p",
+            "£0.19p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Duel Decks: Izzet vs. Golgari (Uncommon)"
+        ]
+    },
+    {
+        "rating": "2.827",
+        "uid": "247288",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Vedalken Plotter",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Greg Staples",
+        "expansion": "Magic: The Gathering-Commander (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247288&type=card",
+                "path": "full/509feee74f0bcf2efae543dc05068224efab26d4.jpg",
+                "checksum": "91596bc2e6ce180260e30d9c4feb37ea"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96920&type=card",
+                "path": "full/44e84dcac6bb2bd7fda85c970a6a97063143be8b.jpg",
+                "checksum": "b7f76edf4f457c6cebb13369bea2f16a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247288&type=card",
+                "path": "full/f5fe58982d12ec56135cd441def0cf93c0d5dcf4.jpg",
+                "checksum": "91596bc2e6ce180260e30d9c4feb37ea"
+            }
+        ],
+        "cardnumber": "66",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247288",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247288&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96920&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247288&type=card"
+        ],
+        "cardtext": [
+            "When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls."
+        ],
+        "prices": [
+            "£0.25p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"Fair? At what point in our negotiations did you convince yourself my goal was to be fair?\""
+        ],
+        "types": "Creature  — Vedalken Wizard",
+        "allsets": [
+            "Guildpact (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.263",
+        "uid": "292741",
+        "pt": [
+            "1 / 3"
+        ],
+        "cardname": "Wee Dragonauts",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Greg Staples",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292741&type=card",
+                "path": "full/90aaff448551951bd9a836cf0f167e86ee66a66d.jpg",
+                "checksum": "a89b391b54882868978e6ea71c7b9af2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96903&type=card",
+                "path": "full/06843bdd81ee26ed7d94f0065946dada65158071.jpg",
+                "checksum": "16829cba4bc10e4deee45388fd1580d2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292741&type=card",
+                "path": "full/68139c81b190a7f2207d350d6f221ef5aebfd8cd.jpg",
+                "checksum": "a89b391b54882868978e6ea71c7b9af2"
+            }
+        ],
+        "cardnumber": "6",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292741",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292741&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96903&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292741&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "1",
+            "Blue",
+            "Red"
+        ],
+        "flavortext": [
+            "\"The blazekite is a simple concept, really—just a vehicular application of dragscoop ionics and electropropulsion magnetronics.\"",
+            "—Juzba, Izzet tinker"
+        ],
+        "types": "Creature  — Faerie Wizard",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=159036&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107097&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159036&type=card"
+        ],
+        "rating": "2.817",
+        "uid": "159036",
+        "cardname": "Wildsize",
+        "artist": "Jim Murray",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=159036&type=card",
+                "path": "full/5c35cbe49b26ddc38de13461f28f8e7f62422dce.jpg",
+                "checksum": "65ebce98097cf92bd8dbb8f127ef67e9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=107097&type=card",
+                "path": "full/4865dcf96f3c831123924030411b7280f90cc7fd.jpg",
+                "checksum": "bea32c47d17899c84dc158c75494751a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=159036&type=card",
+                "path": "full/97291fffb844e1664463229bb1e8c0b6653cca00.jpg",
+                "checksum": "65ebce98097cf92bd8dbb8f127ef67e9"
+            }
+        ],
+        "cardnumber": "23",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=159036",
+        "expansion": "Duel Decks: Elves vs. Goblins (Common)",
+        "cardtext": [
+            "Target creature gets +2/+2 and gains trample until end of turn.",
+            "Draw a card."
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "2",
+            "Green"
+        ],
+        "flavortext": [
+            "Two times the size, four times the smell."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Guildpact (Common)",
+            "Duel Decks: Elves vs. Goblins (Common)"
+        ]
+    }
+]

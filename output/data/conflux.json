@@ -1,0 +1,3357 @@
+[
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370360&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179513&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368527&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370360&type=card"
+        ],
+        "rating": "2.636",
+        "uid": "370360",
+        "cardname": "Absorb Vis",
+        "artist": "Brandon Kitkouski",
+        "convertedmana": [
+            "7"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370360&type=card",
+                "path": "full/a4830277be3f8c3695135bef77d5e1ae5d1421dd.jpg",
+                "checksum": "adeba12f1050aaaf73dff251e1df222d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179513&type=card",
+                "path": "full/10e4c9a8774dbf794f7e2069f67ba2cb6af02ce7.jpg",
+                "checksum": "454e01f5eb1280df86d0049f8c90a28a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368527&type=card",
+                "path": "full/6d54af70db03ee7722321dd6244940f3e1ea3bd2.jpg",
+                "checksum": "42333ad470746e8a9420330fc89f5bba"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370360&type=card",
+                "path": "full/3464fc724f6147e830594539382d207f1d4c5d97.jpg",
+                "checksum": "adeba12f1050aaaf73dff251e1df222d"
+            }
+        ],
+        "cardnumber": "71",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370360",
+        "expansion": "Modern Masters (Common)",
+        "cardtext": [
+            "Target player loses 4 life and you gain 4 life.",
+            "Basic landcycling",
+            "",
+            "(",
+            ", Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)"
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.10p"
+        ],
+        "manacost": [
+            "6",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Sorin vs. Tibalt (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "rating": "3.667",
+        "uid": "376239",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Aerie Mystics",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Mark Zug",
+        "expansion": "Commander 2013 Edition (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376239&type=card",
+                "path": "full/c66d5fdb6560f131bab094129cebb1e8198b8b8e.jpg",
+                "checksum": "8d869a0d1e2f05b79ea48ae45968b677"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153946&type=card",
+                "path": "full/2f9287efc05e023619a44ebe52d7d8dd8db9d4e5.jpg",
+                "checksum": "df5e27478e305a94516d8206c33547ef"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376239&type=card",
+                "path": "full/8af21ca945f6131a778453674ba040ece0b4e283.jpg",
+                "checksum": "8d869a0d1e2f05b79ea48ae45968b677"
+            }
+        ],
+        "cardnumber": "2",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376239",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376239&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=153946&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376239&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Creatures you control gain shroud until end of turn.",
+            "(They can't be the targets of spells or abilities.)"
+        ],
+        "prices": [
+            "£0.20p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "4",
+            "White"
+        ],
+        "flavortext": [
+            "They are cautious with their body language and facial expressions. Any stray movement could betray the positions of the troops they protect and cost many lives."
+        ],
+        "types": "Creature  — Bird Wizard",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Commander 2013 Edition (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=207930&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189271&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207930&type=card"
+        ],
+        "rating": "4.157",
+        "uid": "207930",
+        "cardname": "Ancient Ziggurat",
+        "artist": "John Avon",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=207930&type=card",
+                "path": "full/f5c04f75d3316fe29dd9ef50c1de85e30b3d41f8.jpg",
+                "checksum": "16070a3e65896ba7a96fd2f6b931e76b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189271&type=card",
+                "path": "full/15531c76c1930639732071539da1cafbad4f3972.jpg",
+                "checksum": "9b61e249028b9473263bde027e04a704"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207930&type=card",
+                "path": "full/a481618525712b8ece7ce6fda18ca74817433599.jpg",
+                "checksum": "16070a3e65896ba7a96fd2f6b931e76b"
+            }
+        ],
+        "cardnumber": "31",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=207930",
+        "expansion": "Premium Deck Series: Slivers (Uncommon)",
+        "cardtext": [
+            ": Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Built in honor of Alara's creatures, the ziggurat vanished long ago. When Progenitus awakened, the temple emerged again."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Premium Deck Series: Slivers (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376249&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=137936&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243480&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247177&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270825&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271137&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376249&type=card"
+        ],
+        "rating": "3.650",
+        "uid": "376249",
+        "cardname": "Armillary Sphere",
+        "artist": "Franz Vohwinkel",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376249&type=card",
+                "path": "full/4ff255c62d1d7b866da2fb5e087f5035b91a6e22.jpg",
+                "checksum": "9152913ee9298688990e0db982a96ecd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=137936&type=card",
+                "path": "full/d853bbddda7d33116c928f6b05414183ec1b01ef.jpg",
+                "checksum": "c96a440bca8f90c2a9cf7cabcce895c3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243480&type=card",
+                "path": "full/58dd862d84fce12f2e614fadafc0a8c1674fe3c4.jpg",
+                "checksum": "ea2a62a15735b376fd56ed6ed7ae9668"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247177&type=card",
+                "path": "full/0b98589e8e3f53522dd0aef52fe4b3b5505db0ca.jpg",
+                "checksum": "b0e58af18be3e377907873f0db7e68ee"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270825&type=card",
+                "path": "full/d8994142ed8fcdcb592849ae3907a42702231e97.jpg",
+                "checksum": "a4d5d1d43196c820275d6f88951a66ed"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271137&type=card",
+                "path": "full/8498a0206ee07a3a75df5b8cf75ede53d846b675.jpg",
+                "checksum": "3092191c974e6542705ac8aacc2f5846"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376249&type=card",
+                "path": "full/f9e44ce848a714d22f76d50cdb369a77557eb800.jpg",
+                "checksum": "9152913ee9298688990e0db982a96ecd"
+            }
+        ],
+        "cardnumber": "235",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376249",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            ",",
+            ", Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p",
+            "£0.15p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "2"
+        ],
+        "flavortext": [
+            "The mysterious purpose of two of the rings had eluded Esper mages—until now."
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Knights vs. Dragons (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Duel Decks: Venser vs. Koth (Common)",
+            "Planechase 2012 Edition (Common)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "3.107",
+        "uid": "265712",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Aven Squire",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "David Palumbo",
+        "expansion": "Magic 2013 (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=265712&type=card",
+                "path": "full/39f7432551401da0d993b14d569c0d1bfc35617a.jpg",
+                "checksum": "c4028b50d0ca79c2645887403034e486"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265712&type=card",
+                "path": "full/846d297c35c0ee6b3ce9eb2364b4bc4f9694b2c4.jpg",
+                "checksum": "c4028b50d0ca79c2645887403034e486"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184992&type=card",
+                "path": "full/0d2a9c3914df9fc1f7f0af73d24950d430efcde1.jpg",
+                "checksum": "e7086631f027e0cd6f33e94acbd2247f"
+            }
+        ],
+        "cardnumber": "6",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=265712",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=265712&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265712&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184992&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Exalted",
+            "(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+        ],
+        "prices": [
+            "£0.20p",
+            "£0.20p"
+        ],
+        "manacost": [
+            "1",
+            "White"
+        ],
+        "flavortext": [
+            "When the meek charge into battle, courage becomes infectious."
+        ],
+        "types": "Creature  — Bird Soldier",
+        "allsets": [
+            "Magic 2013 (Common)",
+            "Conflux (Common)"
+        ]
+    },
+    {
+        "rating": "2.893",
+        "uid": "249390",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Brackwater Elemental",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Thomas M. Baxa",
+        "expansion": "Duel Decks: Ajani vs. Nicol Bolas (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249390&type=card",
+                "path": "full/c31ee9d6aa55665de9d0a15ee4f4752b632a07b0.jpg",
+                "checksum": "2bdf0adf37baf70cb1edf73c1d067233"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180147&type=card",
+                "path": "full/0e82a61ab2d5efc4afbfac84b930abc6d0f8fc31.jpg",
+                "checksum": "736a60079ea9d1482e889ade0ba18f35"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249390&type=card",
+                "path": "full/96e5239574e41847857362a8783857660f46a486.jpg",
+                "checksum": "2bdf0adf37baf70cb1edf73c1d067233"
+            }
+        ],
+        "cardnumber": "46",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=249390",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249390&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180147&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249390&type=card"
+        ],
+        "cardtext": [
+            "When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.",
+            "Unearth",
+            "",
+            "(",
+            ": Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Elemental",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Common)"
+        ]
+    },
+    {
+        "rating": "2.056",
+        "uid": "370757",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Canyon Minotaur",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Steve Prescott",
+        "expansion": "Magic 2014 Core Set (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370757&type=card",
+                "path": "full/cd42c218ae3f17cb9605d8bb67358b39acbdf9be.jpg",
+                "checksum": "08b865e6a35f27b495d3a9c79a183ce9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191059&type=card",
+                "path": "full/5d5708fe6e977d1d4261c79ee97fde655c804a08.jpg",
+                "checksum": "088d7122eb1077f8a4cfe50aca173bff"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208000&type=card",
+                "path": "full/da20242831a145126214e6e8f8c33ebb261da55c.jpg",
+                "checksum": "f67d8ab1a1725cc8c9ec55e2162df442"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259211&type=card",
+                "path": "full/40a9b9e57eea2792da6e3495d0290657549868f1.jpg",
+                "checksum": "0fc6d1d21079ee71111c927c29f678d8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184994&type=card",
+                "path": "full/44a74d97f4ecc66e918e1512f90220951441d62f.jpg",
+                "checksum": "ab7caf589dc389027fccbe6735dfc303"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370757&type=card",
+                "path": "full/96aba8bbd1e6f6464239f369744a5d4148bc6d36.jpg",
+                "checksum": "08b865e6a35f27b495d3a9c79a183ce9"
+            }
+        ],
+        "cardnumber": "131",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370757",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370757&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191059&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208000&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259211&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184994&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370757&type=card"
+        ],
+        "cardtext": [],
+        "prices": [
+            "£0.10p",
+            "£0.10p",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Red"
+        ],
+        "flavortext": [
+            "\"We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side.\"\"Isn't the shortest route through the canyon?\"\"Yes.\"\"So shouldn't we—\"\"No.\""
+        ],
+        "types": "Creature  — Minotaur Warrior",
+        "allsets": [
+            "Magic 2010 (Common)",
+            "Magic 2011 (Common)",
+            "Magic 2013 (Common)",
+            "Conflux (Common)",
+            "Magic 2014 Core Set (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220195&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191595&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208290&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220195&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183055&type=card"
+        ],
+        "rating": "3.576",
+        "uid": "220195",
+        "cardname": "Celestial Purge",
+        "artist": "David Palumbo",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220195&type=card",
+                "path": "full/5af3f0d172cd2b7bf060a7a4a17e2183abf90952.jpg",
+                "checksum": "3f71f48ef44a538f59e925bfc74b7b60"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191595&type=card",
+                "path": "full/efb02ba6d593678022dae66989eb72addfd7e85d.jpg",
+                "checksum": "eb349a0cd049eddcc27b2a2f30d5d0b6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208290&type=card",
+                "path": "full/f4c3e7cb025db504b60b7457cdedae67efc825b6.jpg",
+                "checksum": "c3e306e4cf6a687c7fd0798e1d1a56c5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220195&type=card",
+                "path": "full/dc01dbecd4a876cfd80175be8b8dbec9f4fb0ff2.jpg",
+                "checksum": "3f71f48ef44a538f59e925bfc74b7b60"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183055&type=card",
+                "path": "full/2087f8dbe21c72c9f307224fee22a6a8fa7212ee.jpg",
+                "checksum": "bc2f2f1e43d32c6ce03f7a25cbbf99b8"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=220195",
+        "expansion": "Magic 2012 (Uncommon)",
+        "cardtext": [
+            "Exile target black or red permanent."
+        ],
+        "prices": [
+            "£0.25p",
+            "",
+            "",
+            "",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "1",
+            "White"
+        ],
+        "flavortext": [
+            "\"A world without evil? Boring. Give me vile fiends to smite and banish any day.\"",
+            "—Sarlena, paladin of the Northern Verge"
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Magic 2010 (Uncommon)",
+            "Magic 2011 (Uncommon)",
+            "Magic 2012 (Uncommon)",
+            "Conflux (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.438",
+        "uid": "376279",
+        "pt": [
+            "6 / 6"
+        ],
+        "cardname": "Charnelhoard Wurm",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Lars Grant-West",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376279&type=card",
+                "path": "full/4de832a1e20249f69f3d4285d774ed7e70f55a55.jpg",
+                "checksum": "7481d0d55d5ee92da6a6b89783e021b1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179438&type=card",
+                "path": "full/235877d6a35eb4a9c56195320bf0dbbf59aa0e0d.jpg",
+                "checksum": "af2364c42bfdd086617d5fc09ec45bc6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376279&type=card",
+                "path": "full/6965523ed81fcc5d048a50bd326730b330d8ba53.jpg",
+                "checksum": "7481d0d55d5ee92da6a6b89783e021b1"
+            }
+        ],
+        "cardnumber": "180",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376279",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376279&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179438&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376279&type=card"
+        ],
+        "cardtext": [
+            "Trample",
+            "Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand."
+        ],
+        "prices": [
+            "£0.50p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "Jund's dragons hoard only sangrite crystals. Its wurms aren't so picky."
+        ],
+        "types": "Creature  — Wurm",
+        "allsets": [
+            "Conflux (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249406&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=186327&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249406&type=card"
+        ],
+        "rating": "4.035",
+        "uid": "249406",
+        "cardname": "Countersquall",
+        "artist": "Anthony Francisco",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249406&type=card",
+                "path": "full/8c850cfa2e1391decd32a8ded2eb1539114887e5.jpg",
+                "checksum": "e7c86346864de8e0512f1d4a8a534864"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=186327&type=card",
+                "path": "full/10245863960057c2df90149cb9f8f37d3610e8fa.jpg",
+                "checksum": "18fe2dff42400985af15f6d969960e2e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249406&type=card",
+                "path": "full/23444e9665602048632c4b270dd00ce41a501686.jpg",
+                "checksum": "e7c86346864de8e0512f1d4a8a534864"
+            }
+        ],
+        "cardnumber": "59",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=249406",
+        "expansion": "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)",
+        "cardtext": [
+            "Counter target noncreature spell. Its controller loses 2 life."
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [
+            "\"The essence of every world, every spell, and every thought is power. Nothing else matters, because nothing else exists.\"",
+            "—Nicol Bolas"
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.750",
+        "uid": "370495",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Court Homunculus",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Matt Cavotta",
+        "expansion": "Modern Masters (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370495&type=card",
+                "path": "full/5f36d7e7df91d8632053665416341ae2fee7e3b2.jpg",
+                "checksum": "79be6ab2f7c6c977a1b0cf60307340b0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182607&type=card",
+                "path": "full/bf91061261c6deaf070ae032a82ac866936a8b12.jpg",
+                "checksum": "b50cc1eb17f66e3e657f38216494e9b5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370495&type=card",
+                "path": "full/f845797432835c44f2b99e6f707e42eb3386c138.jpg",
+                "checksum": "79be6ab2f7c6c977a1b0cf60307340b0"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370495",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370495&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182607&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370495&type=card"
+        ],
+        "cardtext": [
+            "Court Homunculus gets +1/+1 as long as you control another artifact."
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "White"
+        ],
+        "flavortext": [
+            "Mages of Esper measure their wealth and status by the number of servants in their retinues."
+        ],
+        "types": "Artifact Creature  — Homunculus",
+        "allsets": [
+            "Conflux (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370391&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179239&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370391&type=card"
+        ],
+        "rating": "2.583",
+        "uid": "370391",
+        "cardname": "Drag Down",
+        "artist": "Trevor Claxton",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370391&type=card",
+                "path": "full/1c4e6f2d8fbd19eb742cc96f2bd11b24c669961a.jpg",
+                "checksum": "2fa9d774d6708be7d1bb672c82d3c60e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179239&type=card",
+                "path": "full/8a00c90de96c40f291f374b9f4ac62ee497e6fb1.jpg",
+                "checksum": "bbb50d2dee11c549ef9b75a2af90c49c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370391&type=card",
+                "path": "full/e0d6174523f62f112f20eb8b7b57ef1948344e35.jpg",
+                "checksum": "2fa9d774d6708be7d1bb672c82d3c60e"
+            }
+        ],
+        "cardnumber": "80",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370391",
+        "expansion": "Modern Masters (Common)",
+        "cardtext": [
+            "Domain — Target creature gets -1/-1 until end of turn for each basic land type among lands you control."
+        ],
+        "prices": [
+            "£0.15p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "2",
+            "Black"
+        ],
+        "flavortext": [
+            "The barbarians of Jund believe the bottomless tar pits extend forever into other, darker worlds."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249407&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183024&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249407&type=card"
+        ],
+        "rating": "2.710",
+        "uid": "249407",
+        "cardname": "Elder Mastery",
+        "artist": "Dave Allsop",
+        "convertedmana": [
+            "6"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249407&type=card",
+                "path": "full/12917478e47692c74a9c91e1c9e32128d4224873.jpg",
+                "checksum": "20ee706db498c69781cacda4a5d93f39"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183024&type=card",
+                "path": "full/63a646bc9691188b91d3efb5be5081258676b857.jpg",
+                "checksum": "8c11083d8dda13866d02424dac8800cd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249407&type=card",
+                "path": "full/cefd849bd0cd4d1f2f950a9bda2f3832e0d2732a.jpg",
+                "checksum": "20ee706db498c69781cacda4a5d93f39"
+            }
+        ],
+        "cardnumber": "68",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=249407",
+        "expansion": "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)",
+        "cardtext": [
+            "Enchant creature",
+            "Enchanted creature gets +3/+3 and has flying.",
+            "Whenever enchanted creature deals damage to a player, that player discards two cards."
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Blue",
+            "Black",
+            "Red"
+        ],
+        "flavortext": [
+            "Taste his power, hunger for his command."
+        ],
+        "types": "Enchantment  — Aura",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.059",
+        "uid": "370498",
+        "pt": [
+            "4 / 3"
+        ],
+        "cardname": "Esperzoa",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Warren Mahy",
+        "expansion": "Modern Masters (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370498&type=card",
+                "path": "full/4f8a09ba34bb1c1eb10b344a47bd474f32ac9d10.jpg",
+                "checksum": "afb358bf8ed0b6c93c250cab55fc8e89"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180158&type=card",
+                "path": "full/f0385fe195b79a012e12b3c552190eb176e4061f.jpg",
+                "checksum": "fd7a1fa902f4b268fde79c19f9482e8f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226715&type=card",
+                "path": "full/fb5458d180484779d885b629d32139145062d9a0.jpg",
+                "checksum": "b34dbddad4d67e75e6a03f1db44b94ce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370498&type=card",
+                "path": "full/99321c4ec40c53e9e9470531ea167c949d7d790e.jpg",
+                "checksum": "afb358bf8ed0b6c93c250cab55fc8e89"
+            }
+        ],
+        "cardnumber": "43",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370498",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370498&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180158&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=226715&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370498&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "At the beginning of your upkeep, return an artifact you control to its owner's hand."
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "2",
+            "Blue"
+        ],
+        "flavortext": [
+            "The more metal it digests, the more its jelly will fetch on the alchemists' market."
+        ],
+        "types": "Artifact Creature  — Jellyfish",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Duel Decks: Elspeth vs. Tezzeret (Uncommon)",
+            "Modern Masters (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.238",
+        "uid": "247178",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Extractor Demon",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Carl Critchlow",
+        "expansion": "Magic: The Gathering-Commander (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247178&type=card",
+                "path": "full/08e6b452c4bdbdd8540f745f473fdbe8c207eac2.jpg",
+                "checksum": "e39f56716cecb9a579af6d3b1ee45f16"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189082&type=card",
+                "path": "full/15543388eba2a42013ab90570e679b5b6e5ec104.jpg",
+                "checksum": "cbd12738a5e4e24dc2511c68f1404af9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220507&type=card",
+                "path": "full/39af7f2455061f3c9c42abc70f20d19d6593359b.jpg",
+                "checksum": "f60fadf536427a765c2de16cb4c40d2e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247178&type=card",
+                "path": "full/b845369dfca712391f87cad0dfca9d3a18f29b05.jpg",
+                "checksum": "e39f56716cecb9a579af6d3b1ee45f16"
+            }
+        ],
+        "cardnumber": "81",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247178",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247178&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189082&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220507&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247178&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.",
+            "Unearth",
+            "",
+            "(",
+            ": Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Demon",
+        "allsets": [
+            "Conflux (Rare)",
+            "Archenemy (Rare)",
+            "Magic: The Gathering-Commander (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=275257&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189273&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275257&type=card"
+        ],
+        "rating": "2.962",
+        "uid": "275257",
+        "cardname": "Exotic Orchard",
+        "artist": "Steven Belledin",
+        "convertedmana": [],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=275257&type=card",
+                "path": "full/b489925d230e39ffd05fe94b5991b50e60944b70.jpg",
+                "checksum": "2ed91df9ee1b4df8dd0b2c7b9e47c023"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189273&type=card",
+                "path": "full/2f91b9ff4350d5628211f5f6ef96d4d0bd253d7a.jpg",
+                "checksum": "dbe38ef31a9aeff91cebc69fa1fc9fff"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275257&type=card",
+                "path": "full/10016b4e76b7a0207d1d56c5b2f4a41bb946c948.jpg",
+                "checksum": "2ed91df9ee1b4df8dd0b2c7b9e47c023"
+            }
+        ],
+        "cardnumber": "117",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=275257",
+        "expansion": "Planechase 2012 Edition (Rare)",
+        "cardtext": [
+            ": Add to your mana pool one mana of any color that a land an opponent controls could produce."
+        ],
+        "prices": [
+            "£1.49p",
+            "£0.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "\"It was a strange morning. When we awoke, we found our trees transformed. We didn't know whether to water them or polish them.\"",
+            "—Pulan, Bant orchardist"
+        ],
+        "types": "Land",
+        "allsets": [
+            "Conflux (Rare)",
+            "Planechase 2012 Edition (Rare)"
+        ]
+    },
+    {
+        "rating": "3.147",
+        "uid": "370421",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Faerie Mechanist",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Matt Cavotta",
+        "expansion": "Modern Masters (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370421&type=card",
+                "path": "full/4c9df19a51cd748673b2df8bfa3a4db88620a738.jpg",
+                "checksum": "d525096f3e080f59a47a03f4a311092e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182608&type=card",
+                "path": "full/6b3ba7edcf0639349b31cab59a55d33a23a8590e.jpg",
+                "checksum": "69281a17103a8773d9efcb716dec19f4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222747&type=card",
+                "path": "full/3cdfc34b761d511e5a93dbee2fa1daf5073a3069.jpg",
+                "checksum": "a92251925b859e11c009031f6d7268a3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370421&type=card",
+                "path": "full/a561310e8018b356a8d043b48beec51e0bd8149f.jpg",
+                "checksum": "d525096f3e080f59a47a03f4a311092e"
+            }
+        ],
+        "cardnumber": "45",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370421",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370421&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182608&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222747&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370421&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.10p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Artifact Creature  — Faerie Artificer",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Elspeth vs. Tezzeret (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370367&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179519&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243493&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271138&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370367&type=card"
+        ],
+        "rating": "2.143",
+        "uid": "370367",
+        "cardname": "Fiery Fall",
+        "artist": "Daarken",
+        "convertedmana": [
+            "6"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370367&type=card",
+                "path": "full/a3afd41da49642cd63f1c447eea86a7a2a09bf10.jpg",
+                "checksum": "7025306e197eeb16b6785e42cf8c4146"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179519&type=card",
+                "path": "full/75822cf68ddcea47792ac34b7a6cb2e0791c39f0.jpg",
+                "checksum": "d44ab589d0b792c2d8c6e145fc4a36b5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243493&type=card",
+                "path": "full/8ce5a3757648756e2ba17ad90147817d0a1196c6.jpg",
+                "checksum": "986bdef29567160562e2f0302fa22ae1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271138&type=card",
+                "path": "full/2be5eafe136701acf064bd1f0994b8f7abc73ca5.jpg",
+                "checksum": "0e35c5f13646e15e3f0f851e706c20a8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370367&type=card",
+                "path": "full/432b49a18c2c431db6af7bc2d82620e5a4c5334d.jpg",
+                "checksum": "7025306e197eeb16b6785e42cf8c4146"
+            }
+        ],
+        "cardnumber": "113",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370367",
+        "expansion": "Modern Masters (Common)",
+        "cardtext": [
+            "Fiery Fall deals 5 damage to target creature.",
+            "Basic landcycling",
+            "",
+            "(",
+            ", Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)"
+        ],
+        "prices": [
+            "£0.15p",
+            "",
+            "",
+            "",
+            "£0.15p"
+        ],
+        "manacost": [
+            "5",
+            "Red"
+        ],
+        "flavortext": [
+            "Jund feasts on the unprepared."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Knights vs. Dragons (Common)",
+            "Planechase 2012 Edition (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "rating": "3.057",
+        "uid": "271139",
+        "pt": [
+            "8 / 8"
+        ],
+        "cardname": "Fusion Elemental",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Michael Komarck",
+        "expansion": "Planechase 2012 Edition (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271139&type=card",
+                "path": "full/d86e94c9e442684429173b810def825d94ee8ecc.jpg",
+                "checksum": "9a37a5493bb23369757fb37292dbfc06"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179443&type=card",
+                "path": "full/9a5dcbdf13059540862d502580c12397420f6fea.jpg",
+                "checksum": "a539ef8ca788e98ba8bbb295ca3438d2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271139&type=card",
+                "path": "full/5669c762187cdad12331f4fb837d87fe30cf400e.jpg",
+                "checksum": "9a37a5493bb23369757fb37292dbfc06"
+            }
+        ],
+        "cardnumber": "93",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271139",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271139&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179443&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271139&type=card"
+        ],
+        "cardtext": [],
+        "prices": [
+            "£0.49p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "White",
+            "Blue",
+            "Black",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "As the shards merged into the Maelstrom, their mana energies fused into new monstrosities."
+        ],
+        "types": "Creature  — Elemental",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Planechase 2012 Edition (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370371&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179505&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370371&type=card"
+        ],
+        "rating": "2.308",
+        "uid": "370371",
+        "cardname": "Gleam of Resistance",
+        "artist": "Matt Stewart",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370371&type=card",
+                "path": "full/59ac96a8e71143260a1fa81a72fc236b6dcd74de.jpg",
+                "checksum": "45198a195a5eb46360422ea14601125e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179505&type=card",
+                "path": "full/9f0fcbb4bf421169c9a9e5682062cce1b2f43449.jpg",
+                "checksum": "15df926caa73ee93e5e140e2fb91ed80"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370371&type=card",
+                "path": "full/b9a456b432f22d0a815dfafcf1e7cddb278c9e72.jpg",
+                "checksum": "45198a195a5eb46360422ea14601125e"
+            }
+        ],
+        "cardnumber": "17",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370371",
+        "expansion": "Modern Masters (Common)",
+        "cardtext": [
+            "Creatures you control get +1/+2 until end of turn. Untap those creatures.",
+            "Basic landcycling",
+            "",
+            "(",
+            ", Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)"
+        ],
+        "prices": [
+            "£0.15p",
+            "£0.20p"
+        ],
+        "manacost": [
+            "4",
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "rating": "2.846",
+        "uid": "271140",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Gluttonous Slime",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Trevor Claxton",
+        "expansion": "Planechase 2012 Edition (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271140&type=card",
+                "path": "full/1b2ba14f4a97e0f70723eedcd4ce3576815a89bb.jpg",
+                "checksum": "81bd0bfe064996eef5b327d377cf6e08"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179512&type=card",
+                "path": "full/d5ef37a92dacbac79518541569217124453d2597.jpg",
+                "checksum": "57beea271c22be856554ee07dbea9c7b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271140&type=card",
+                "path": "full/b600a240c9065ba3099f8652e0eeb959b52236a1.jpg",
+                "checksum": "81bd0bfe064996eef5b327d377cf6e08"
+            }
+        ],
+        "cardnumber": "65",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271140",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271140&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179512&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271140&type=card"
+        ],
+        "cardtext": [
+            "Flash",
+            "Devour 1",
+            "(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)"
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "2",
+            "Green"
+        ],
+        "flavortext": [
+            "On Jund, everything eventually ends up in something else's stomach."
+        ],
+        "types": "Creature  — Ooze",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Planechase 2012 Edition (Uncommon)"
+        ]
+    },
+    {
+        "rating": "2.868",
+        "uid": "271141",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Hellkite Hatchling",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Daarken",
+        "expansion": "Planechase 2012 Edition (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271141&type=card",
+                "path": "full/82b12dd7b61e92cdc046c13e5026b75ef1479a24.jpg",
+                "checksum": "cb9b3d9822d0fab6f176c35c6da5b928"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189146&type=card",
+                "path": "full/ce82d23b2993d7e52614680be4320ee3eecb2036.jpg",
+                "checksum": "ec58ad2d2b3bc2a901b7d711e66547db"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271141&type=card",
+                "path": "full/f6ac933d0bbd4a9628e9f4ca7145cd9e8be26583.jpg",
+                "checksum": "cb9b3d9822d0fab6f176c35c6da5b928"
+            }
+        ],
+        "cardnumber": "95",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271141",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271141&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189146&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271141&type=card"
+        ],
+        "cardtext": [
+            "Devour 1",
+            "(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)",
+            "Hellkite Hatchling has flying and trample if it devoured a creature."
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "2",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "A killing machine from birth."
+        ],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Planechase 2012 Edition (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.321",
+        "uid": "368477",
+        "pt": [
+            "3 / 1"
+        ],
+        "cardname": "Hellspark Elemental",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Justin Sweet",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368477&type=card",
+                "path": "full/0532fa6b8f1e1e24da06952ee2900562fd840bcc.jpg",
+                "checksum": "c598355930349cad72e996b854bbda32"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174799&type=card",
+                "path": "full/97eebc891d331ec841ec1bc6bc0057e92234e61e.jpg",
+                "checksum": "d80e0c3ee50a28e116ee35479c4dc26b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368477&type=card",
+                "path": "full/454c5ed120cff6d8818cb05d94804cf7e8c02464.jpg",
+                "checksum": "c598355930349cad72e996b854bbda32"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234711&type=card",
+                "path": "full/729bbe2020770ff012f1b7df99a80ecf23b3fcb7.jpg",
+                "checksum": "59d68f9179c155a1ec064d5761f8d7ac"
+            }
+        ],
+        "cardnumber": "46",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368477",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368477&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174799&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368477&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234711&type=card"
+        ],
+        "cardtext": [
+            "Trample, haste",
+            "At the beginning of the end step, sacrifice Hellspark Elemental.",
+            "Unearth",
+            "",
+            "(",
+            ": Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+        ],
+        "prices": [
+            "£1.49p"
+        ],
+        "manacost": [
+            "1",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Elemental",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+            "Premium Deck Series: Fire and Lightning (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=190544&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=190544&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183056&type=card"
+        ],
+        "rating": "2.362",
+        "uid": "190544",
+        "cardname": "Ignite Disorder",
+        "artist": "Zoltan Boros & Gabor Szikszai",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=190544&type=card",
+                "path": "full/48d6550f3587cd7916e6c6de7ad6bac3a3251de6.jpg",
+                "checksum": "e0fa3d1ff1f5ea7d3051dce4b2a559e1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=190544&type=card",
+                "path": "full/0ab09cbc95e70fe628899744de889021cca2e13b.jpg",
+                "checksum": "e0fa3d1ff1f5ea7d3051dce4b2a559e1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183056&type=card",
+                "path": "full/27cb211a5fa7cb87fc83d0c7919a432bf6f0b2a0.jpg",
+                "checksum": "90923d8192a894b7f0d0a633fa58ecf1"
+            }
+        ],
+        "cardnumber": "141",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=190544",
+        "expansion": "Magic 2010 (Uncommon)",
+        "cardtext": [
+            "Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures."
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "1",
+            "Red"
+        ],
+        "flavortext": [
+            "The shaman prowled the academy halls, shaking his head at the pomp and babble of the sages inside. He knew just the spell to liven the place up."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Magic 2010 (Uncommon)",
+            "Conflux (Uncommon)"
+        ]
+    },
+    {
+        "rating": "2.897",
+        "uid": "220508",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Infectious Horror",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Pete Venters",
+        "expansion": "Archenemy (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220508&type=card",
+                "path": "full/6408a595523b608c1f068fe122fa4863f5ee1c09.jpg",
+                "checksum": "c7aba141d199f4ef4f8616001fda9950"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157732&type=card",
+                "path": "full/121598f18903472fad15e1d042e96779bd2e14d9.jpg",
+                "checksum": "76fad5cbe97be70b663ea516c70e6033"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220508&type=card",
+                "path": "full/4e9d3f145b290bce23a7cb73738eaec28ef0fedc.jpg",
+                "checksum": "c7aba141d199f4ef4f8616001fda9950"
+            }
+        ],
+        "cardnumber": "18",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=220508",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220508&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=157732&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220508&type=card"
+        ],
+        "cardtext": [
+            "Whenever Infectious Horror attacks, each opponent loses 2 life."
+        ],
+        "prices": [
+            "£0.10p"
+        ],
+        "manacost": [
+            "3",
+            "Black"
+        ],
+        "flavortext": [
+            "Not once in the history of Grixis has anyone died of old age."
+        ],
+        "types": "Creature  — Zombie Horror",
+        "allsets": [
+            "Conflux (Common)",
+            "Archenemy (Common)"
+        ]
+    },
+    {
+        "rating": "4.643",
+        "uid": "270447",
+        "pt": [
+            "7 / 11"
+        ],
+        "cardname": "Inkwell Leviathan",
+        "convertedmana": [
+            "9"
+        ],
+        "artist": "Anthony Francisco",
+        "expansion": "Premium Deck Series: Graveborn (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270447&type=card",
+                "path": "full/f722d1896309b0cd49f6caab4deb6d2752d860dc.jpg",
+                "checksum": "9bd63ba0e5315c3188d10fac71314547"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=154081&type=card",
+                "path": "full/920c2a5fc96f4c2259de02a6be88a3bda5815595.jpg",
+                "checksum": "907fa4fd8d8887d4ec8b19d3d3b154e4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270447&type=card",
+                "path": "full/a3e08485a627ab29b17b1d3fc0769242a5c58b03.jpg",
+                "checksum": "9bd63ba0e5315c3188d10fac71314547"
+            }
+        ],
+        "cardnumber": "10",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=270447",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270447&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=154081&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270447&type=card"
+        ],
+        "cardtext": [
+            "Islandwalk, trample, shroud"
+        ],
+        "prices": [
+            "£2.99p"
+        ],
+        "manacost": [
+            "7",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"Into its maw went the seventh sea, never to be seen again while the world remains.\"",
+            "—Esper fable"
+        ],
+        "types": "Artifact Creature  — Leviathan",
+        "allsets": [
+            "Conflux (Rare)",
+            "Premium Deck Series: Graveborn (Rare)"
+        ]
+    },
+    {
+        "rating": "4.406",
+        "uid": "370379",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Knight of the Reliquary",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Michael Komarck",
+        "expansion": "Modern Masters (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370379&type=card",
+                "path": "full/f63cb7a1c7e6600832a1431458f85ba012127297.jpg",
+                "checksum": "8c6c2c2965726b80f9ae1aab8428c87d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189145&type=card",
+                "path": "full/05db53b8759d2af621ce1d910bbcd0396d35dc2e.jpg",
+                "checksum": "3a2296ede05b6fed3fd6fe66b8bdf5cd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243416&type=card",
+                "path": "full/ce5f41cdd517441a60d34c1883ca69ec73ce97b5.jpg",
+                "checksum": "97ff187a0f0ed5108e3960ff2202a376"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370379&type=card",
+                "path": "full/649d97c409aa1a7a789d78a53e5188b5ae070b27.jpg",
+                "checksum": "8c6c2c2965726b80f9ae1aab8428c87d"
+            }
+        ],
+        "cardnumber": "178",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370379",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370379&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189145&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243416&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370379&type=card"
+        ],
+        "cardtext": [
+            "Knight of the Reliquary gets +1/+1 for each land card in your graveyard.",
+            ", Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library."
+        ],
+        "prices": [
+            "£3.99p",
+            "£9.99p"
+        ],
+        "manacost": [
+            "1",
+            "Green",
+            "White"
+        ],
+        "flavortext": [
+            "\"Knowledge of Bant's landscape and ruins is a weapon that the invaders can't comprehend.\"",
+            "—Elspeth"
+        ],
+        "types": "Creature  — Human Knight",
+        "allsets": [
+            "Conflux (Rare)",
+            "Duel Decks: Knights vs. Dragons (Mythic Rare)",
+            "Modern Masters (Rare)"
+        ]
+    },
+    {
+        "rating": "3.889",
+        "uid": "220509",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Magister Sphinx",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Steven Belledin",
+        "expansion": "Archenemy (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220509&type=card",
+                "path": "full/25d4dd63f65dd0b396f2b00094983628cdf65471.jpg",
+                "checksum": "08135172cc0fe1f98c066549b64b1e93"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179892&type=card",
+                "path": "full/53defaf95132ee4a680d3b1a93b890834acf2d6a.jpg",
+                "checksum": "8849ec354eedbfe6337af46db6c0dda4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220509&type=card",
+                "path": "full/bc7c4e97960a73d2d2a539a79a695f4f7dff4d93.jpg",
+                "checksum": "08135172cc0fe1f98c066549b64b1e93"
+            }
+        ],
+        "cardnumber": "89",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=220509",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220509&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179892&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220509&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Magister Sphinx enters the battlefield, target player's life total becomes 10."
+        ],
+        "prices": [
+            "£1.49p"
+        ],
+        "manacost": [
+            "4",
+            "White",
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [
+            "\"These benighted worlds are thick with ignorance. I will educate them. They will listen, or they will die.\""
+        ],
+        "types": "Artifact Creature  — Sphinx",
+        "allsets": [
+            "Conflux (Rare)",
+            "Archenemy (Rare)"
+        ]
+    },
+    {
+        "rating": "3.202",
+        "uid": "247179",
+        "pt": [
+            "6 / 6"
+        ],
+        "cardname": "Malfegor",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Jason Chan",
+        "expansion": "Magic: The Gathering-Commander (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247179&type=card",
+                "path": "full/59d6d8bf2ae53d2daa09296046f7a87c6f38a384.jpg",
+                "checksum": "950937fa715cc0611b8a8184a89ff3a1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185812&type=card",
+                "path": "full/178df30f07d539cd680ab4f3b5d00bdf2f3a08ab.jpg",
+                "checksum": "932142a357a29ad09ba0368fa314e166"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247179&type=card",
+                "path": "full/ead01fb2236d4ffa5316628468c773a15c9fe031.jpg",
+                "checksum": "950937fa715cc0611b8a8184a89ff3a1"
+            }
+        ],
+        "cardnumber": "208",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247179",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247179&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=185812&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247179&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Black",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [
+            "A demon cannot be trusted, and a dragon will not be ruled."
+        ],
+        "types": "Legendary Creature  — Demon Dragon",
+        "allsets": [
+            "Conflux (Mythic Rare)",
+            "Magic: The Gathering-Commander (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=189269&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26381&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189269&type=card"
+        ],
+        "rating": "3.282",
+        "uid": "189269",
+        "cardname": "Mana Cylix",
+        "artist": "Howard Lyon",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=189269&type=card",
+                "path": "full/d55f19f314b74fbee7620f068273cd7c606afcf9.jpg",
+                "checksum": "30a4745c3b2fd322ba416ad9b10b7e51"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26381&type=card",
+                "path": "full/bc8097de4af503bc1835b9fe00a2e772a446987a.jpg",
+                "checksum": "e35c6dc8540a5ed0da11b9055969292d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189269&type=card",
+                "path": "full/4796f4825d626f945277e36515a4ace0ece3dcf2.jpg",
+                "checksum": "30a4745c3b2fd322ba416ad9b10b7e51"
+            }
+        ],
+        "cardnumber": "138",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=189269",
+        "expansion": "Conflux (Common)",
+        "cardtext": [
+            ",",
+            ": Add one mana of any color to your mana pool."
+        ],
+        "prices": [
+            "£0.19p",
+            "£0.35p"
+        ],
+        "manacost": [
+            "1"
+        ],
+        "flavortext": [
+            "Those who dismiss the cylix as an ordinary wooden bowl are blind to the true measure of its worth."
+        ],
+        "types": "Artifact",
+        "allsets": [
+            "Planeshift (Uncommon)",
+            "Conflux (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=182609&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=6109&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=23072&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21097&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182609&type=card"
+        ],
+        "rating": "2.716",
+        "uid": "182609",
+        "cardname": "Maniacal Rage",
+        "artist": "Brandon Kitkouski",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=182609&type=card",
+                "path": "full/3004c0eb1f4ce7d03ceac32efa14086ce25ff206.jpg",
+                "checksum": "abaeb8666a242b54822ffef100c50860"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=6109&type=card",
+                "path": "full/897e49f2afa003206779a3585ec0deb86321aabd.jpg",
+                "checksum": "b2303b4d694f6609e9934618c275cf66"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=23072&type=card",
+                "path": "full/b0d15e3bc894dfd758c6ff85077befaee61ddc9d.jpg",
+                "checksum": "eb891363fbf94f83f78a17f025db7507"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21097&type=card",
+                "path": "full/e81a62881df9cb2868dca6b278d8109e527db68e.jpg",
+                "checksum": "0ab46bdc34b632737107738df29e56b2"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=182609&type=card",
+                "path": "full/21abf30b3a7425a4b7d4a2f7fdc794f7f50f57cc.jpg",
+                "checksum": "abaeb8666a242b54822ffef100c50860"
+            }
+        ],
+        "cardnumber": "68",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=182609",
+        "expansion": "Conflux (Common)",
+        "cardtext": [
+            "Enchant creature",
+            "Enchanted creature gets +2/+2 and can't block."
+        ],
+        "prices": [
+            "£0.20p",
+            "",
+            "",
+            "",
+            "£0.25p",
+            "£0.20p"
+        ],
+        "manacost": [
+            "1",
+            "Red"
+        ],
+        "flavortext": [
+            "The spikes of sangrite made the goblin stronger, but they didn't make him any smarter."
+        ],
+        "types": "Enchantment  — Aura",
+        "allsets": [
+            "Exodus (Common)",
+            "Invasion (Common)",
+            "Battle Royale Box Set (Common)",
+            "Conflux (Common)"
+        ]
+    },
+    {
+        "rating": "4.554",
+        "uid": "220510",
+        "pt": [
+            "1 / 2"
+        ],
+        "cardname": "Master Transmuter",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Chippy",
+        "expansion": "Archenemy (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220510&type=card",
+                "path": "full/279b30c4bb3a59f64ca38e06c666178bb39a5c34.jpg",
+                "checksum": "a1e15bcf6d9c274de46f882e14cd7e5d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179252&type=card",
+                "path": "full/2a044f63823de7b31b243a58b6082ef75a62785c.jpg",
+                "checksum": "111152524c2a00f20da0481a31ceec9f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220510&type=card",
+                "path": "full/fabbe680956a091bbbbd6eecfef0308cb9e72b9d.jpg",
+                "checksum": "a1e15bcf6d9c274de46f882e14cd7e5d"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=220510",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220510&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179252&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220510&type=card"
+        ],
+        "cardtext": [
+            ",",
+            ", Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield."
+        ],
+        "prices": [
+            "£5.99p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"Wasted potential surrounds us. Lend me that bauble, and let me see what it can be made to be.\""
+        ],
+        "types": "Artifact Creature  — Human Artificer",
+        "allsets": [
+            "Conflux (Rare)",
+            "Archenemy (Rare)"
+        ]
+    },
+    {
+        "rating": "2.375",
+        "uid": "249409",
+        "pt": [
+            "5 / 4"
+        ],
+        "cardname": "Nacatl Hunt-Pride",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Steve Prescott",
+        "expansion": "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249409&type=card",
+                "path": "full/e64be77dd7a2d3dea2dbe0ef02100275ce84acfc.jpg",
+                "checksum": "693e17b008add23ada7827b933410306"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=138571&type=card",
+                "path": "full/a408b193a267a2737e95bc6d1e957a34d3369ca7.jpg",
+                "checksum": "147f104647a1017c85424761ccc0ca42"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249409&type=card",
+                "path": "full/1d7b0cc82ab2a665b4572bc0ad0b1941f24016b2.jpg",
+                "checksum": "693e17b008add23ada7827b933410306"
+            }
+        ],
+        "cardnumber": "20",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=249409",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=249409&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=138571&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249409&type=card"
+        ],
+        "cardtext": [
+            "Vigilance",
+            ",",
+            ": Target creature can't block this turn.",
+            ",",
+            ": Target creature blocks this turn if able."
+        ],
+        "prices": [
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "5",
+            "White"
+        ],
+        "flavortext": [
+            "\"We must hunt and kill the dragon before it can return to raze our ancient city.\""
+        ],
+        "types": "Creature  — Cat Warrior",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.159",
+        "uid": "260991",
+        "pt": [
+            "5"
+        ],
+        "cardname": "Nicol Bolas, Planeswalker",
+        "convertedmana": [
+            "8"
+        ],
+        "artist": "D. Alexander Gregory",
+        "expansion": "Magic 2013 (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=260991&type=card",
+                "path": "full/51d054d30a2d19b179f09b9f46c7e8a0fbd381ab.jpg",
+                "checksum": "57006c2a684f8edfdbbb6c130302abf1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=260991&type=card",
+                "path": "full/2ba29ca58e15b5cdc5547b3e2d9449ea5e661dd3.jpg",
+                "checksum": "57006c2a684f8edfdbbb6c130302abf1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179441&type=card",
+                "path": "full/4337d25f56908ef980fa3bce9624feada876eb38.jpg",
+                "checksum": "d9ac41f7422c677089b39ba5850a19a6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=266154&type=card",
+                "path": "full/baf5faf4d1ec18183a05519d5d5049c72816ef21.jpg",
+                "checksum": "c64a6821149ed2b4e850272ac54dcdab"
+            }
+        ],
+        "cardnumber": "199",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=260991",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=260991&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=260991&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179441&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=266154&type=card"
+        ],
+        "cardtext": [
+            "+3: Destroy target noncreature permanent.",
+            "-2: Gain control of target creature.",
+            "-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents."
+        ],
+        "prices": [
+            "£4.99p",
+            "£3.99p"
+        ],
+        "manacost": [
+            "4",
+            "Blue",
+            "Black",
+            "Black",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Planeswalker  — Bolas",
+        "allsets": [
+            "Magic 2013 (Mythic Rare)",
+            "Conflux (Mythic Rare)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370408&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179235&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220511&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247180&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=266017&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370408&type=card"
+        ],
+        "rating": "4.438",
+        "uid": "370408",
+        "cardname": "Path to Exile",
+        "artist": "Todd Lockwood",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370408&type=card",
+                "path": "full/43ea325212beadf2239f3902cb39318306d0dc00.jpg",
+                "checksum": "3807396cd52c7f53e8322530dbb9229b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179235&type=card",
+                "path": "full/86f60bfe102904198a865fc6cc2d8932e15f79d4.jpg",
+                "checksum": "4b365ee79effc33d2c541e024cfed464"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220511&type=card",
+                "path": "full/dc17747dad0aa2477a5aa6316e717333aef62775.jpg",
+                "checksum": "fbd9650ffd6b4630a69f569001213a86"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247180&type=card",
+                "path": "full/1f42f86bb4e6984d2c65bbb4688a9ab07865eb89.jpg",
+                "checksum": "fff00ddcb89d055f51dbe7bded6c18ee"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=266017&type=card",
+                "path": "full/f5cbbd96866b1ab790993ed3f4d84c4ac6e21b2e.jpg",
+                "checksum": "1c9509bac1cc23ba20b87c23ad43b933"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370408&type=card",
+                "path": "full/b78b60f374ff44b46e05690b66c59f2015c7d986.jpg",
+                "checksum": "3807396cd52c7f53e8322530dbb9229b"
+            }
+        ],
+        "cardnumber": "25",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370408",
+        "expansion": "Modern Masters (Uncommon)",
+        "cardtext": [
+            "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library."
+        ],
+        "prices": [
+            "£4.99p",
+            "£5.99p",
+            "£5.99p"
+        ],
+        "manacost": [
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Archenemy (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)",
+            "Duel Decks: Venser vs. Koth (Uncommon)",
+            "Modern Masters (Uncommon)"
+        ]
+    },
+    {
+        "rating": "4.440",
+        "uid": "370405",
+        "pt": [
+            "10 / 10"
+        ],
+        "cardname": "Progenitus",
+        "convertedmana": [
+            "10"
+        ],
+        "artist": "Jaime Jones",
+        "expansion": "Modern Masters (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370405&type=card",
+                "path": "full/30b040bbe378cdbfd86e43d36defe8740214b3c7.jpg",
+                "checksum": "83847b21d307d1b0a3630219c7fefcf6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179496&type=card",
+                "path": "full/a9907181f0b12cab5d0fd3d2030fdbe37f0803f6.jpg",
+                "checksum": "ef1db8bb27d42c133dbabac6e4566f82"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244675&type=card",
+                "path": "full/e62ac44c749271d48d160e02b3dda916f422af78.jpg",
+                "checksum": "7569cd4f1f3bd755aa52d71922ef455f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370405&type=card",
+                "path": "full/4d996aa21b895b182ab424745717d8aaa1ee430c.jpg",
+                "checksum": "83847b21d307d1b0a3630219c7fefcf6"
+            }
+        ],
+        "cardnumber": "182",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370405",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370405&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179496&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244675&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370405&type=card"
+        ],
+        "cardtext": [
+            "Protection from everything",
+            "If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead."
+        ],
+        "prices": [
+            "£7.99p",
+            "£19.99p"
+        ],
+        "manacost": [
+            "White",
+            "White",
+            "Blue",
+            "Blue",
+            "Black",
+            "Black",
+            "Red",
+            "Red",
+            "Green",
+            "Green"
+        ],
+        "flavortext": [
+            "The Soul of the World has returned."
+        ],
+        "types": "Legendary Creature  — Hydra Avatar",
+        "allsets": [
+            "Conflux (Mythic Rare)",
+            "From the Vault: Legends (Mythic Rare)",
+            "Modern Masters (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=288876&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288876&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150807&type=card"
+        ],
+        "rating": "3.359",
+        "uid": "288876",
+        "cardname": "Reliquary Tower",
+        "artist": "Jesper Ejsing",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=288876&type=card",
+                "path": "full/a5a4496fd30a248ef225b22d68341d83c7ad54a2.jpg",
+                "checksum": "295f5d3177c02b9cb75ee87cbed0f12e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=288876&type=card",
+                "path": "full/af63dac915240aea525bad5d2bc32bfcc9452c5c.jpg",
+                "checksum": "295f5d3177c02b9cb75ee87cbed0f12e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150807&type=card",
+                "path": "full/f63af88a6419e5980d264e42114a05746d763e42.jpg",
+                "checksum": "a927be5a12972c4844a0af805acc2c54"
+            }
+        ],
+        "cardnumber": "227",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=288876",
+        "expansion": "Magic 2013 (Uncommon)",
+        "cardtext": [
+            "You have no maximum hand size.",
+            ": Add",
+            "to your mana pool."
+        ],
+        "prices": [
+            "£0.75p",
+            "£1.49p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Once guarded by the Knights of the Reliquary, the tower stands now protected only by its own remoteness, its dusty treasures open to plunder by anyone."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Magic 2013 (Uncommon)",
+            "Conflux (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.065",
+        "uid": "205344",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Rotting Rats",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Dave Allsop",
+        "expansion": "Planechase (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205344&type=card",
+                "path": "full/200c0ed148bf2916f610c4ff2fc08c1937867c43.jpg",
+                "checksum": "93b88e27769d43bea0818669166b8192"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150833&type=card",
+                "path": "full/73817c94ad00cd3f4b1aad2d5c94e1a45b8ffebc.jpg",
+                "checksum": "779ba8c43847766c8f8882885e4bb6af"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205344&type=card",
+                "path": "full/be36c30f45409ceaf587825d250a2b66b2846dcf.jpg",
+                "checksum": "93b88e27769d43bea0818669166b8192"
+            }
+        ],
+        "cardnumber": "39",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=205344",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205344&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150833&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205344&type=card"
+        ],
+        "cardtext": [
+            "When Rotting Rats enters the battlefield, each player discards a card.",
+            "Unearth",
+            "",
+            "(",
+            ": Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+        ],
+        "prices": [
+            "£0.15p"
+        ],
+        "manacost": [
+            "1",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Zombie Rat",
+        "allsets": [
+            "Conflux (Common)",
+            "Planechase (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376477&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142301&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247181&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259282&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271142&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376477&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207933&type=card"
+        ],
+        "rating": "3.929",
+        "uid": "376477",
+        "cardname": "Rupture Spire",
+        "artist": "Jaime Jones",
+        "convertedmana": [],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376477&type=card",
+                "path": "full/436cd26667934f203b409f6e97c8c92f135b3523.jpg",
+                "checksum": "e7370003ef4ee3e625308ee844bfb94a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142301&type=card",
+                "path": "full/10b754b432c547f90926c574283f2d73d9e422f0.jpg",
+                "checksum": "0dbfd4deffdd2687ce8431d5bafcee03"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247181&type=card",
+                "path": "full/0f4aa067550545c1c738e7fc9db98a199c82c781.jpg",
+                "checksum": "ac04872355cd255140ffe42af05ea549"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=259282&type=card",
+                "path": "full/f5b0164f2f8a2ce9115d9a8ca8f92a41adb20c77.jpg",
+                "checksum": "cb507a1c124974e8c21873281e90c755"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271142&type=card",
+                "path": "full/6ad7cee84952c64dbe9dd534cd967f308d91dd17.jpg",
+                "checksum": "02849de78e030fbeb24a714c28090902"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376477&type=card",
+                "path": "full/9f5363b47a061e41ce4d9197a93350d71e8699d1.jpg",
+                "checksum": "e7370003ef4ee3e625308ee844bfb94a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=207933&type=card",
+                "path": "full/f6ac521ed44a713dbe4fecfc530d01a2e1ba0664.jpg",
+                "checksum": "8007925724b90cd84f03c70bcf37af45"
+            }
+        ],
+        "cardnumber": "315",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376477",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Rupture Spire enters the battlefield tapped.",
+            "When Rupture Spire enters the battlefield, sacrifice it unless you pay",
+            ".",
+            ": Add one mana of any color to your mana pool."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.25p",
+            "£0.25p",
+            "£0.25p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Conflux (Common)",
+            "Magic: The Gathering-Commander (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Common)",
+            "Planechase 2012 Edition (Common)",
+            "Commander 2013 Edition (Common)",
+            "Premium Deck Series: Slivers (Common)"
+        ]
+    },
+    {
+        "rating": "3.562",
+        "uid": "376483",
+        "pt": [
+            "2 / 2"
+        ],
+        "cardname": "Scarland Thrinax",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Daarken",
+        "expansion": "Commander 2013 Edition (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376483&type=card",
+                "path": "full/fcbb0b4890a9adf196721497eb37eff4940ada73.jpg",
+                "checksum": "2ab4c17574aa1b1dab8a25be6a0af1b9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183025&type=card",
+                "path": "full/361bd1d96c47e2ff7ffd59388483c78671a0f7d2.jpg",
+                "checksum": "df92295a63d400060c2eeab7d691c7ee"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376483&type=card",
+                "path": "full/bbd705184dabcb9f2ed47e15a02dea56e21aa355.jpg",
+                "checksum": "2ab4c17574aa1b1dab8a25be6a0af1b9"
+            }
+        ],
+        "cardnumber": "209",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376483",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376483&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183025&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376483&type=card"
+        ],
+        "cardtext": [
+            "Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax."
+        ],
+        "prices": [
+            "£0.20p",
+            "£0.35p"
+        ],
+        "manacost": [
+            "Black",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"There is only one way of life in Jund: feed on the weak until you are cut down by something stronger.\"—Jorshu of Clan Nel Toth"
+        ],
+        "types": "Creature  — Lizard",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Commander 2013 Edition (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.906",
+        "uid": "368489",
+        "pt": [
+            "4 / 3"
+        ],
+        "cardname": "Shambling Remains",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Nils Hamm",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368489&type=card",
+                "path": "full/362e9cb33363583e9cbad6fbc65a4613e43e46dc.jpg",
+                "checksum": "292aaa7520537632d03cee7611c79012"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184991&type=card",
+                "path": "full/ee870a604175a99df854c1173705c3fb586e4b96.jpg",
+                "checksum": "67d7ea9a6dc88fef6b02d6eb4d4c4167"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368489&type=card",
+                "path": "full/8bd5a80fb9a145dc9ef60afc62e57640702858f8.jpg",
+                "checksum": "292aaa7520537632d03cee7611c79012"
+            }
+        ],
+        "cardnumber": "48",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368489",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368489&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184991&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368489&type=card"
+        ],
+        "cardtext": [
+            "Shambling Remains can't block.",
+            "Unearth",
+            "",
+            "(",
+            ": Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+        ],
+        "prices": [
+            "£0.25p"
+        ],
+        "manacost": [
+            "1",
+            "Black",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Zombie Horror",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=275258&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180271&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275258&type=card"
+        ],
+        "rating": "4.079",
+        "uid": "275258",
+        "cardname": "Sigil of the Empty Throne",
+        "artist": "Cyril Van Der Haegen",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=275258&type=card",
+                "path": "full/d050d82da096f55634c59b8866c4fe19698cb19d.jpg",
+                "checksum": "9693dab6e82877197664ec821c0c1a14"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180271&type=card",
+                "path": "full/3a73a76f5f98d92120a51ecf60269ef7948a38e3.jpg",
+                "checksum": "0af6833b8030bbcd9ef01d91b8f34e8c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=275258&type=card",
+                "path": "full/a43d8389df3fbf0e3c002dfba9b6c7254f8ecc66.jpg",
+                "checksum": "9693dab6e82877197664ec821c0c1a14"
+            }
+        ],
+        "cardnumber": "11",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=275258",
+        "expansion": "Planechase 2012 Edition (Rare)",
+        "cardtext": [
+            "Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield."
+        ],
+        "prices": [
+            "£1.99p",
+            "£2.99p"
+        ],
+        "manacost": [
+            "3",
+            "White",
+            "White"
+        ],
+        "flavortext": [
+            "When Asha left Bant, she ensured that the world would have protection and order in her absence."
+        ],
+        "types": "Enchantment",
+        "allsets": [
+            "Conflux (Rare)",
+            "Planechase 2012 Edition (Rare)"
+        ]
+    },
+    {
+        "rating": "2.786",
+        "uid": "376503",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Skyward Eye Prophets",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Matt Stewart",
+        "expansion": "Commander 2013 Edition (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376503&type=card",
+                "path": "full/7aad119b7ea00e77fece2e723cd64e2859f95cd3.jpg",
+                "checksum": "46ec5d811a412186ad663e1a09e4a131"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174953&type=card",
+                "path": "full/2be69f719a6a261ccefde834b90fbfbfabdb8956.jpg",
+                "checksum": "ed1c463e5172d1555cd7611ec1ba142a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376503&type=card",
+                "path": "full/96d64fbe44dbf5b8aba4a58985edf8867a74988d.jpg",
+                "checksum": "46ec5d811a412186ad663e1a09e4a131"
+            }
+        ],
+        "cardnumber": "214",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376503",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376503&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=174953&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376503&type=card"
+        ],
+        "cardtext": [
+            "Vigilance",
+            ": Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand."
+        ],
+        "prices": [
+            "£0.20p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Green",
+            "White",
+            "Blue"
+        ],
+        "flavortext": [
+            "They lament the doom that is coming to Bant without realizing the part their own leaders have played in it."
+        ],
+        "types": "Creature  — Human Wizard",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Commander 2013 Edition (Uncommon)"
+        ]
+    },
+    {
+        "rating": "3.011",
+        "uid": "205345",
+        "pt": [
+            "3 / 3"
+        ],
+        "cardname": "Sludge Strider",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Franz Vohwinkel",
+        "expansion": "Planechase (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205345&type=card",
+                "path": "full/8fb576838821a05d7b6b11d433ee1fec0da6202f.jpg",
+                "checksum": "3b8f8bc0f60cd78422686df4440a6203"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183019&type=card",
+                "path": "full/0eb424dabb209c1f3e2fc7b6a4738ac897875ec9.jpg",
+                "checksum": "594a6b4428a0a15c468e83f45fe48125"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205345&type=card",
+                "path": "full/741a0fdbe71a75195129ebd04cd9ad3b6e1d70d0.jpg",
+                "checksum": "3b8f8bc0f60cd78422686df4440a6203"
+            }
+        ],
+        "cardnumber": "95",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=205345",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205345&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=183019&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205345&type=card"
+        ],
+        "cardtext": [
+            "Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay",
+            ". If you do, target player loses 1 life and you gain 1 life."
+        ],
+        "prices": [
+            "£0.35p"
+        ],
+        "manacost": [
+            "1",
+            "White",
+            "Blue",
+            "Black"
+        ],
+        "flavortext": [
+            "Underneath the cities of Esper are cycles of life unseen by those who feed them."
+        ],
+        "types": "Artifact Creature  — Insect",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Planechase (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370372&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179523&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249392&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370372&type=card"
+        ],
+        "rating": "1.196",
+        "uid": "370372",
+        "cardname": "Sylvan Bounty",
+        "artist": "Chris Rahn",
+        "convertedmana": [
+            "6"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370372&type=card",
+                "path": "full/32b4d07c34bd7da95ced23434b85010ee0d573ea.jpg",
+                "checksum": "f7a9b60c8b92d03775b0e0a6e93045d5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179523&type=card",
+                "path": "full/e63b3d66ff7e9a0d1ec73bd00495d79aed7b5cdc.jpg",
+                "checksum": "4c7db4e08b12620b16387f268bedaa78"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249392&type=card",
+                "path": "full/04e36ccd1b39eda57f592d2e030c090d3a11d0ca.jpg",
+                "checksum": "23467cea655f5cf9faeb10f1f0b1718c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370372&type=card",
+                "path": "full/fc96211ef472df205aa45639f39e54f8779cce22.jpg",
+                "checksum": "f7a9b60c8b92d03775b0e0a6e93045d5"
+            }
+        ],
+        "cardnumber": "165",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370372",
+        "expansion": "Modern Masters (Common)",
+        "cardtext": [
+            "Target player gains 8 life.",
+            "Basic landcycling",
+            "",
+            "(",
+            ", Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)"
+        ],
+        "prices": [
+            "£0.15p",
+            "£0.10p"
+        ],
+        "manacost": [
+            "5",
+            "Green"
+        ],
+        "flavortext": [
+            "Some who scouted new lands chose to stay."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370369&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179508&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370369&type=card"
+        ],
+        "rating": "2.667",
+        "uid": "370369",
+        "cardname": "Traumatic Visions",
+        "artist": "Cyril Van Der Haegen",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370369&type=card",
+                "path": "full/eb31430a74ffc3b6ed2e4bf3e655d9f23ffbd15c.jpg",
+                "checksum": "09b05e9a1b1816d4c52b22ec82a0585f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179508&type=card",
+                "path": "full/0b280f00225ffad35c5d06785ebb5e43633ea479.jpg",
+                "checksum": "511c91c7adc8265ae52ce22007568d4d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370369&type=card",
+                "path": "full/7e08b9424b1aeae3960a309a3e88f099fd1d043a.jpg",
+                "checksum": "09b05e9a1b1816d4c52b22ec82a0585f"
+            }
+        ],
+        "cardnumber": "68",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370369",
+        "expansion": "Modern Masters (Common)",
+        "cardtext": [
+            "Counter target spell.",
+            "Basic landcycling",
+            "",
+            "(",
+            ", Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)"
+        ],
+        "prices": [
+            "£0.10p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "3",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Common)",
+            "Modern Masters (Common)"
+        ]
+    },
+    {
+        "rating": "2.857",
+        "uid": "271143",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Tukatongue Thallid",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Vance Kovacs",
+        "expansion": "Planechase 2012 Edition (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271143&type=card",
+                "path": "full/56ea24d432a8b454cff81450e89028b28a324583.jpg",
+                "checksum": "62930522a915942da5ace6068539698b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184995&type=card",
+                "path": "full/6eff4c6cb4bb5d1c251ba3703b527b0a9123125e.jpg",
+                "checksum": "4b18384853e5c774043ecf133f462c88"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271143&type=card",
+                "path": "full/a17ee0c20001e068f61cf943c2a43f5f5590bd25.jpg",
+                "checksum": "62930522a915942da5ace6068539698b"
+            }
+        ],
+        "cardnumber": "79",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271143",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271143&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=184995&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271143&type=card"
+        ],
+        "cardtext": [
+            "When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield."
+        ],
+        "prices": [
+            "£0.15p",
+            "£0.25p"
+        ],
+        "manacost": [
+            "Green"
+        ],
+        "flavortext": [
+            "Jund's thallids tried to disguise their deliciousness by covering themselves in spines harvested from the tukatongue tree."
+        ],
+        "types": "Creature  — Fungus",
+        "allsets": [
+            "Conflux (Common)",
+            "Planechase 2012 Edition (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=265715&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=134&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=731&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1229&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2194&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3953&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=14514&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=11548&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45239&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=136218&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=190183&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208223&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220301&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265715&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=177932&type=card"
+        ],
+        "rating": "4.194",
+        "uid": "265715",
+        "cardname": "Unsummon",
+        "artist": "Izzy",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=265715&type=card",
+                "path": "full/7b03be152bffffff8e09987b699628a50086c15e.jpg",
+                "checksum": "232b03f3d70dbca64deb3f3c5b45952e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=134&type=card",
+                "path": "full/d231286c00e8a638da27e96bdc186208bf935567.jpg",
+                "checksum": "2e768f238536e80af2fa5e526b020569"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=429&type=card",
+                "path": "full/a955e1a2b699d21dde990486b7be88c2d7845945.jpg",
+                "checksum": "362b5098ea30dd86bdd72eefaffa0446"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=731&type=card",
+                "path": "full/e0ee05396af344c2a6a2a67fe5ed4b1fcd65cdee.jpg",
+                "checksum": "d91e77072143accdb99fa60275a85da3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1229&type=card",
+                "path": "full/01d78e24a33acbc91910308013d8a26b5563032d.jpg",
+                "checksum": "7a64a6ee038aac201c6a5f858d41e7a0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2194&type=card",
+                "path": "full/1650675cf1170fa063bf77c16d9a7b11aaf83d81.jpg",
+                "checksum": "6a3acd9b71c2e927f54d9ee0817bb136"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3953&type=card",
+                "path": "full/47bb45d88a45cf03edb4c304461575c025c1cbcd.jpg",
+                "checksum": "b87482dbb222bada7d3edf7d7255ef42"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=14514&type=card",
+                "path": "full/17ac12375cc352b830efff04987f31fc098b865e.jpg",
+                "checksum": "27e35190852ad54d1c869039aef79941"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=11548&type=card",
+                "path": "full/5f4340f56a376aa7b149a3f9bb86683813c0fe76.jpg",
+                "checksum": "80b601827833587793938d0bf156a586"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45239&type=card",
+                "path": "full/a41d354dd64d4717b374e751df57ef3023149031.jpg",
+                "checksum": "645ff5a5b4e036ef2cad3a6f0a194cf0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=136218&type=card",
+                "path": "full/3f1728a2509539068542f05f003da5bae6f23194.jpg",
+                "checksum": "116ee11b91a53d556b0b3c063c261dac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=190183&type=card",
+                "path": "full/acbf2c534148e7af41dbbef98b12b5a8b313269b.jpg",
+                "checksum": "099ac90838702dcaff8afd92ef051e77"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=208223&type=card",
+                "path": "full/7d55e364a5714cef3d0778944c0c0149a471a5ad.jpg",
+                "checksum": "0ab0bf33e65ad4b6111e71f803ae3092"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220301&type=card",
+                "path": "full/2031a85ce16cfa29c8868a4d121e9b0f0920ec4b.jpg",
+                "checksum": "7ac9ae39a73596cf181936217d32c0fc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265715&type=card",
+                "path": "full/4c92971ad0db6db6d37b46f796223125f848eb0f.jpg",
+                "checksum": "232b03f3d70dbca64deb3f3c5b45952e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=177932&type=card",
+                "path": "full/fc935f32410e59a2656957d69477a126a96cc447.jpg",
+                "checksum": "4c1129ead67135792110a404fbb1ca5c"
+            }
+        ],
+        "cardnumber": "75",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=265715",
+        "expansion": "Magic 2013 (Common)",
+        "cardtext": [
+            "Return target creature to its owner's hand."
+        ],
+        "prices": [
+            "£0.15p",
+            "£0.15p",
+            "£0.15p",
+            "£0.25p",
+            "£0.15p",
+            "£0.15p",
+            "£0.15p",
+            "£0.15p",
+            "£0.15p",
+            "£0.15p",
+            "£0.15p",
+            "£0.15p"
+        ],
+        "manacost": [
+            "Blue"
+        ],
+        "flavortext": [
+            "Not to be. That is the answer."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Limited Edition Alpha (Common)",
+            "Limited Edition Beta (Common)",
+            "Unlimited Edition (Common)",
+            "Revised Edition (Common)",
+            "Fourth Edition (Common)",
+            "Fifth Edition (Common)",
+            "Classic Sixth Edition (Common)",
+            "Seventh Edition (Common)",
+            "Eighth Edition (Common)",
+            "Tenth Edition (Common)",
+            "Magic 2010 (Common)",
+            "Magic 2011 (Common)",
+            "Magic 2012 (Common)",
+            "Magic 2013 (Common)",
+            "Conflux (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220512&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180274&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220512&type=card"
+        ],
+        "rating": "4.392",
+        "uid": "220512",
+        "cardname": "Volcanic Fallout",
+        "artist": "Zoltan Boros & Gabor Szikszai",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220512&type=card",
+                "path": "full/bb438cc7ce58c5bfad5c901ccc265670bb5d7912.jpg",
+                "checksum": "bbb35ae68df01ce7f5b21f4b6a33d0bd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=180274&type=card",
+                "path": "full/fbd6621c490a9735c717e30b43dcf97d68649992.jpg",
+                "checksum": "a6ca7b34cd2c96042858dcf8641f5877"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220512&type=card",
+                "path": "full/6c8fb5762f444211c32c76b581f01cf344f781ce.jpg",
+                "checksum": "bbb35ae68df01ce7f5b21f4b6a33d0bd"
+            }
+        ],
+        "cardnumber": "51",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=220512",
+        "expansion": "Archenemy (Uncommon)",
+        "cardtext": [
+            "Volcanic Fallout can't be countered.",
+            "Volcanic Fallout deals 2 damage to each creature and each player."
+        ],
+        "prices": [
+            "£0.99p"
+        ],
+        "manacost": [
+            "1",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [
+            "\"How can we outrun the sky?\"",
+            "—Hadran, sunseeder of Naya"
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Conflux (Uncommon)",
+            "Archenemy (Uncommon)"
+        ]
+    },
+    {
+        "rating": "2.877",
+        "uid": "243474",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Voracious Dragon",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Dominick Domingo",
+        "expansion": "Duel Decks: Knights vs. Dragons (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243474&type=card",
+                "path": "full/c4f3e27415d5fefffb162e766cd2af5c86753579.jpg",
+                "checksum": "ebd890093b0a8f91a685a3d888513646"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=186329&type=card",
+                "path": "full/09a62ee478f0ccc25959cb0b1120586e9817fab9.jpg",
+                "checksum": "bfa5fa553173b1bc115b2d201d1bc0cd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243474&type=card",
+                "path": "full/bbfe07e21b8a7e31386dd9ccbdf6e8f4de2c6f53.jpg",
+                "checksum": "ebd890093b0a8f91a685a3d888513646"
+            }
+        ],
+        "cardnumber": "56",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=243474",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243474&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=186329&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243474&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Devour 1",
+            "(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)",
+            "When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured."
+        ],
+        "prices": [
+            "£2.99p"
+        ],
+        "manacost": [
+            "3",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Conflux (Rare)",
+            "Duel Decks: Knights vs. Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "4.000",
+        "uid": "376579",
+        "pt": [
+            "1 / 6"
+        ],
+        "cardname": "Wall of Reverence",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Wayne Reynolds",
+        "expansion": "Commander 2013 Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376579&type=card",
+                "path": "full/1731a112e89bfe68cb7add75c6369174a1b562f9.jpg",
+                "checksum": "7870542cc87da23f54fe529434940349"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189874&type=card",
+                "path": "full/2fdd0f6f0154671d079c2509cca931ea7cfda101.jpg",
+                "checksum": "d344fa8df06837928dcbfc9444d3b8f8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376579&type=card",
+                "path": "full/1bc54f9a5b4b9145242e75deaa7125732af75489.jpg",
+                "checksum": "7870542cc87da23f54fe529434940349"
+            }
+        ],
+        "cardnumber": "26",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376579",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376579&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189874&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376579&type=card"
+        ],
+        "cardtext": [
+            "Defender, flying",
+            "At the beginning of your end step, you may gain life equal to the power of target creature you control."
+        ],
+        "prices": [
+            "£1.99p",
+            "£2.99p"
+        ],
+        "manacost": [
+            "3",
+            "White"
+        ],
+        "flavortext": [
+            "The lives of elves are long, but their memories are longer. Even after death, they do not desert their homes."
+        ],
+        "types": "Creature  — Spirit Wall",
+        "allsets": [
+            "Conflux (Rare)",
+            "Commander 2013 Edition (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=142298&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=22982&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142298&type=card"
+        ],
+        "rating": "2.922",
+        "uid": "142298",
+        "cardname": "Worldly Counsel",
+        "artist": "Matt Cavotta",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=142298&type=card",
+                "path": "full/1e43307a306b210fed3ce1df2bb7b37fb47c2cdf.jpg",
+                "checksum": "e5a5f8aba12ab4cc466569f662adee7f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=22982&type=card",
+                "path": "full/5d646b033d2232ae56e1f4dc8e654a1fafb0075f.jpg",
+                "checksum": "eb32a8db94830cf669359f025903f36c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=142298&type=card",
+                "path": "full/7e1c419f7bd7575e66e9d2d6947b89e248baba8a.jpg",
+                "checksum": "e5a5f8aba12ab4cc466569f662adee7f"
+            }
+        ],
+        "cardnumber": "39",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=142298",
+        "expansion": "Conflux (Common)",
+        "cardtext": [
+            "Domain — Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order."
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "£0.20p"
+        ],
+        "manacost": [
+            "1",
+            "Blue"
+        ],
+        "flavortext": [
+            "Every horizon hides a new possibility."
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Invasion (Common)",
+            "Conflux (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338474&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179891&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338474&type=card"
+        ],
+        "rating": "3.045",
+        "uid": "338474",
+        "cardname": "Yoke of the Damned",
+        "artist": "Paul Bonner",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=338474&type=card",
+                "path": "full/8aef725dfbb91e674f81fb60596bb55ebdb275e9.jpg",
+                "checksum": "6a160224ce5a31e26c0e50bd24dab256"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=179891&type=card",
+                "path": "full/871948b6f58e506a573bc105bfdbd043eea05b7b.jpg",
+                "checksum": "9bd7acdf17520274e8d7bc07571db371"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=338474&type=card",
+                "path": "full/42e6788267491fad3b23482b11fe51b864cca0d3.jpg",
+                "checksum": "6a160224ce5a31e26c0e50bd24dab256"
+            }
+        ],
+        "cardnumber": "68",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=338474",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Common)",
+        "cardtext": [
+            "Enchant creature",
+            "When a creature dies, destroy enchanted creature."
+        ],
+        "prices": [
+            "£0.25p",
+            "£0.20p"
+        ],
+        "manacost": [
+            "1",
+            "Black"
+        ],
+        "flavortext": [
+            "The demon's yoke is part leash, part noose."
+        ],
+        "types": "Enchantment  — Aura",
+        "allsets": [
+            "Conflux (Common)",
+            "Duel Decks: Izzet vs. Golgari (Common)"
+        ]
+    }
+]

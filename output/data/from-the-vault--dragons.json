@@ -1,0 +1,1185 @@
+[
+    {
+        "rating": "4.052",
+        "uid": "247401",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Bladewing the Risen",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Kev Walker",
+        "expansion": "Magic: The Gathering-Commander (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247401&type=card",
+                "path": "full/a7dddbd43a657748fdc0db3a56cae788c45ca3d4.jpg",
+                "checksum": "cab09ff0e00a4cd801cbba8b196aff54"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42024&type=card",
+                "path": "full/d6afa5a839f75fad7b762d41ce230ffcdf1597c1.jpg",
+                "checksum": "a8618daeb8b0363e9affbcf5c8f2dac4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247401&type=card",
+                "path": "full/826a88ed3a90be71bd944e250136f56511d042a6.jpg",
+                "checksum": "cab09ff0e00a4cd801cbba8b196aff54"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178014&type=card",
+                "path": "full/fada7648713fe7ece3e048e778957ffafdc19359.jpg",
+                "checksum": "a086d571e382ea8fcfda2202c3dab8fc"
+            }
+        ],
+        "cardnumber": "185",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247401",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247401&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=42024&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247401&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178014&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.",
+            ": Dragon creatures get +1/+1 until end of turn."
+        ],
+        "prices": [
+            "£1.49p",
+            "£2.49p",
+            "£6.99p"
+        ],
+        "manacost": [
+            "3",
+            "Black",
+            "Black",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Zombie Dragon",
+        "allsets": [
+            "Scourge (Rare)",
+            "Magic: The Gathering-Commander (Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "4.337",
+        "uid": "243464",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Bogardan Hellkite",
+        "convertedmana": [
+            "8"
+        ],
+        "artist": "Wayne Reynolds",
+        "expansion": "Duel Decks: Knights vs. Dragons (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243464&type=card",
+                "path": "full/2ffa93ea933a1e1d2aa41fea2a9915e2ae072ef3.jpg",
+                "checksum": "ab14bd59bd23ef76bbec5e958b64146e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191340&type=card",
+                "path": "full/cdae1378a4274ed19d7541cd1d65f9afc4bdccaa.jpg",
+                "checksum": "e473dda70e3201c0d730cb3c529cb122"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=111041&type=card",
+                "path": "full/4234cc88dd6fbf8082c531b3cd34a9d2c5d12b86.jpg",
+                "checksum": "acded64920360a6659f26347c6df57b0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243464&type=card",
+                "path": "full/5671db14c3aa9ff4063b9dcc5fa3f72d8271995d.jpg",
+                "checksum": "ab14bd59bd23ef76bbec5e958b64146e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178017&type=card",
+                "path": "full/33516de6f99e8cde7e171ad53dcd83378262ded4.jpg",
+                "checksum": "2c3b604e805e96fd157179b4123a99cd"
+            }
+        ],
+        "cardnumber": "47",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=243464",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243464&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191340&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=111041&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243464&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178017&type=card"
+        ],
+        "cardtext": [
+            "Flash",
+            "(You may cast this spell any time you could cast an instant.)",
+            "Flying",
+            "When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players."
+        ],
+        "prices": [
+            "£2.49p",
+            "£5.99p",
+            "£2.49p"
+        ],
+        "manacost": [
+            "6",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Magic 2010 (Mythic Rare)",
+            "Time Spiral (Rare)",
+            "Duel Decks: Knights vs. Dragons (Mythic Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "4.275",
+        "uid": "178018",
+        "pt": [
+            "9 / 9"
+        ],
+        "cardname": "Draco",
+        "convertedmana": [
+            "16"
+        ],
+        "artist": "Sam Wood",
+        "expansion": "From the Vault: Dragons (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=178018&type=card",
+                "path": "full/90b253869a4883fac8ccda51adfe2319a505e586.jpg",
+                "checksum": "5d02ff6285fdcc81f4f55e79e5591527"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25797&type=card",
+                "path": "full/3f01408d170a949aade2354ad095b8fb68279409.jpg",
+                "checksum": "a20e39909386f53dbd8d405e19d0c666"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178018&type=card",
+                "path": "full/686dcce830d5f567efbb17c077a8241d69ad284e.jpg",
+                "checksum": "5d02ff6285fdcc81f4f55e79e5591527"
+            }
+        ],
+        "cardnumber": "3",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=178018",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=178018&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25797&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178018&type=card"
+        ],
+        "cardtext": [
+            "Domain — Draco costs",
+            "less to cast for each basic land type among lands you control.",
+            "Flying",
+            "Domain — At the beginning of your upkeep, sacrifice Draco unless you pay",
+            "0. This cost is reduced by",
+            "for each basic land type among lands you control."
+        ],
+        "prices": [
+            "£4.99p",
+            "£4.95p"
+        ],
+        "manacost": [
+            "16"
+        ],
+        "flavortext": [],
+        "types": "Artifact Creature  — Dragon",
+        "allsets": [
+            "Planeshift (Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370537&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=46426&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108843&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178015&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370537&type=card"
+        ],
+        "rating": "4.306",
+        "uid": "370537",
+        "cardname": "Dragonstorm",
+        "artist": "Kev Walker",
+        "convertedmana": [
+            "9"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370537&type=card",
+                "path": "full/9a9f49cefcd0caf5a0eb1b9b5d10f4b206a8fad9.jpg",
+                "checksum": "0f3897f85056665c42273a392442523b"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=46426&type=card",
+                "path": "full/82a11840697bae31bd6d2b1bbf7a2f0da8230476.jpg",
+                "checksum": "57c2bdc99d478b9cb711f87792f1e375"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108843&type=card",
+                "path": "full/c0a9da4f1c59f7396c4edb65368dd21b52521a7a.jpg",
+                "checksum": "f97a510f6888140edd970629884c0147"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178015&type=card",
+                "path": "full/d7b63edfdf746bc7d78778f4bb22a9a9e406d253.jpg",
+                "checksum": "3352319160c8215fbd31928e3b74f372"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370537&type=card",
+                "path": "full/1b49bd8313b64b61ac78f38e623cd25caaa27788.jpg",
+                "checksum": "0f3897f85056665c42273a392442523b"
+            }
+        ],
+        "cardnumber": "111",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370537",
+        "expansion": "Modern Masters (Rare)",
+        "cardtext": [
+            "Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.",
+            "Storm",
+            "(When you cast this spell, copy it for each spell cast before it this turn.)"
+        ],
+        "prices": [
+            "£1.99p",
+            "£2.49p",
+            "£7.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "8",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Scourge (Rare)",
+            "Time Spiral \"Timeshifted\" (Special)",
+            "From the Vault: Dragons (Rare)",
+            "Modern Masters (Rare)"
+        ]
+    },
+    {
+        "rating": "3.686",
+        "uid": "247314",
+        "pt": [
+            "2 / 3"
+        ],
+        "cardname": "Dragon Whelp",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Steven Belledin",
+        "expansion": "Magic: The Gathering-Commander (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247314&type=card",
+                "path": "full/64b850e50eb9bbed28705ccf87d380553538868f.jpg",
+                "checksum": "d0bf53884690a6a7e8cd19eb54da9d09"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189&type=card",
+                "path": "full/8fa7740b4023d25cc2dd9070604d103a8b3b5785.jpg",
+                "checksum": "d1b8e411ace388fdcf0a7e6b1e6824fa"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484&type=card",
+                "path": "full/f9ce7503fa4e7b06c5e9f9b07f5062ba28cc18e4.jpg",
+                "checksum": "fddd76359bafe42bbe281b70062c097c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=786&type=card",
+                "path": "full/1ccb6856c817bf5abe8903cc22cd244fb7e483f2.jpg",
+                "checksum": "027d0e880bb269d3c8d0579e37566075"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1284&type=card",
+                "path": "full/bad943a4067772ee07f5541244def6435238b595.jpg",
+                "checksum": "429dfe6702a66b797e7f9c58796df0d9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2269&type=card",
+                "path": "full/26f5274786d442798087b28a5a1f8405aca7b4fb.jpg",
+                "checksum": "5d7c8016c46346b02ffe78ebebff25ce"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191060&type=card",
+                "path": "full/b44dceddbb5257ea4457ace1fd5d5b4f45b94db4.jpg",
+                "checksum": "8cf9943b969359baed7d8959a9ac3863"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108810&type=card",
+                "path": "full/a1ceb81a33460a7b3c0146fe571221c355f7b1d9.jpg",
+                "checksum": "c86bdb3dab99aefe44692416f62ea062"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220477&type=card",
+                "path": "full/0f2c70deca4c03564f622156a866ade74461090a.jpg",
+                "checksum": "c391d689ddf22f1fbcaedc64785e40bf"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243472&type=card",
+                "path": "full/460fb3a218f3819347e185951fd7688e21652057.jpg",
+                "checksum": "ad3d4654bf1c5f7f8927813a86e2f461"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247314&type=card",
+                "path": "full/131995304fc34f823eb036b3c3597eedb738f388.jpg",
+                "checksum": "d0bf53884690a6a7e8cd19eb54da9d09"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178019&type=card",
+                "path": "full/72966fd9c70e4357b6c4342f4ee634f431c3238d.jpg",
+                "checksum": "92788b71f9970f5e178473ecc4a20383"
+            }
+        ],
+        "cardnumber": "120",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=247314",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=247314&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=189&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=484&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=786&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1284&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2269&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191060&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108810&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220477&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243472&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=247314&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178019&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step."
+        ],
+        "prices": [
+            "£1.49p",
+            "£0.35p",
+            "£0.25p",
+            "£0.35p",
+            "£0.35p",
+            "£0.35p"
+        ],
+        "manacost": [
+            "2",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Limited Edition Alpha (Uncommon)",
+            "Limited Edition Beta (Uncommon)",
+            "Unlimited Edition (Uncommon)",
+            "Revised Edition (Uncommon)",
+            "Fourth Edition (Uncommon)",
+            "Magic 2010 (Uncommon)",
+            "Time Spiral \"Timeshifted\" (Special)",
+            "Archenemy (Uncommon)",
+            "Duel Decks: Knights vs. Dragons (Uncommon)",
+            "Magic: The Gathering-Commander (Uncommon)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "3.113",
+        "uid": "221547",
+        "pt": [
+            "5 / 4"
+        ],
+        "cardname": "Ebon Dragon",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Donato Giancola",
+        "expansion": "Masters Edition IV (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=221547&type=card",
+                "path": "full/251304d5998d13f318a3e7417e05e3ef7830e02b.jpg",
+                "checksum": "4b7f09b135603a49f9085421e35a5178"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4219&type=card",
+                "path": "full/5a075464fc8e3732aa9aa2976d4957fc2cc3a3a5.jpg",
+                "checksum": "4b7f09b135603a49f9085421e35a5178"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178021&type=card",
+                "path": "full/6d98e35b92a1997fba7c067645bc19a2c04b054b.jpg",
+                "checksum": "c989de87ea8935299777c4a79ec1e33e"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=221547&type=card",
+                "path": "full/bd672c766194c8f0ea11469fbd94432a0ff5a0f5.jpg",
+                "checksum": "4b7f09b135603a49f9085421e35a5178"
+            }
+        ],
+        "cardnumber": "80",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=221547",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=221547&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4219&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178021&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=221547&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Ebon Dragon enters the battlefield, you may have target opponent discard a card."
+        ],
+        "prices": [
+            "£4.45p",
+            "£4.99p"
+        ],
+        "manacost": [
+            "5",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Portal (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Masters Edition IV (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=178016&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=84068&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43566&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178016&type=card"
+        ],
+        "rating": "4.549",
+        "uid": "178016",
+        "cardname": "Form of the Dragon",
+        "artist": "Daarken",
+        "convertedmana": [
+            "7"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=178016&type=card",
+                "path": "full/c8defa73c1ef5b35e12912d0e56ed12f42b85718.jpg",
+                "checksum": "a7e61bbe86222bd99ef01fea26b2f5e9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=84068&type=card",
+                "path": "full/e70c668c22fd03c1a4f45c2aa34f2dd87116bce9.jpg",
+                "checksum": "ea6e022e247f9aeed1afb7a4eac77097"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=43566&type=card",
+                "path": "full/36012aeff887a5433da5a39c433d4c7f81df916e.jpg",
+                "checksum": "20fc42c64f501c8bdc6a041d5cafa1cc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178016&type=card",
+                "path": "full/a859c7e571341255a0a0448ae08fb7a79571d023.jpg",
+                "checksum": "a7e61bbe86222bd99ef01fea26b2f5e9"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=178016",
+        "expansion": "From the Vault: Dragons (Rare)",
+        "cardtext": [
+            "At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.",
+            "At the beginning of each end step, your life total becomes 5.",
+            "Creatures without flying can't attack you."
+        ],
+        "prices": [
+            "£0.99p",
+            "£0.99p",
+            "£5.99p"
+        ],
+        "manacost": [
+            "4",
+            "Red",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Enchantment",
+        "allsets": [
+            "Ninth Edition (Rare)",
+            "Scourge (Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "4.583",
+        "uid": "175057",
+        "pt": [
+            "8 / 8"
+        ],
+        "cardname": "Hellkite Overlord",
+        "convertedmana": [
+            "8"
+        ],
+        "artist": "Justin Sweet",
+        "expansion": "Shards of Alara (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=175057&type=card",
+                "path": "full/1691773f22be3ae3c0fb3690f087bcc7abbea76c.jpg",
+                "checksum": "445d059bdf27d1815db182f388979dbd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175057&type=card",
+                "path": "full/0e438b417cfab25b75ad155bb6b5e8d5d4219921.jpg",
+                "checksum": "445d059bdf27d1815db182f388979dbd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178028&type=card",
+                "path": "full/3af97a88896c4632f4174ee6941b0746472bba85.jpg",
+                "checksum": "7c1a74816c68193be20f402a0d73d3a8"
+            }
+        ],
+        "cardnumber": "172",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=175057",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=175057&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=175057&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178028&type=card"
+        ],
+        "cardtext": [
+            "Flying, trample, haste",
+            ": Hellkite Overlord gets +1/+0 until end of turn.",
+            ": Regenerate Hellkite Overlord."
+        ],
+        "prices": [
+            "£8.99p",
+            "£4.99p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Red",
+            "Red",
+            "Green"
+        ],
+        "flavortext": [
+            "\"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need.\"",
+            "—Sarkhan Vol"
+        ],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Shards of Alara (Mythic Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "4.459",
+        "uid": "370502",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Kokusho, the Evening Star",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Tsutomu Kawade",
+        "expansion": "Modern Masters (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370502&type=card",
+                "path": "full/a5041a70c35f1af34180409df53c0abc2a3ad298.jpg",
+                "checksum": "7a000db8b1f4d3188c5bfc8b5aadd738"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=50445&type=card",
+                "path": "full/f1256efbd52858bb665774642b34b9ab0d38c9a4.jpg",
+                "checksum": "544369859c3c245125b970667164a03d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178022&type=card",
+                "path": "full/e1a5c1750b20bde4889feddd64aefadad0d6c181.jpg",
+                "checksum": "0218b57f8c65fb93916cb5e4bbb31b45"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370502&type=card",
+                "path": "full/c42b33249d41d10a1dd11aa0d6275d923bf42a67.jpg",
+                "checksum": "7a000db8b1f4d3188c5bfc8b5aadd738"
+            }
+        ],
+        "cardnumber": "89",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370502",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370502&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=50445&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178022&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370502&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way."
+        ],
+        "prices": [
+            "£7.99p",
+            "£11.99p",
+            "£29.99p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "The fall of the evening star never heralds a gentle dawn."
+        ],
+        "types": "Legendary Creature  — Dragon Spirit",
+        "allsets": [
+            "Champions of Kamigawa (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Modern Masters (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.142",
+        "uid": "201213",
+        "pt": [
+            "7 / 7"
+        ],
+        "cardname": "Nicol Bolas",
+        "convertedmana": [
+            "8"
+        ],
+        "artist": "Edward P. Beard, Jr.",
+        "expansion": "Masters Edition III (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=201213&type=card",
+                "path": "full/0663a066ced6c1f14429585b50eff49f1f3ba900.jpg",
+                "checksum": "93195af2c13f335d5e1b7d8f01b6190d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1672&type=card",
+                "path": "full/7a21ce63d8d58b8bea9f7ce57d3e1bbd3d4bfad4.jpg",
+                "checksum": "93195af2c13f335d5e1b7d8f01b6190d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=109754&type=card",
+                "path": "full/c6279d1b2dd344da81533aca73b51255295dc8fe.jpg",
+                "checksum": "83ca913a06ae04dbe9c5a41dbcf51c48"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2876&type=card",
+                "path": "full/5f9aa335bdd71f614d118dc0b3b63ffb842221bb.jpg",
+                "checksum": "7400454448f0972d1d9410de43c91876"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178020&type=card",
+                "path": "full/caf0601d69419f18c05b65b20ab05ed00b35db51.jpg",
+                "checksum": "9827bcd76653f1c2d128dccd85124011"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201213&type=card",
+                "path": "full/c09fc07c93525d8652e7428c884270a59a1c886e.jpg",
+                "checksum": "93195af2c13f335d5e1b7d8f01b6190d"
+            }
+        ],
+        "cardnumber": "163",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=201213",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=201213&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1672&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=109754&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2876&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178020&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201213&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay",
+            ".",
+            "Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand."
+        ],
+        "prices": [
+            "£0.99p",
+            "£24.99p",
+            "£39.99p",
+            "£0.99p"
+        ],
+        "manacost": [
+            "2",
+            "Blue",
+            "Blue",
+            "Black",
+            "Black",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Elder Dragon",
+        "allsets": [
+            "Legends (Rare)",
+            "Time Spiral \"Timeshifted\" (Special)",
+            "Chronicles (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Masters Edition III (Rare)"
+        ]
+    },
+    {
+        "rating": "4.424",
+        "uid": "292738",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Niv-Mizzet, the Firemind",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Svetlin Velinov",
+        "expansion": "Duel Decks: Izzet vs. Golgari (Mythic Rare)",
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292738&type=card",
+                "path": "full/92842c4caa6ceaf9ce8c2b3812e0948949fdf0eb.jpg",
+                "checksum": "1b1663f859dd78746de209bad3ccdedc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96952&type=card",
+                "path": "full/911302e77cbc6117a8eea5c211cf3fba2479694e.jpg",
+                "checksum": "9c0313ce0601984845d9bc4689688661"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178023&type=card",
+                "path": "full/ae0331798adab8f7d49ff47174ae6a0c1602be90.jpg",
+                "checksum": "c7d5f4681b8dd1315514c81135ba7c6f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292738&type=card",
+                "path": "full/eb9aa4203220b8be5bfb4f777f8296395e69fe11.jpg",
+                "checksum": "1b1663f859dd78746de209bad3ccdedc"
+            }
+        ],
+        "cardnumber": "1",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=292738",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=292738&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=96952&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178023&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=292738&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.",
+            ": Draw a card."
+        ],
+        "prices": [
+            "£14.99p",
+            "£6.99p",
+            "£10.99p"
+        ],
+        "manacost": [
+            "2",
+            "Blue",
+            "Blue",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Dragon Wizard",
+        "allsets": [
+            "Guildpact (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Duel Decks: Izzet vs. Golgari (Mythic Rare)"
+        ]
+    },
+    {
+        "rating": "4.169",
+        "uid": "209118",
+        "pt": [
+            "6 / 6"
+        ],
+        "cardname": "Rith, the Awakener",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Carl Critchlow",
+        "expansion": "Duel Decks: Phyrexia vs. the Coalition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=209118&type=card",
+                "path": "full/7d8f8ed20496d93fc2a6336a93c9f0b688a4007f.jpg",
+                "checksum": "41c7fb4d3c95ed3aacf67beb4529a317"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=23209&type=card",
+                "path": "full/6ba7928e9fbfdacc73382eeec18a21ac07a31ef1.jpg",
+                "checksum": "fdbff58b12fea43bf32c92293cdcdfba"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=209118&type=card",
+                "path": "full/9a2ee970f27e215ad2a22bad0c1f1550ac3b0aa2.jpg",
+                "checksum": "41c7fb4d3c95ed3aacf67beb4529a317"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178024&type=card",
+                "path": "full/a49dd775829dceeb647b25a135d57aa33a4f8171.jpg",
+                "checksum": "0124cfddb6835966984b6ed0a913948b"
+            }
+        ],
+        "cardnumber": "48",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=209118",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=209118&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=23209&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=209118&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178024&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever Rith, the Awakener deals combat damage to a player, you may pay",
+            ". If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color."
+        ],
+        "prices": [
+            "£14.99p",
+            "£5.95p"
+        ],
+        "manacost": [
+            "3",
+            "Red",
+            "Green",
+            "White"
+        ],
+        "flavortext": [],
+        "types": "Legendary Creature  — Dragon",
+        "allsets": [
+            "Invasion (Rare)",
+            "Duel Decks: Phyrexia vs. the Coalition (Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    },
+    {
+        "rating": "3.850",
+        "uid": "370825",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Shivan Dragon",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Donato Giancola",
+        "expansion": "Magic 2014 Core Set (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370825&type=card",
+                "path": "full/4bc384942358bcff499e4f7f583fbac7c0e15597.jpg",
+                "checksum": "9958f2981dff341f26e2d9815912296d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222&type=card",
+                "path": "full/332ac2f8ae0225fa1862b6ec227f994c57a58613.jpg",
+                "checksum": "2c8630209dd457f87c637cba906e9b3d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=517&type=card",
+                "path": "full/8f92d91bfaaad77df02159c1dd09d55cef73b844.jpg",
+                "checksum": "eaaa540194a21f53da9095ead1997ce7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=819&type=card",
+                "path": "full/1203c091454425fef97b9f63eb5170b3723cd064.jpg",
+                "checksum": "4c44884e6bfe67a61b7c7291fe0e82ca"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1318&type=card",
+                "path": "full/9e6142ca112a04e6840bef53920b25d3b06afec2.jpg",
+                "checksum": "60dd2da5185a0e634f82441b3b5f85cb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2303&type=card",
+                "path": "full/12eaffc67ce3ff93186d6d46dfc7987a13ac498e.jpg",
+                "checksum": "c4ee2def03d140ffb30e282f31bbf75a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4088&type=card",
+                "path": "full/393094d53ccf009433a7a5ef57845d1f2a2b29d5.jpg",
+                "checksum": "7784ee04b195bc46b5c6d8dcda6f66d1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25688&type=card",
+                "path": "full/deee5d36cc919ec883229d53d0e1fc7417a56e00.jpg",
+                "checksum": "48b8c3ac46e6c9a70c4231b7b19e0857"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45388&type=card",
+                "path": "full/c11c807e5f23e5a7badfff644a7444383d59ca5d.jpg",
+                "checksum": "63599184ec5b44211f11ee61a367aae0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83259&type=card",
+                "path": "full/506cf05e92cb1fa51033fdaf3c760b5a3bb7bd36.jpg",
+                "checksum": "de797b4cfce75a05a6aa9559d2dd67c0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129730&type=card",
+                "path": "full/98943da34490e6f24942f1660abb9adbdc1c5ecf.jpg",
+                "checksum": "b47dd12a8387eba32f3b6ddd0f4a891c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191320&type=card",
+                "path": "full/cd85a262e7b287fdfeca55b587878e6ae6a15c70.jpg",
+                "checksum": "ce9c1aaa6aa104590f991d4928f13d38"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26622&type=card",
+                "path": "full/ab20f20e7f29c489dea0d70c0b3879c376ecdd9d.jpg",
+                "checksum": "4e862573f970b4b2b1555e0aa180c388"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178025&type=card",
+                "path": "full/342204febdaf1b7e08e78d109769b232150bcbe3.jpg",
+                "checksum": "eb5f2c49f3a13aa143ae772c413074dd"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370825&type=card",
+                "path": "full/702ec6ee0c9f54962904c7250583080979ac64d9.jpg",
+                "checksum": "9958f2981dff341f26e2d9815912296d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=228264&type=card",
+                "path": "full/22bc271b73b30fadf367d5bcaa85f2eb0ffd22e0.jpg",
+                "checksum": "2c8630209dd457f87c637cba906e9b3d"
+            }
+        ],
+        "cardnumber": "154",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370825",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370825&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=222&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=517&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=819&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1318&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2303&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=4088&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=25688&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45388&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83259&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129730&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=191320&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26622&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178025&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370825&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=228264&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Shivan Dragon gets +1/+0 until end of turn."
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "£1.95p",
+            "£0.99p",
+            "",
+            "",
+            "",
+            "£1.99p",
+            "£1.95p",
+            "£0.79p",
+            "£0.79p",
+            "£1.95p",
+            "£0.49p",
+            "£2.45p"
+        ],
+        "manacost": [
+            "4",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [
+            "The undisputed master of the mountains of Shiv."
+        ],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Limited Edition Alpha (Rare)",
+            "Limited Edition Beta (Rare)",
+            "Unlimited Edition (Rare)",
+            "Revised Edition (Rare)",
+            "Fourth Edition (Rare)",
+            "Fifth Edition (Rare)",
+            "Seventh Edition (Rare)",
+            "Eighth Edition (Rare)",
+            "Ninth Edition (Rare)",
+            "Tenth Edition (Rare)",
+            "Magic 2010 (Rare)",
+            "Beatdown Box Set (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Magic 2014 Core Set (Rare)",
+            "Masters Edition IV (Rare)"
+        ]
+    },
+    {
+        "rating": "4.264",
+        "uid": "243479",
+        "pt": [
+            "5 / 5"
+        ],
+        "cardname": "Thunder Dragon",
+        "convertedmana": [
+            "7"
+        ],
+        "artist": "Chris Rahn",
+        "expansion": "Duel Decks: Knights vs. Dragons (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243479&type=card",
+                "path": "full/ed2f85f2422fb65d9209f4cf664279797ad7274f.jpg",
+                "checksum": "68f95f8a263eeb7e70613d0499123f1d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=20180&type=card",
+                "path": "full/d276ab7d76df5b0a9d3ccfbab7a988fd7ae4aa8a.jpg",
+                "checksum": "d78d46f116f40b274df7ffdf216de5cb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243479&type=card",
+                "path": "full/96ea44b80bb1865e51a260268e35bc0900e57f13.jpg",
+                "checksum": "68f95f8a263eeb7e70613d0499123f1d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178026&type=card",
+                "path": "full/3076bf2ab11e057b9893706fe802f17146d2ab94.jpg",
+                "checksum": "6b8e526d96e15c297e0e67b79d18e2c1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202544&type=card",
+                "path": "full/44af89a112a03d658e5141686746e2b07331b37c.jpg",
+                "checksum": "d78d46f116f40b274df7ffdf216de5cb"
+            }
+        ],
+        "cardnumber": "61",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=243479",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243479&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=20180&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243479&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178026&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=202544&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying."
+        ],
+        "prices": [
+            "£5.99p",
+            "£24.95p"
+        ],
+        "manacost": [
+            "5",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [
+            "Sometimes primitive cultures attributed natural phenomena to monsters. Sometimes they were right."
+        ],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Starter 1999 (Rare)",
+            "Duel Decks: Knights vs. Dragons (Rare)",
+            "From the Vault: Dragons (Rare)",
+            "Masters Edition IV (Rare)"
+        ]
+    },
+    {
+        "rating": "4.394",
+        "uid": "220472",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Two-Headed Dragon",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Sam Wood",
+        "expansion": "Archenemy (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220472&type=card",
+                "path": "full/2ebdb50999e36fd4b513de57bf9eb10fa2389444.jpg",
+                "checksum": "f5a7e7adece05a18dd7066d92c216830"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45389&type=card",
+                "path": "full/defd4a0f4677664930dd7e097a6774b33faf1e6d.jpg",
+                "checksum": "4eca0b93f71067d9691b0e85c791b21a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=19711&type=card",
+                "path": "full/96b128bf3d13e1b0ff213ee0ea12e991847536bb.jpg",
+                "checksum": "7382f9ff329e59e0d6d1b62d4753bc65"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220472&type=card",
+                "path": "full/e522b778bf549b53f27629c06602d599e95329f9.jpg",
+                "checksum": "f5a7e7adece05a18dd7066d92c216830"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178027&type=card",
+                "path": "full/f115307cea2d3728f1692dad2e2d99721d846b20.jpg",
+                "checksum": "5dc3a2f54f06867c3f900592738b9fc7"
+            }
+        ],
+        "cardnumber": "50",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=220472",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=220472&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45389&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=19711&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220472&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=178027&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            ": Two-Headed Dragon gets +2/+0 until end of turn.",
+            "Two-Headed Dragon can't be blocked except by two or more creatures.",
+            "Two-Headed Dragon can block an additional creature."
+        ],
+        "prices": [
+            "£3.99p",
+            "£2.49p",
+            "£2.49p"
+        ],
+        "manacost": [
+            "4",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Dragon",
+        "allsets": [
+            "Eighth Edition (Rare)",
+            "Mercadian Masques (Rare)",
+            "Archenemy (Rare)",
+            "From the Vault: Dragons (Rare)"
+        ]
+    }
+]

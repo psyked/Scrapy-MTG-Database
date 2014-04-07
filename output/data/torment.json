@@ -1,0 +1,1360 @@
+[
+    {
+        "rating": "4.030",
+        "uid": "129913",
+        "pt": [
+            "1 / 3"
+        ],
+        "cardname": "Ambassador Laquatus",
+        "convertedmana": [
+            "3"
+        ],
+        "artist": "Jim Murray",
+        "expansion": "Tenth Edition (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=129913&type=card",
+                "path": "full/ad22cabe6865ee4bbd089e2b7a0065bb4ef0da32.jpg",
+                "checksum": "c3802acfb62490107e26690f4a0917fc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129913&type=card",
+                "path": "full/982c554088d85521166fb8ba5f4ee7371cb5fe48.jpg",
+                "checksum": "c3802acfb62490107e26690f4a0917fc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34378&type=card",
+                "path": "full/e3dcede4372cad6084b90dfde4a09c45142d3116.jpg",
+                "checksum": "8ba4783313554006640b83df14b1f98b"
+            }
+        ],
+        "cardnumber": "65",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=129913",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=129913&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129913&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34378&type=card"
+        ],
+        "cardtext": [
+            ": Target player puts the top three cards of his or her library into his or her graveyard."
+        ],
+        "prices": [
+            "£1.99p",
+            "£1.45p"
+        ],
+        "manacost": [
+            "1",
+            "Blue",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"Life is a game. The only thing that matters is whether you're a pawn or a player.\""
+        ],
+        "types": "Legendary Creature  — Merfolk Wizard",
+        "allsets": [
+            "Tenth Edition (Rare)",
+            "Torment (Rare)"
+        ]
+    },
+    {
+        "rating": "4.626",
+        "uid": "201836",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Basking Rootwalla",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Heather Hudson",
+        "expansion": "Duel Decks: Garruk vs. Liliana (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=201836&type=card",
+                "path": "full/d6a5b079949241e178a699718a59b53001acc4bc.jpg",
+                "checksum": "6c04fa0b9790ed7b92f79f18608d41c6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35072&type=card",
+                "path": "full/e1c730253546e4a350ee84758f197c7de5342442.jpg",
+                "checksum": "d12d8ab28d48e67927332bb9f0bdab24"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201836&type=card",
+                "path": "full/a172ece67af803e60055a94a06f8d5711e897b2f.jpg",
+                "checksum": "6c04fa0b9790ed7b92f79f18608d41c6"
+            }
+        ],
+        "cardnumber": "2",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=201836",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=201836&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35072&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201836&type=card"
+        ],
+        "cardtext": [
+            ": Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.",
+            "Madness",
+            "",
+            "(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)"
+        ],
+        "prices": [
+            "£0.49p"
+        ],
+        "manacost": [
+            "Green"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Lizard",
+        "allsets": [
+            "Torment (Common)",
+            "Duel Decks: Garruk vs. Liliana (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205421&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29896&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205421&type=card"
+        ],
+        "rating": "4.612",
+        "uid": "205421",
+        "cardname": "Cabal Coffers",
+        "artist": "Don Hazeltine",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205421&type=card",
+                "path": "full/93a28f64e792253157ba5703b830f6f945811077.jpg",
+                "checksum": "0d1c58e863e93935238a1d183b3f2be4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29896&type=card",
+                "path": "full/ac3c2570fb7d1ef34f1b5d01b1ea5b6e7b796f54.jpg",
+                "checksum": "8244e7cbb614da8c4741c624f33467c7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205421&type=card",
+                "path": "full/8f81fefe821153422a6b731a094dcab68c40e85a.jpg",
+                "checksum": "0d1c58e863e93935238a1d183b3f2be4"
+            }
+        ],
+        "cardnumber": "132",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=205421",
+        "expansion": "Planechase (Uncommon)",
+        "cardtext": [
+            ",",
+            ": Add",
+            "to your mana pool for each Swamp you control."
+        ],
+        "prices": [
+            "£7.99p"
+        ],
+        "manacost": [],
+        "flavortext": [
+            "Deep within the Cabal's vault, the Mirari pulsed like a dead sun—and its darkness radiated across Otaria."
+        ],
+        "types": "Land",
+        "allsets": [
+            "Torment (Uncommon)",
+            "Planechase (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373317&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29603&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373317&type=card"
+        ],
+        "rating": "4.364",
+        "uid": "373317",
+        "cardname": "Chainer's Edict",
+        "artist": "Mark Zug",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Mythic Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373317&type=card",
+                "path": "full/2af3df39fe55c836b8c678db070ae191efc7ff55.jpg",
+                "checksum": "fd5765e98c44c6489db2bd7506b84063"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29603&type=card",
+                "path": "full/5e0427f9d89c35746c7d776def22740c662c8237.jpg",
+                "checksum": "5bac491f2f3f965c59eb9d869370fc70"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373317&type=card",
+                "path": "full/8c0595745e207a76764e8b03ccea8563c2c49000.jpg",
+                "checksum": "fd5765e98c44c6489db2bd7506b84063"
+            }
+        ],
+        "cardnumber": "10",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373317",
+        "expansion": "From the Vault: Twenty (Mythic Rare)",
+        "cardtext": [
+            "Target player sacrifices a creature.",
+            "Flashback",
+            "",
+            "(You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+        ],
+        "prices": [
+            "£1.95p"
+        ],
+        "manacost": [
+            "1",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Sorcery",
+        "allsets": [
+            "Torment (Uncommon)",
+            "From the Vault: Twenty (Mythic Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376303&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32237&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249365&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376303&type=card"
+        ],
+        "rating": "3.364",
+        "uid": "376303",
+        "cardname": "Deep Analysis",
+        "artist": "Daren Bader",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=376303&type=card",
+                "path": "full/6690847edfc7efc7fbbb2c58888817778f259489.jpg",
+                "checksum": "738cc08ef6755cd610eb68238dc4fb47"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32237&type=card",
+                "path": "full/a772f0d8b9113d6fb54043dff982be3b0841b8ca.jpg",
+                "checksum": "0505554746a40f1aa3c1648e8213563c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=249365&type=card",
+                "path": "full/9fac37bb45293daff3eb7cb37c9c156d1dd43866.jpg",
+                "checksum": "ae126e2d0daebf80e89032d035ac2ee0"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=376303&type=card",
+                "path": "full/73f080d210d377e8883a5f94d3b1eda5569b7967.jpg",
+                "checksum": "738cc08ef6755cd610eb68238dc4fb47"
+            }
+        ],
+        "cardnumber": "38",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=376303",
+        "expansion": "Commander 2013 Edition (Common)",
+        "cardtext": [
+            "Target player draws two cards.",
+            "Flashback—",
+            ", Pay 3 life.",
+            "(You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+        ],
+        "prices": [
+            "£0.75p",
+            "£0.75p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"The specimen seems to be broken.\""
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Torment (Common)",
+            "Duel Decks: Ajani vs. Nicol Bolas (Uncommon)",
+            "Commander 2013 Edition (Common)"
+        ]
+    },
+    {
+        "rating": "4.333",
+        "uid": "270458",
+        "pt": [
+            "2 / 3"
+        ],
+        "cardname": "Faceless Butcher",
+        "convertedmana": [
+            "4"
+        ],
+        "artist": "Daren Bader",
+        "expansion": "Premium Deck Series: Graveborn (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270458&type=card",
+                "path": "full/7394598337ada10bfea85acd6336a0d81ce36285.jpg",
+                "checksum": "9d7f1809aca4b58e471837a4b585de19"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29739&type=card",
+                "path": "full/b7684e13c4ddab743323a76cd58060b21a53739a.jpg",
+                "checksum": "cfaf17422694f1908396d20a334da58a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108840&type=card",
+                "path": "full/cb74f9f4fbf3732cf7bf15a1327d97c345e0263c.jpg",
+                "checksum": "20cf9e76c923f70e351b2ff394c09370"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270458&type=card",
+                "path": "full/1ee4675fc94cec231e55df1a4f81ed10605e785a.jpg",
+                "checksum": "9d7f1809aca4b58e471837a4b585de19"
+            }
+        ],
+        "cardnumber": "3",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=270458",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270458&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29739&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108840&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270458&type=card"
+        ],
+        "cardtext": [
+            "When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.",
+            "When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control."
+        ],
+        "prices": [
+            "£0.20p",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Nightmare Horror",
+        "allsets": [
+            "Torment (Common)",
+            "Time Spiral \"Timeshifted\" (Special)",
+            "Premium Deck Series: Graveborn (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=108880&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32918&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108880&type=card"
+        ],
+        "rating": "4.069",
+        "uid": "108880",
+        "cardname": "Fiery Temper",
+        "artist": "Greg & Tim Hildebrandt",
+        "convertedmana": [
+            "3"
+        ],
+        "rarity": "Special",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=108880&type=card",
+                "path": "full/5582a2d46a2f691b1d56f477e3ba58651b01af2e.jpg",
+                "checksum": "57a76725a94276fd0df4c48b20e81bc1"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32918&type=card",
+                "path": "full/6f66311d306d98aca3d5b49b9f267180f6e998d1.jpg",
+                "checksum": "db98f2e2da20813e8c26f8156e3e119f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=108880&type=card",
+                "path": "full/2347fc77127708fe5ca91691143f41305c6b03eb.jpg",
+                "checksum": "57a76725a94276fd0df4c48b20e81bc1"
+            }
+        ],
+        "cardnumber": "62",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=108880",
+        "expansion": "Time Spiral \"Timeshifted\" (Special)",
+        "cardtext": [
+            "Fiery Temper deals 3 damage to target creature or player.",
+            "Madness",
+            "",
+            "(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)"
+        ],
+        "prices": [
+            "",
+            "",
+            "",
+            "£0.20p"
+        ],
+        "manacost": [
+            "1",
+            "Red",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Torment (Common)",
+            "Time Spiral \"Timeshifted\" (Special)"
+        ]
+    },
+    {
+        "rating": "4.550",
+        "uid": "234428",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Grim Lavamancer",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Michael Sutfin",
+        "expansion": "Magic 2012 (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=234428&type=card",
+                "path": "full/85f2f0fa058287830ca5f85a4f1b3a013f7f9903.jpg",
+                "checksum": "12d4bd0792bac14dc666dc3425ba1bac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234428&type=card",
+                "path": "full/41c4977c7b80fc453b1dc2a9641977893ab59c80.jpg",
+                "checksum": "12d4bd0792bac14dc666dc3425ba1bac"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=36111&type=card",
+                "path": "full/86234afbf2243fd6ac029ddcb65d70d60c42912d.jpg",
+                "checksum": "b3d02367c40150f735306fa6da8c581d"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234706&type=card",
+                "path": "full/ede2a438a58b0312ef5f8aae4cc571b82ecfdcd5.jpg",
+                "checksum": "98afdc4737eccbad7736c3f08149c015"
+            }
+        ],
+        "cardnumber": "145",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=234428",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=234428&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234428&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=36111&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=234706&type=card"
+        ],
+        "cardtext": [
+            ",",
+            ", Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player."
+        ],
+        "prices": [
+            "£2.49p",
+            "£2.99p"
+        ],
+        "manacost": [
+            "Red"
+        ],
+        "flavortext": [
+            "\"Fools dig for water, corpses, or gold. The earth's real treasure is far deeper.\""
+        ],
+        "types": "Creature  — Human Wizard",
+        "allsets": [
+            "Magic 2012 (Rare)",
+            "Torment (Rare)",
+            "Premium Deck Series: Fire and Lightning (Rare)"
+        ]
+    },
+    {
+        "rating": "4.417",
+        "uid": "31869",
+        "pt": [
+            "6 / 3"
+        ],
+        "cardname": "Laquatus's Champion",
+        "convertedmana": [
+            "6"
+        ],
+        "artist": "Greg Staples",
+        "expansion": "Torment (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=31869&type=card",
+                "path": "full/d87fbce466b2d30a903791c1d400d6395b47eec7.jpg",
+                "checksum": "0e68bc139971fbb3a0e9e4c8b4a91638"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31869&type=card",
+                "path": "full/b3f9a0014779fa861809a10ebc0c763769146002.jpg",
+                "checksum": "0e68bc139971fbb3a0e9e4c8b4a91638"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97063&type=card",
+                "path": "full/1243a9c1579afa4a0f3a17c3415363d3424a1110.jpg",
+                "checksum": "79072271a79c2d2bdf7e6bec5684f46f"
+            }
+        ],
+        "cardnumber": "67",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=31869",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=31869&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31869&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=97063&type=card"
+        ],
+        "cardtext": [
+            "When Laquatus's Champion enters the battlefield, target player loses 6 life.",
+            "When Laquatus's Champion leaves the battlefield, that player gains 6 life.",
+            ": Regenerate Laquatus's Champion."
+        ],
+        "prices": [
+            "£1.99p"
+        ],
+        "manacost": [
+            "4",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "Chainer's dark gift to a darker soul."
+        ],
+        "types": "Creature  — Nightmare Horror",
+        "allsets": [
+            "Torment (Rare)",
+            "Promo set for Gatherer (Rare)"
+        ]
+    },
+    {
+        "rating": "3.650",
+        "uid": "368519",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Mesmeric Fiend",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Dana Knutson",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368519&type=card",
+                "path": "full/0b367993ac3fc83a318e3f018d8cbf244a81f921.jpg",
+                "checksum": "c2b8d6903a3f6afdb60f0270eeea6e69"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32211&type=card",
+                "path": "full/4f550b955eb4e255778e7ecbf469dd689671ef8a.jpg",
+                "checksum": "88465bda6b6d33d4886ca76d2766d0e4"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368519&type=card",
+                "path": "full/d4b7961cc8d6b6c469f148a1277fa1e0b11a9247.jpg",
+                "checksum": "c2b8d6903a3f6afdb60f0270eeea6e69"
+            }
+        ],
+        "cardnumber": "7",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368519",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368519&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32211&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368519&type=card"
+        ],
+        "cardtext": [
+            "When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.",
+            "When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand."
+        ],
+        "prices": [
+            "£0.20p"
+        ],
+        "manacost": [
+            "1",
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Nightmare Horror",
+        "allsets": [
+            "Torment (Common)",
+            "Duel Decks: Sorin vs. Tibalt (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=193403&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45320&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26432&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193403&type=card"
+        ],
+        "rating": "3.842",
+        "uid": "193403",
+        "cardname": "Mind Sludge",
+        "artist": "Howard Lyon",
+        "convertedmana": [
+            "5"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=193403&type=card",
+                "path": "full/a6f253eb3590cfc86558a6f0e83afefbad5c437e.jpg",
+                "checksum": "a0e18df565436f31cc37668b36672021"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=45320&type=card",
+                "path": "full/9342e65b2562c2e3e8c20577a6345d250ad3f0e0.jpg",
+                "checksum": "ca85d875fd310fe121698f9f84afd346"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26432&type=card",
+                "path": "full/5aa807ee60d6b3896e1aac0d2135fdd4481f78ee.jpg",
+                "checksum": "b5ef588810334d32abd61948d3b89bb6"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=193403&type=card",
+                "path": "full/3a12376940e9bb527ab7fd32bf4263b4abb5a1ab.jpg",
+                "checksum": "a0e18df565436f31cc37668b36672021"
+            }
+        ],
+        "cardnumber": "102",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=193403",
+        "expansion": "Zendikar (Uncommon)",
+        "cardtext": [
+            "Target player discards a card for each Swamp you control."
+        ],
+        "prices": [
+            "£0.49p",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "manacost": [
+            "4",
+            "Black"
+        ],
+        "flavortext": [
+            "\"Guard your thoughts. You never know who might wish to take them from you.\"",
+            "—Kalitas, Bloodchief of Ghet"
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Eighth Edition (Uncommon)",
+            "Torment (Uncommon)",
+            "Zendikar (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=135259&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=135259&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29960&type=card"
+        ],
+        "rating": "4.048",
+        "uid": "135259",
+        "cardname": "Mortal Combat",
+        "artist": "Mike Ploog",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=135259&type=card",
+                "path": "full/1e0defe2490d847ab59f90c87b92003e91dc388a.jpg",
+                "checksum": "df33c6ce1fb1677f1be4d2d3521dfc98"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=135259&type=card",
+                "path": "full/32212bd756a219c7a7ea8c0b1df34ca5a8408109.jpg",
+                "checksum": "df33c6ce1fb1677f1be4d2d3521dfc98"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29960&type=card",
+                "path": "full/6436ea8ee145211bd3a998e4d23c7111d73418a2.jpg",
+                "checksum": "284ca0379fc5d30bcdbcb54df27d25ec"
+            }
+        ],
+        "cardnumber": "160",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=135259",
+        "expansion": "Tenth Edition (Rare)",
+        "cardtext": [
+            "At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game."
+        ],
+        "prices": [
+            "£0.49p",
+            "£0.48p"
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "The crowd roared, the fighters bled, and the dead piled high in the pits. Only the Cabal could win."
+        ],
+        "types": "Enchantment",
+        "allsets": [
+            "Tenth Edition (Rare)",
+            "Torment (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=265134&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265134&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35194&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201819&type=card"
+        ],
+        "rating": "4.537",
+        "uid": "265134",
+        "cardname": "Mutilate",
+        "artist": "Tyler Jacobson",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=265134&type=card",
+                "path": "full/5d270721544603f4f2da676c118d1aa82989ec44.jpg",
+                "checksum": "b5578aee7040e121f35caaec9835e94c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=265134&type=card",
+                "path": "full/81d2965a66781aee27e968d08af1a1a141c37963.jpg",
+                "checksum": "b5578aee7040e121f35caaec9835e94c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35194&type=card",
+                "path": "full/653071cfbd80a8dec30e1149635c738d396318bd.jpg",
+                "checksum": "5dccbe6e31b9a3e3e2f587adf533f5f5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=201819&type=card",
+                "path": "full/c09915f1ff667733a5cc4ec35413c02d93219330.jpg",
+                "checksum": "12c13a5c93c6794fb5915a933efac560"
+            }
+        ],
+        "cardnumber": "102",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=265134",
+        "expansion": "Magic 2013 (Rare)",
+        "cardtext": [
+            "All creatures get -1/-1 until end of turn for each Swamp you control."
+        ],
+        "prices": [
+            "£1.49p",
+            "£3.99p"
+        ],
+        "manacost": [
+            "2",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "\"It's only torture if you're strong enough to survive. Otherwise, it's a simple, gruesome death. I'm happy with either outcome.\"",
+            "—Liliana Vess"
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Magic 2013 (Rare)",
+            "Torment (Rare)",
+            "Duel Decks: Garruk vs. Liliana (Rare)"
+        ]
+    },
+    {
+        "rating": "4.580",
+        "uid": "205229",
+        "pt": [
+            "2 / 1"
+        ],
+        "cardname": "Nantuko Shade",
+        "convertedmana": [
+            "2"
+        ],
+        "artist": "Brian Snoddy",
+        "expansion": "Magic 2011 (Rare)",
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205229&type=card",
+                "path": "full/c6fe4ace36a2ae1939ebc8e84f2f87088d67f1e4.jpg",
+                "checksum": "b257a98ff13d6d2c985c28f53d6a60b5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205229&type=card",
+                "path": "full/b4579512ae80f907e42e9c557587ae5166ddc46e.jpg",
+                "checksum": "b257a98ff13d6d2c985c28f53d6a60b5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35053&type=card",
+                "path": "full/507d0cd69467172502e07d1357480140447b42e9.jpg",
+                "checksum": "c0f55ee947b0eb243fdd2c411ae519a2"
+            }
+        ],
+        "cardnumber": "106",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=205229",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=205229&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=205229&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35053&type=card"
+        ],
+        "cardtext": [
+            ": Nantuko Shade gets +1/+1 until end of turn."
+        ],
+        "prices": [
+            "£0.99p",
+            "£1.99p"
+        ],
+        "manacost": [
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "In life, the nantuko study nature by revering it. In death, they study nature by disemboweling it."
+        ],
+        "types": "Creature  — Insect Shade",
+        "allsets": [
+            "Magic 2011 (Rare)",
+            "Torment (Rare)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373405&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32232&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370742&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373405&type=card"
+        ],
+        "rating": "3.286",
+        "uid": "373405",
+        "cardname": "Pay No Heed",
+        "artist": "Adam Rex",
+        "convertedmana": [
+            "1"
+        ],
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=373405&type=card",
+                "path": "full/0975eea95f9de2cd3d4a8c370282bdc1e82e32e6.jpg",
+                "checksum": "3824cddbf8782b52e27997561096091f"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32232&type=card",
+                "path": "full/6e0696b7b6bdf2e715d2ac2c88d15729cc9d257a.jpg",
+                "checksum": "cdcbb48d92045557834faea85ec0d599"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370742&type=card",
+                "path": "full/ca4f8806bc5e550d92ef0ef97e9cb44b378ec6aa.jpg",
+                "checksum": "3dd770e3842db4e893aff19a98eca4cb"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=373405&type=card",
+                "path": "full/fed29b19fcf679e8550f57582120bf865d69132f.jpg",
+                "checksum": "3824cddbf8782b52e27997561096091f"
+            }
+        ],
+        "cardnumber": "19",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=373405",
+        "expansion": "Duel Decks: Heroes vs. Monsters (Common)",
+        "cardtext": [
+            "Prevent all damage a source of your choice would deal this turn."
+        ],
+        "prices": [
+            "£0.10p",
+            "£0.20p"
+        ],
+        "manacost": [
+            "White"
+        ],
+        "flavortext": [
+            "\"My course is before me. There is nothing behind me.\""
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Torment (Common)",
+            "Magic 2014 Core Set (Common)",
+            "Duel Decks: Heroes vs. Monsters (Common)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=129883&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=84413&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129883&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29824&type=card"
+        ],
+        "rating": "3.500",
+        "uid": "129883",
+        "cardname": "Plagiarize",
+        "artist": "Jeremy Jarvis",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Rare",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=129883&type=card",
+                "path": "full/4879475297b043ec83cbff6cb655b6582e4ccf93.jpg",
+                "checksum": "7b5b14048e8ad1df129d34efb86b1cd7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=84413&type=card",
+                "path": "full/ba437c6dac4a2a73332e56b9b4d5d675e5fe5a76.jpg",
+                "checksum": "bd288570d12fbe91ad80ba5486dccfe9"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129883&type=card",
+                "path": "full/91720d1c9ea3b14b99282aaa14de3f583f2a1bc4.jpg",
+                "checksum": "7b5b14048e8ad1df129d34efb86b1cd7"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=29824&type=card",
+                "path": "full/565afd39a4bde1d5476cdf9d260990873c790b27.jpg",
+                "checksum": "b16da692ef273a9ebe44b4f1a031c77f"
+            }
+        ],
+        "cardnumber": "97",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=129883",
+        "expansion": "Tenth Edition (Rare)",
+        "cardtext": [
+            "Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card."
+        ],
+        "prices": [
+            "£0.48p",
+            "£0.49p",
+            "£0.49p"
+        ],
+        "manacost": [
+            "3",
+            "Blue"
+        ],
+        "flavortext": [
+            "\"Are you thinking what I'm thinking?\""
+        ],
+        "types": "Instant",
+        "allsets": [
+            "Ninth Edition (Rare)",
+            "Tenth Edition (Rare)",
+            "Torment (Rare)"
+        ]
+    },
+    {
+        "rating": "4.191",
+        "uid": "270459",
+        "pt": [
+            "1 / 1"
+        ],
+        "cardname": "Putrid Imp",
+        "convertedmana": [
+            "1"
+        ],
+        "artist": "Wayne England",
+        "expansion": "Premium Deck Series: Graveborn (Common)",
+        "rarity": "Common",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270459&type=card",
+                "path": "full/6c0ddac6e0078300a7863f32364e9f0c1300c757.jpg",
+                "checksum": "a8c787e166f2a743020260da2f822e8a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34470&type=card",
+                "path": "full/c0c28fe50d3a64181760f2650c4292f2d594a05a.jpg",
+                "checksum": "3df8efcf167b21f39a3e938e88b38231"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270459&type=card",
+                "path": "full/a8f243750527c4c48969291e69c439b9397b77e2.jpg",
+                "checksum": "a8c787e166f2a743020260da2f822e8a"
+            }
+        ],
+        "cardnumber": "1",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=270459",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270459&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=34470&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270459&type=card"
+        ],
+        "cardtext": [
+            "Discard a card: Putrid Imp gains flying until end of turn.",
+            "Threshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block."
+        ],
+        "prices": [
+            "£0.95p"
+        ],
+        "manacost": [
+            "Black"
+        ],
+        "flavortext": [],
+        "types": "Creature  — Zombie Imp",
+        "allsets": [
+            "Torment (Common)",
+            "Premium Deck Series: Graveborn (Common)"
+        ]
+    },
+    {
+        "rating": "3.870",
+        "uid": "370724",
+        "pt": [
+            "4 / 4"
+        ],
+        "cardname": "Sengir Vampire",
+        "convertedmana": [
+            "5"
+        ],
+        "artist": "Kev Walker",
+        "expansion": "Magic 2014 Core Set (Uncommon)",
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370724&type=card",
+                "path": "full/ed95bc8cb7ed856ca044f0371b8d6b22b59b0339.jpg",
+                "checksum": "dda94e8e795f598774570124efe79ec8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83&type=card",
+                "path": "full/f785f6af8d68fe0661dad7d22f216496f45da8ac.jpg",
+                "checksum": "da641afb000e8d59efec5aa31e58bf13"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378&type=card",
+                "path": "full/048e4c3d02aed870b68bf6dc0fd16728f63632b5.jpg",
+                "checksum": "5d199d7279ab07dea70c74331765111c"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=680&type=card",
+                "path": "full/f34bfce29e809175d4773fff073a300735938be6.jpg",
+                "checksum": "1f316bcc82be3ba6e8be889655d1955a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1179&type=card",
+                "path": "full/9bef1c4b0e8fac4fc9deea2898ed58a281a5c741.jpg",
+                "checksum": "0d2d0911238c200959344ffef590b08a"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2127&type=card",
+                "path": "full/c438263193c241cf1d091e09253e440506b34f31.jpg",
+                "checksum": "4d3a1ced2c270d2f9710541b6ac99241"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=84688&type=card",
+                "path": "full/bff3bec6e806f4509d6780212dd410374feb1334.jpg",
+                "checksum": "40fbfa821cf38d613586d4de15deef15"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129724&type=card",
+                "path": "full/fa6117520df58c2567bfc6c4fdaa2c2d3025308a.jpg",
+                "checksum": "26194848843f863afbe5128a415844a3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244253&type=card",
+                "path": "full/ee576b94eee72cc8518cb9299d3d27b106f43b21.jpg",
+                "checksum": "44a9361825547420f4233e5cc8498d85"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35086&type=card",
+                "path": "full/4f243a66aa85c2d270bc5d2540520b963acf54c4.jpg",
+                "checksum": "67250ebe6eaae57ffde7e52b966e4aa3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21169&type=card",
+                "path": "full/046a68e73358af52153da2e862a310b2d1ec87de.jpg",
+                "checksum": "59d101db364382ceb4b7d922337fcb87"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26607&type=card",
+                "path": "full/81d31a9c889067bb7027b054f67c87df3f8fa12a.jpg",
+                "checksum": "e01b8dcf44e6e6e62df5dca5fb90d8fe"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368525&type=card",
+                "path": "full/aa63d3261b2f4cfe7f6d123900b3b8355763778f.jpg",
+                "checksum": "4bebfd01bb900ccfdfc05c2200fe1706"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370724&type=card",
+                "path": "full/de9cb1466509588f18c0c455344959f138654aee.jpg",
+                "checksum": "dda94e8e795f598774570124efe79ec8"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220960&type=card",
+                "path": "full/17775ad552792650a426cde165aeb6f17abc8154.jpg",
+                "checksum": "da641afb000e8d59efec5aa31e58bf13"
+            }
+        ],
+        "cardnumber": "113",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=370724",
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=370724&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=83&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=378&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=680&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=1179&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=2127&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=84688&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129724&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=244253&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35086&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=21169&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=26607&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368525&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=370724&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=220960&type=card"
+        ],
+        "cardtext": [
+            "Flying",
+            "Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+        ],
+        "prices": [
+            "£0.99p",
+            "£1.45p",
+            "£1.45p",
+            "£0.99p",
+            "£1.99p",
+            "£0.20p",
+            "£1.99p",
+            "£0.25p",
+            "£1.45p"
+        ],
+        "manacost": [
+            "3",
+            "Black",
+            "Black"
+        ],
+        "flavortext": [
+            "Empires rise and fall, but evil is eternal."
+        ],
+        "types": "Creature  — Vampire",
+        "allsets": [
+            "Limited Edition Alpha (Uncommon)",
+            "Limited Edition Beta (Uncommon)",
+            "Unlimited Edition (Uncommon)",
+            "Revised Edition (Uncommon)",
+            "Fourth Edition (Uncommon)",
+            "Ninth Edition (Rare)",
+            "Tenth Edition (Rare)",
+            "Magic 2012 (Uncommon)",
+            "Torment (Rare)",
+            "Battle Royale Box Set (Uncommon)",
+            "Beatdown Box Set (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+            "Magic 2014 Core Set (Uncommon)",
+            "Masters Edition IV (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270460&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35063&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270460&type=card"
+        ],
+        "rating": "3.548",
+        "uid": "270460",
+        "cardname": "Sickening Dreams",
+        "artist": "Scott M. Fischer",
+        "convertedmana": [
+            "2"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=270460&type=card",
+                "path": "full/f574386eeba0b9948eaa8c844607de50ed949f7c.jpg",
+                "checksum": "c9fa4da69d16e5df89b0f9855e2d16cc"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=35063&type=card",
+                "path": "full/bcf95ade2fe24a1b96df8683968d8bfbad045851.jpg",
+                "checksum": "e4b8ff5ae92b87fa890375557576fde3"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=270460&type=card",
+                "path": "full/9e14902021ba4bd0ca277a11fcb5bb8ce3657bd1.jpg",
+                "checksum": "c9fa4da69d16e5df89b0f9855e2d16cc"
+            }
+        ],
+        "cardnumber": "18",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=270460",
+        "expansion": "Premium Deck Series: Graveborn (Uncommon)",
+        "cardtext": [
+            "As an additional cost to cast Sickening Dreams, discard X cards.",
+            "Sickening Dreams deals X damage to each creature and each player."
+        ],
+        "prices": [
+            "£0.35p"
+        ],
+        "manacost": [
+            "1",
+            "Black"
+        ],
+        "flavortext": [
+            "The Patriarch dreams of vile plague."
+        ],
+        "types": "Sorcery",
+        "allsets": [
+            "Torment (Uncommon)",
+            "Premium Deck Series: Graveborn (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271239&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31758&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271239&type=card"
+        ],
+        "rating": "4.528",
+        "uid": "271239",
+        "cardname": "Tainted Isle",
+        "artist": "Alan Pollack",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=271239&type=card",
+                "path": "full/dcdde96762e05be4e769a4a132c985411bfa04b5.jpg",
+                "checksum": "c87a97ab0b58f44889d73e81195a4c82"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31758&type=card",
+                "path": "full/b1fff1299a0a17e6d7b83f483379e3bb6a8d3f03.jpg",
+                "checksum": "8cde484b609103fb6b7e485f38b89e52"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=271239&type=card",
+                "path": "full/c87aa37404b5b901b27e9df1f041523ed5bb05e5.jpg",
+                "checksum": "c87a97ab0b58f44889d73e81195a4c82"
+            }
+        ],
+        "cardnumber": "128",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=271239",
+        "expansion": "Planechase 2012 Edition (Uncommon)",
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            ": Add",
+            "or",
+            "to your mana pool. Activate this ability only if you control a Swamp."
+        ],
+        "prices": [
+            "£1.99p",
+            "£0.95p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Torment (Uncommon)",
+            "Planechase 2012 Edition (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368529&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31757&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368529&type=card"
+        ],
+        "rating": "4.318",
+        "uid": "368529",
+        "cardname": "Tainted Field",
+        "artist": "Don Hazeltine",
+        "convertedmana": [],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=368529&type=card",
+                "path": "full/1f55018ef72c0373c2e1c067dbfcdb3b02c2d62d.jpg",
+                "checksum": "88f007f35d14d6c92bc102aea8ca0fb5"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=31757&type=card",
+                "path": "full/ea541b8c4cc0209c5dc003e6b704d62979a3e182.jpg",
+                "checksum": "19b935b2a0865cb33343f1c063896375"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=368529&type=card",
+                "path": "full/3499d7e081bde66f7807d7975075690d4ce1dc22.jpg",
+                "checksum": "88f007f35d14d6c92bc102aea8ca0fb5"
+            }
+        ],
+        "cardnumber": "34",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=368529",
+        "expansion": "Duel Decks: Sorin vs. Tibalt (Uncommon)",
+        "cardtext": [
+            ": Add",
+            "to your mana pool.",
+            ": Add",
+            "or",
+            "to your mana pool. Activate this ability only if you control a Swamp."
+        ],
+        "prices": [
+            "£1.49p"
+        ],
+        "manacost": [],
+        "flavortext": [],
+        "types": "Land",
+        "allsets": [
+            "Torment (Uncommon)",
+            "Duel Decks: Sorin vs. Tibalt (Uncommon)"
+        ]
+    },
+    {
+        "image_urls": [
+            "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243490&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32236&type=card",
+            "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243490&type=card"
+        ],
+        "rating": "2.288",
+        "uid": "243490",
+        "cardname": "Temporary Insanity",
+        "artist": "Mark Romanoski",
+        "convertedmana": [
+            "4"
+        ],
+        "rarity": "Uncommon",
+        "images": [
+            {
+                "url": "http://gatherer.wizards.com/Pages/Card/../../Handlers/Image.ashx?multiverseid=243490&type=card",
+                "path": "full/595da67daa9f52f1ea53ac1801cc7b17557a0383.jpg",
+                "checksum": "1c1cff3cad8f756373f8b18ea7aa3d40"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=32236&type=card",
+                "path": "full/6a97aafab23e1a27ebc1afb835787cf4240d40f1.jpg",
+                "checksum": "295ecbb44852cd3ba6f744c848e873ad"
+            },
+            {
+                "url": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=243490&type=card",
+                "path": "full/5eeb6068678680bf257c9aeeb4dff0938c454bd7.jpg",
+                "checksum": "1c1cff3cad8f756373f8b18ea7aa3d40"
+            }
+        ],
+        "cardnumber": "73",
+        "link": "http://gatherer.wizards.com/Pages/Search/../Card/Details.aspx?multiverseid=243490",
+        "expansion": "Duel Decks: Knights vs. Dragons (Uncommon)",
+        "cardtext": [
+            "Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn."
+        ],
+        "prices": [
+            "£0.35p"
+        ],
+        "manacost": [
+            "3",
+            "Red"
+        ],
+        "flavortext": [],
+        "types": "Instant",
+        "allsets": [
+            "Torment (Uncommon)",
+            "Duel Decks: Knights vs. Dragons (Uncommon)"
+        ]
+    }
+]

@@ -1,3 +1,8 @@
+Looking for MTG cards data?
+===========================
+- The output for this set of scripts is included in the `output` folder.
+- A better source for this information might be: http://mtgjson.com/
+
 Introduction
 ============
 
